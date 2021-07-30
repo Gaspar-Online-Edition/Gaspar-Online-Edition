@@ -1,16 +1,17 @@
-@dummy	Gas01	Masses <hr noshade>
+@dummy	Gas01	<h2>Masses </h2>
 
-@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	Missa Ave Regina
+@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	Missa Ave regina
 Gas0101a-Missa_ave_regina_Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_ave_regina_Gloria.krn	Gas0101b	Gloria
 
-@dummy	Gas03	<br> Motets <hr noshade>
+@dummy	Gas03	<br> </div><h2>Motets</h2>
 
 @Gas0501a:Gas0501b:Gas0501c:Gas0501d	Gas0501	Lamentations
-Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	A_Giovedi_Lectio_secunda
+Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	A Giovedi Lectio secunda
 
-@dummy	Gas05	<br> Songs <hr noshade>
+@dummy	Gas0502	<br> </div><h2>Songs</h2>
 
-Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	Que_fait_le_cocu_au_bois
-Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	Que_fait_le_cocu_au_bois
-Gas0505-Sans_regretz.krn	Gas0505	Sans_regretz.krn
+Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	Que fait le cocu au bois
+Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	Que fait le cocu au bois
+Gas0505-Sans_regretz.krn	Gas0505	Sans regretz
+
