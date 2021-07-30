@@ -1,7 +1,7 @@
 !!!RNB: ligatures and colorations need to be added
-!!!COM: Gaspar van Weerbecke
+!!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
-!!!PDT: Missa Ave regina celorum
+!!!OPR: Missa Ave regina celorum
 !!!OTL: Gloria
 !!!AGN: Mass
 !!!SCT: Gas0101b
@@ -287,7 +287,7 @@
 2FF	.	2A	.	.	4F	.	4r	.
 .	.	.	.	.	[4c	Do-	[4A	Do-
 =33	=33	=33	=33	=33	=33	=33	=33	=33
-2FF	Do-	2F	-pter...	.	4c]	.	4A]	.
+2FF	Do-	2F	-pter.	.	4c]	.	4A]	.
 .	.	.	.	.	4A	.	4F	.
 2EE-i	.	2r	.	.	2G	.	2B-y	.
 4.FF	-mi-	2r	.	.	4.F	.	4A	.
@@ -948,15 +948,14 @@
 =147	=147	=147	=147	=147	=147	=147	=147	=147
 2E-]	.	2B-]	.	.	2G]	.	4g]	.
 .	.	.	.	.	.	.	4f	.
-2F	.	2A	.	.	[2cl	.	[2f	.
+2F	.	2A	.	.	[2c	.	[2f	.
 =148	=148	=148	=148	=148	=148	=148	=148	=148
-[1Cl	.	[1Gl	-men.	.	[1c]	.	2f]	.
+1C	.	1G	-men.	.	1c]	.	2f]	.
 .	.	.	.	.	.	.	2e	.
 =149	=149	=149	=149	=149	=149	=149	=149	=149
-*^	*	*^	*	*	*^	*	*	*
-1C]	1FF	.	1G]	1F	.	.	1c]	1A 1c	.	1fl	-men.
-*v	*v	*	*	*	*	*	*v	*v	*	*	*
-*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*	*^	*	*	*
+1FFl	.	1Fl	.	.	1A\l	1c/l	.	1fl	-men.
+*	*	*	*	*	*v	*v	*	*	*
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
