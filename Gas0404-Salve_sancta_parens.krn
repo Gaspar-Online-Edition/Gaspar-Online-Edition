@@ -1,0 +1,215 @@
+!!!ONB: Editor?
+!!!RNB: ligatures/coloration need to be added/checked
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OTL: Salve sancta parens
+!!!AGN: Motet
+!!!SCT: Gas0404
+!!!SCA: Gas0404
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*d:	*	*d:	*	*d:	*	*d:	*
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+2G	San-	2G	San-	2d	San-	1g	San-
+*lig	*	*lig	*	*	*	*	*
+2E	-cta	2G	-cta	2e	.	.	.
+2D	.	2F	.	4.f	-cta	2a	-cta
+*Xlig	*	*Xlig	*	*	*	*	*
+.	.	.	.	8e	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	2G	pa-	4d	pa-	4b-y	pa-
+4GG	pa-	.	.	8cL	.	8aL	.
+.	.	.	.	8B-yJ	.	8gJ	.
+*lig	*	*	*	*	*	*	*
+2D	-rens,	2A	.	4A	.	2f	.
+.	.	.	.	4d	.	.	.
+2GG	.	4.B-y	.	4.d	.	4.g	.
+*Xlig	*	*	*	*	*	*	*
+.	.	8A	.	8c	.	8f	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4r	.	4G	.	4B-y	.	4e-i	.
+*	*edit	*	*	*	*	*lig	*
+4D	pa-	4F	.	4A	.	2d	.
+4BB-y	.	2G	.	4.B-y	.	.	.
+4GG	.	.	.	.	.	2g	.
+*	*	*	*	*	*	*Xlig	*
+.	.	.	.	8c	.	.	.
+2D	.	2A	.	2d	-rens,	.	.
+.	.	.	.	.	.	4f#i	.
+!!LO:LB:g=original
+=4	=4	=4	=4	=4	=4	=4	=4
+2GG	-rens,	2G	-rens,	2e	.	2g	-rens,
+2r	.	2F	e-	2f	.	2a	e-
+*	*Xedit	*	*	*	*	*	*
+2G	e-	2G	.	2d	.	4.b-y	.
+.	.	.	.	.	.	8a	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4E-i	.	2.B-y	-ni-	2r	.	4g	.
+4D	.	.	.	.	.	2f	-ni-
+2BB-y	-ni-	.	.	2.f	e-	.	.
+.	.	4d	.	.	.	2b-y	.
+2F	.	2c	.	.	.	.	.
+.	.	.	.	4f	-ni-	4a	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2BB-y	-xa	2B-y	-xa	2d	-xa	2b-y	-xa
+2GG	pu-	2B-y	pu-	4r	.	2dd	pu-
+.	.	.	.	4.g	pu-	.	.
+4GG	-er-	4B-y	-er-	.	.	4dd	-er-
+.	.	.	.	16fLL	.	.	.
+.	.	.	.	16eJJ	.	.	.
+4GG	-pe-	4B-y	-pe-	[4d	-er-	4dd	-pe-
+=7	=7	=7	=7	=7	=7	=7	=7
+2G	-ra	2B-y	-ra	4d]	.	2dd	-ra
+.	.	.	.	4e	.	.	.
+2F	.	2A	.	2f	.	2cc	.
+2G	re-	4r	.	2d	-pe-	4b-y	re-
+.	.	4B-y	re-	.	.	4g	.
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+4F	.	4c	.	4.f	-ra	4a	.
+4D	.	4d	.	.	.	4.b-y	.
+.	.	.	.	8e	.	.	.
+2G	.	4G	.	1d	.	.	.
+.	.	.	.	.	.	8a	.
+.	.	4B-y	.	.	.	2g	.
+2D	-gem,	2A	.	.	.	.	.
+.	.	.	.	.	.	4f#i	.
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*edit	*	*	*	*	*	*
+2GG	re-	2G	-gem,	4.B-y	re-	2g	-gem,
+.	.	.	.	8c	.	.	.
+2.G	.	4r	.	2d	.	2g	qui
+.	.	2B-y	qui	.	.	.	.
+.	.	.	.	2G	-gem,	2b-y	ce-
+4D	.	[4d	ce-	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+4F	.	4d]	.	2r	.	2a	-lum
+4A	.	4c	-lum	.	.	.	.
+*	*	*	*	*	*edit	*	*
+2G	.	4d	.	2d	re-	4b-y	.
+.	.	4B-y	ter-	.	.	4g	ter-
+2F	.	4c	.	2f	.	4a	.
+.	.	4A	.	.	.	4cc	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4.G	.	4G	-ram-	4e-i	.	4b-y	-ram-
+.	.	4B-y	.	4d	.	8a	.
+8E	.	.	.	.	.	4g	.
+4F	.	4A	.	4c	.	.	.
+.	.	.	.	.	.	8f	.
+4D	.	4F	.	2f	.	2f	-que
+2GG	-gem,	2G	-que	.	.	.	.
+.	.	.	.	4enj	.	4b-y	re-
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12	=12	=12
+4r	.	4F	re-	4f	-gem,	4a	.
+*	*Xedit	*	*	*	*	*	*
+4C	qui	4E	.	4c	.	4.g	.
+4D	.	4F	.	4r	.	.	.
+.	.	.	.	.	.	8f	.
+*	*	*	*	*	*Xedit	*	*
+4F	.	4A	.	2.c	qui	2f	.
+2C	ce-	2G	.	.	.	.	.
+.	.	.	.	.	.	4e	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1D	.	1F	-git	4A	.	2f	-git
+.	.	.	.	4.d	ce-	.	.
+.	.	.	.	.	.	2a	.
+.	.	.	.	8c	.	.	.
+.	.	.	.	4d	.	.	.
+2GG	-lum	2G	in	4B-y	.	2b-y	in
+.	.	.	.	[4G	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2r	.	2B-y	se-	4G]	.	4g	se-
+.	.	.	.	4B-y	.	2dd	.
+2r	.	2A	.	2c	-lum	.	.
+.	.	.	.	.	.	4cc	.
+2G	ter-	2B-y	.	2d	.	4b-y	.
+.	.	.	.	.	.	4g	.
+=15	=15	=15	=15	=15	=15	=15	=15
+4.F	-ram-	2c	-cu-	4r	.	4a	.
+.	.	.	.	4A	ter-	4cc	.
+8E	.	.	.	.	.	.	.
+4D	.	4d	.	4B-y	.	4b-y	.
+4E	.	4G	.	4c	.	2g	-cu-
+2D	.	2A	.	[2d	-ram-	.	.
+.	.	.	.	.	.	4f#i	.
+!!LO:PB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16
+1GG	-que	1G	-la	4d]	.	1g	-la
+.	.	.	.	4e-j	.	.	.
+*	*	*	*	*	*edit	*	*
+.	.	.	.	4d	-que	.	.
+.	.	.	.	2g	re-	.	.
+2D	re-	2r	.	.	.	2a	se-
+.	.	.	.	4f#i	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2GG	-git	2G	se-	2g	-git	2b-y	-cu-
+2r	.	2A	.	2e	.	4.cc	-lo-
+.	.	.	.	.	.	8b-y	.
+2G	in	2B-y	.	2d	.	2g	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2F	se-	4.c	-cu-	2r	.	2a	.
+.	.	8B-y	.	.	.	.	.
+4.G	.	2G	.	2d	in	4.b-y	.
+8F	.	.	.	.	.	8a	.
+2D	.	2A	.	4d	se-	2f	.
+.	.	.	.	4d	-cu-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2GG	-cu-	4.B-y	-lo-	4d	-la	2g	.
+.	.	.	.	8cL	.	.	.
+.	.	8A	.	8B-yJ	.	.	.
+2D	.	2F	.	2A	.	2a	.
+2GG	-la	4.G	.	2G	.	2b-y	.
+.	.	8F	.	.	.	.	.
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20	=20	=20
+4r	.	2D	.	1.r	.	4a	-rum,
+4D	se-	.	.	.	.	4f	.
+4.D	.	4r	.	.	.	4.a	se-
+.	.	4.d	.	.	.	.	.
+8E	.	.	.	.	.	8g	.
+4F	.	.	.	.	.	8fL	.
+.	.	8cL	.	.	.	8eJ	.
+4G	.	8B-y	.	.	.	4d	.
+.	.	8AJ	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+4E	.	4G	.	4c	se-	4e	.
+4D	.	4A	.	4d	.	4f	.
+4G	.	4B-y	.	4e	.	4g	.
+4F	.	4c	.	4f	.	4a	.
+2C	-cu-	2e-X	.	4e-i	.	4g	.
+.	.	.	.	[4g	-cu-	4cc	-cu-
+=22	=22	=22	=22	=22	=22	=22	=22
+4G	-lo-	2d	.	4g]	.	4b-y	.
+4D	.	.	.	4.f	-lo-	4.a	-lo-
+4F	.	4c	.	.	.	.	.
+.	.	.	.	8e-i	.	8g	.
+4G	.	4B-y	.	2.d	.	4.g	.
+2D	.	2A	.	.	.	.	.
+.	.	.	.	.	.	8f#iL	.
+.	.	.	.	.	.	8f#i	.
+.	.	.	.	.	.	8eJ	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1.GGl	-rum.	1.Gl	-rum.	2B-	-rum.	1.gl	-rum.
+.	.	.	.	1dl	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PDT: Pavanello, Agnese
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/08/04
