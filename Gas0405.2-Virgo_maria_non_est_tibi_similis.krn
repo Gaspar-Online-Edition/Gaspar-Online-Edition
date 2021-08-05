@@ -1,0 +1,277 @@
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OTL: Virgo Maria, non est tibi similis
+!!!ONB: organ intabulation
+!!!AGN: Motet
+!!!SCT: Gas0405.2
+!!!SCA: Gas0405.2
+!!!voices:
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M2/2	*M2/2
+*met(C|)	*met(C|)
+=1	=1
+*^	*^
+1E	1E	1e	1B
+=2	=2	=2	=2
+1E	1E	1e	1B
+=3	=3	=3	=3
+2G	2C	2e	2c
+2G	2E	2e	4.B
+.	.	.	8c
+=4	=4	=4	=4
+2.A	1D	2.f	1d
+4B	.	8eL	.
+.	.	8dJ	.
+=5	=5	=5	=5
+1c	1C	1e	1G
+=6	=6	=6	=6
+1c	1C	2e	2.g
+.	.	[2g	.
+.	.	.	4e
+=7	=7	=7	=7
+2c	2E	2g]	8rc
+.	.	.	8dL
+.	.	.	8c
+.	.	.	8BJ
+2c	2F	2a	2A
+=8	=8	=8	=8
+4rc	2D	2b	2d
+4F	.	.	.
+4E	4C	4cc	4e
+[4D	[4BB-X	[4dd	[4f
+!!LO:LB:g=original
+=9	=9	=9	=9
+4D]	4BB-]	4dd]	4f]
+2E	4C	8ccL	4e
+.	.	8bJ	.
+.	2AA	[2cc	2d
+4F#X	.	.	.
+=10	=10	=10	=10
+1G	1GG	2cc]	1d
+.	.	2b	.
+=11	=11	=11	=11
+4.E	1C	1cc	1c
+8F	.	.	.
+4G	.	.	.
+4A	.	.	.
+=12	=12	=12	=12
+1c	1rD	2rb	8rc
+.	.	.	8B
+.	.	.	4c
+.	.	2cc	8cL
+.	.	.	8dJ
+.	.	.	4e
+=13	=13	=13	=13
+2A	1rD	2cc	8rc
+.	.	.	8f
+.	.	.	2g
+2A	.	2cc	.
+.	.	.	4f#X
+=14	=14	=14	=14
+4G	2G	2b	2g
+4B	.	.	.
+4c	4A	4a	4f
+4d	4G	4b	[4g
+=15	=15	=15	=15
+8rc	8rD	8ra	4g]
+8A	8F	8a	.
+4c	4A	2a	2e
+2B	2E	.	.
+.	.	4g#i	4e
+!!LO:LB:g=original
+=16	=16	=16	=16
+1A	1AA	1a	4.c
+.	.	.	8d
+.	.	.	8eL
+.	.	.	8fJ
+.	.	.	[4e
+=17	=17	=17	=17
+1rc	2A	1rb	4e]
+.	.	.	8dL
+.	.	.	8cJ
+.	4G	.	4B
+.	4F	.	4d
+=18	=18	=18	=18
+1ryy	4G	1rb	4rc
+.	4E	.	2c
+.	2D	.	.
+.	.	.	4B
+=19	=19	=19	=19
+1ryy	1C	2rb	1c
+.	.	2e	.
+=20	=20	=20	=20
+2rF	1C	2g	4.c
+.	.	.	8d
+2E	.	2g	4.e
+.	.	.	8d
+=21	=21	=21	=21
+2G	1C	1e	4c
+.	.	.	8BL
+.	.	.	8AJ
+2G	.	.	4G
+.	.	.	4c
+=22	=22	=22	=22
+1E	1C	2rb	8rc
+.	.	.	8dL
+.	.	.	8e
+.	.	.	8fJ
+.	.	2g	8gL
+.	.	.	8f
+.	.	.	8e
+.	.	.	8dJ
+!!LO:LB:g=original
+=23	=23	=23	=23
+2rc	2F	2a	2c
+2G	8EL	4g	2e
+.	8D	.	.
+.	8C	[4e	.
+.	8BBJ	.	.
+=24	=24	=24	=24
+2A	2AA	4e]	4rA
+.	.	8dL	4f
+.	.	8cJ	.
+4G	4E	4.B	2e
+[4E	4AA	.	.
+.	.	8c	.
+=25	=25	=25	=25
+4E]	2C	4d	2c
+4G	.	2e	.
+2F	2D	.	2A
+.	.	4d	.
+=26	=26	=26	=26
+1E	2ryy	2e	1rc
+.	2AA	2rb	.
+*	*	*v	*v
+=27	=27	=27
+2rD	4GG	1r
+.	4GG	.
+2A	2C	.
+=28	=28	=28
+4G	2BB	1r
+4G	.	.
+2c	4AA	.
+.	[4E	.
+=29	=29	=29
+2B	4E]	1r
+.	4D	.
+4A	4C	.
+4B	4D	.
+!!LO:LB:g=original
+=30	=30	=30
+8rc	8rD	[1r
+8AL	8CL	.
+8G#i	8BB	.
+8F#iJ	8AAJ	.
+2G#X	2BB	.
+=31	=31	=31
+*	*	*^
+1A	1AA	1ryy	2r
+.	.	.	2A
+=32	=32	=32	=32
+1rc	1rBB	2ra	4G
+.	.	.	4G
+.	.	2a	2c
+=33	=33	=33	=33
+1rc	2rBB	4g	2B
+.	.	4g	.
+.	2A	2cc	4A
+.	.	.	[4e
+=34	=34	=34	=34
+1rc	2G	2b	4e]
+.	.	.	4d
+.	2A	4a	4c
+.	.	4cc	[4e
+=35	=35	=35	=35
+1rcyy	4E	8rb	8e]
+.	.	8b	8d
+.	4A	2a	4c
+.	2E	.	2B
+.	.	4g#i	.
+=36	=36	=36	=36
+1E	1AA	1a	1A
+=37	=37	=37	=37
+2E	2AA	2a	2c
+2E	2AA	2a	2c
+!!LO:LB:g=original
+=38	=38	=38	=38
+1F	1D	1a	2f
+.	.	.	4A
+.	.	.	4d
+=39	=39	=39	=39
+2D	2D	2a	8rc
+.	.	.	8e
+.	.	.	2f
+2D	2F	2a	.
+.	.	.	8eL
+.	.	.	8dJ
+=40	=40	=40	=40
+1E	1G	1g	4c
+.	.	.	2d
+.	.	.	4c#i
+=41	=41	=41	=41
+1A	1D	1f	1d
+=42	=42	=42	=42
+2A	2AA	2e	2c
+4F	4D	4d	4A
+[4G	[4C	[4e	[4c
+=43	=43	=43	=43
+4G]	4C]	4e]	4c]
+4F	4D	2d	4B
+2E	2AA	.	2A
+.	.	4c#i	.
+=44	=44	=44	=44
+1D	1A	1d	2F
+.	.	.	2A
+=45	=45	=45	=45
+1A	1D	1f	2rc
+.	.	.	2d
+!!LO:LB:g=original
+=46	=46	=46	=46
+2c	1C	2e	2.G
+2G	.	2g	.
+.	.	.	[4c
+=47	=47	=47	=47
+2.E	1C	4rb	4c]
+.	.	4f	8BL
+.	.	.	8AJ
+.	.	[2e	4G
+4G	.	.	4c
+=48	=48	=48	=48
+1F	1D	2e]	4B
+.	.	.	2A
+.	.	2d	.
+.	.	.	8GL
+.	.	.	8AJ
+=49	=49	=49	=49
+1E	1G	1e	1B
+=50	=50	=50	=50
+1E	2.C	1e	2c
+.	.	.	2G
+.	4BB	.	.
+=51	=51	=51	=51
+1E	2AA	1e	2A
+.	2GG	.	2B
+=52	=52	=52	=52
+1E	1AA	1e	2.c
+.	.	.	8BL
+.	.	.	8AJ
+=53	=53	=53	=53
+1E	1E	1e	1B
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PDT: Pavanello, Agnese
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/08/05
