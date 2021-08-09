@@ -1,5 +1,4 @@
-!!!ONB: Editor?
-!!!RNB: ligatures/coloration need to be added/checked
+!!!ONB: YEC Vol. 4?
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Ave mater omnium
@@ -81,6 +80,7 @@
 .	.	4A	-ri-	4E	vi-	.	.
 !!LO:LB:g=original
 =9	=9	=9	=9	=9	=9	=9	=9
+*	*	*col	*	*	*	*	*
 1.r	.	2B-y	-um,	4.G	-ra-	4d	-go
 .	.	.	.	.	.	8gL	.
 .	.	.	.	8DL	.	8f	.
@@ -88,16 +88,20 @@
 .	.	.	.	8DJ	.	8fJ	.
 .	.	.	.	4G	di-	2g	di-
 .	.	2A	vi-	2D	-cta	.	.
+*	*	*Xcol	*	*	*	*	*
 .	.	.	.	.	.	4f	.
 =10	=10	=10	=10	=10	=10	=10	=10
+*col	*	*	*	*	*	*	*
 2BB-y	di-	4.G	-ra-	1.r	.	4g	-cta
 .	.	.	.	.	.	2d	E-
 .	.	8F	.	.	.	.	.
 2BB-y	-cta	4D	-go	.	.	.	.
 .	.	2G	di-	.	.	4B-y	.
 2AA	.	.	.	.	.	2c	-va
+*Xcol	*	*	*	*	*	*	*
 .	.	4F	-cta	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
+*	*	*col	*	*	*	*	*
 4GG	E-	2G	E-	4d	E-	4B-y	mo-
 8CL	.	.	.	8cL	.	8e-L	.
 8BB-y	.	.	.	8d	.	8d	.
@@ -105,6 +109,7 @@
 8BB-yJ	.	.	.	8dJ	.	8dJ	.
 4GG	.	.	.	4B-y	.	2d	.
 2AA	-va	2E	mo-	2A	-va	.	.
+*	*	*Xcol	*	*	*	*	*
 .	.	.	.	.	.	4c#i	-ri-
 =12	=12	=12	=12	=12	=12	=12	=12
 4BB-y	mo-	4D	-ri-	4F	mo-	2.d	-en-
@@ -148,6 +153,7 @@
 .	.	4B-y	.	4d	.	.	.
 8F	.	.	.	.	.	8a	.
 4E	.	4c	.	4e	.	4g	.
+*col	*	*	*	*	*	*	*
 4D	-ven-	4d	-ven-	4f	.	4f	.
 4G	.	4B-y	.	8dL	.	2b-y	.
 .	.	.	.	8eJ	.	.	.
@@ -157,6 +163,7 @@
 4F]	.	4c]	.	4f]	.	4a	.
 4G	.	4B-y	.	4d	.	4.g	.
 4E	.	4c	.	4e	.	.	.
+*Xcol	*	*	*	*	*	*	*
 .	.	.	.	.	.	8f	.
 4F	.	4A	.	2c	.	2f	.
 2C	-ti-	2G	-ti-	.	.	.	.
@@ -236,8 +243,8 @@
 .	.	4c	.	.	.	4e	.
 .	.	4A	-gi-	.	.	4f	-gi-
 =26	=26	=26	=26	=26	=26	=26	=26
-4.GG	im-	4G	-num,	4r	.	4g	-num,
-.	.	4r	.	4.d	im-	4r	.
+4.GG	Im-	4G	-num,	4r	.	4g	-num,
+.	.	4r	.	4.d	Im-	4r	.
 8AAL	.	.	.	.	.	.	.
 8BB-y	.	4r	.	.	.	4r	.
 8CJ	.	.	.	4.B-y	-pe-	.	.
@@ -395,11 +402,13 @@
 !!!system-decoration: [*]
 !!!RDF**kern: j = editorial accidental, optional, paren up
 !!!RDF**kern: i = editorial accidental
-!!!RDF**kern: l = terminal breve
+!!!RDF**kern: l = terminal long
 !!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
 !!!PPR: American Institute of Musicology
 !!!PC#: Corpus Mensurabilis Musicae 106/IV
 !!!PDT: 2010
 !!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2010, Pavanello, Agnese
+!!!YEM: CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Mair-Gruber, Roland
-!!!EEV: 2021/08/02
+!!!EEV: 2021/08/09
