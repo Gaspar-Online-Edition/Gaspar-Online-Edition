@@ -1,4 +1,4 @@
-!!!RNB: terminal breves must be adjusted
+!!!ONB: YEC Vol. 4?
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Virgo Maria, non est tibi similis
@@ -32,7 +32,7 @@
 [1C	-a,	[1c	-a,	1G	-a,	[1e	-a,
 =6	=6	=6	=6	=6	=6	=6	=6
 1C]	.	1c]	.	2.g	non	2e]	.
-.	.	.	.	.	.	[2g	.
+.	.	.	.	.	.	[2g	non
 .	.	.	.	[4e	est	.	.
 !!LO:LB:g=original
 =7	=7	=7	=7	=7	=7	=7	=7
@@ -254,14 +254,14 @@
 1G	-stum,	[1El	-stum.	1B	-stum,	[1el	-stum.
 =50	=50	=50	=50	=50	=50	=50	=50
 *	*edit	*	*	*	*edit	*	*
-2.C	Chri-	[1E]	.	2c	Chri-	[1e]	.
+2.C	Chri-	1E_	.	2c	Chri-	1e_	.
 .	.	.	.	2G	.	.	.
 4BB	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51
-2AA	.	[1E]	.	2A	.	[1e]	.
+2AA	.	1E_	.	2A	.	1e_	.
 2GG	.	.	.	2B	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52
-1AA	-stum.	[1E]	.	2.c	-stum.	[1e]	.
+1AA	-stum.	1E_	.	2.c	-stum.	_1e_	.
 .	.	.	.	8BL	.	.	.
 .	.	.	.	8AJ	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53
@@ -277,5 +277,7 @@
 !!!PC#: Corpus Mensurabilis Musicae 106/IV
 !!!PDT: 2010
 !!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2010, Pavanello, Agnese
+!!!YEM: CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Mair-Gruber, Roland
 !!!EEV: 2021/08/04
