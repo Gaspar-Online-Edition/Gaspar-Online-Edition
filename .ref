@@ -9,9 +9,24 @@ Gas0101b-Missa_ave_regina_Gloria.krn	Gas0101b	Gloria
 @Gas0501a:Gas0501b:Gas0501c:Gas0501d	Gas0501	Lamentations
 Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	A Giovedi Lectio secunda
 
+@dummy	Gas04	<br> </div><h2>Motet cycles</h2>
+
+Gas0402-Ave_mater_omnium.krn	Gas0402	Ave mater omnium
+Gas0403-Ave_regina_celorum.krn	Gas0403	Ave regina celorum
+Gas0404-Salve_sancta_parens.krn	Gas0404	Salve sancta parens
+Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	Virgo maria non est tibi similis
+Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	Virgo maria non est tibi similis
+
+@dummy	Gas0501	<br> </div><h2>Lamentations</h2>
+
+Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a Lamentationes Ieremiae prophatae
+Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	A Giovedi Lectio secunda
+
 @dummy	Gas0502	<br> </div><h2>Songs</h2>
 
 Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	Que fait le cocu au bois
 Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	Que fait le cocu au bois (added Bassus)
 Gas0505-Sans_regretz.krn	Gas0505	Sans regretz
+
+
 

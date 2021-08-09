@@ -1,4 +1,4 @@
-!!!RNB: terminal longs must be adjusted
+!!!RNB: terminal breves must be adjusted
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Virgo Maria, non est tibi similis
@@ -271,11 +271,11 @@
 !!!system-decoration: [*]
 !!!RDF**kern: j = editorial accidental, optional, paren up
 !!!RDF**kern: i = editorial accidental
-!!!RDF**kern: l = terminal long
+!!!RDF**kern: l = terminal breve
 !!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
 !!!PPR: American Institute of Musicology
 !!!PC#: Corpus Mensurabilis Musicae 106/IV
 !!!PDT: 2010
-!!!PDT: Pavanello, Agnese
+!!!PED: Pavanello, Agnese
 !!!EED: Mair-Gruber, Roland
 !!!EEV: 2021/08/04
