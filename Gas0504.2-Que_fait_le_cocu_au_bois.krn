@@ -20,7 +20,7 @@
 =1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:a:t=[Bassus composed by Paul Kolb]	!	!	!	!	!	!	!
 2r	.	2F	Que	1r~	.	1r~	.
-*	*ij	*	*	*	*	*	*
+*	*edit	*	*	*	*	*	*
 2FF	Que	2F	fait	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2
 2FF	fait	2F	le	1r	.	1r	.
@@ -137,14 +137,14 @@
 4.C	qui	4G	vol-	4.E	vol-	2g]	.
 .	.	4G	-le,	.	.	.	.
 8BB-	ne	.	.	8D	-le,	.	.
-*	*	*	*	*	*ij	*	*
+*	*	*	*	*	*edit	*	*
 4AA	vol-	[2c	vol-	4C	vol-	[2a	qui
 4FF	-le,	.	.	4C	-le,	.	.
 =27	=27	=27	=27	=27	=27	=27	=27
 2.F	vol-	4c]	.	2r	.	4a]	.
 .	.	4B-	.	.	.	4g	ne
 .	.	2A	-le'au-	4r	.	4f	vol-
-*	*	*	*	*	*Xij	*	*
+*	*	*	*	*	*Xedit	*	*
 4F	-le'au-	.	.	4c	qui	4f	-le'au-
 =28	=28	=28	=28	=28	=28	=28	=28
 4G	-cu-	2G	-cu-	4d	ne	2b-	-cu-
@@ -177,7 +177,7 @@
 !!LO:LB:g=original	*	*	*	*	*	*	*
 =35	=35	=35	=35	=35	=35	=35	=35
 2G	vil-	2B-	Ung	2r	.	1r	.
-*	*	*	*	*	*ij	*	*
+*	*	*	*	*	*edit	*	*
 2F	-le,	2A	hom-	[2f	ces-	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
 2r	.	2F	-me'est	4f]	.	2a	Ung
@@ -189,7 +189,7 @@
 .	.	4B-	-te	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
 2F	-me'est	2A	vil-	2r	.	1a	en
-*	*	*	*	*	*Xij	*	*
+*	*	*	*	*	*Xedit	*	*
 2D	en	2F	-le	2d	en	.	.
 =39	=39	=39	=39	=39	=39	=39	=39
 2.G	ces-	1r	.	4.d	ces-	2.b-	ces-
@@ -245,7 +245,7 @@
 .	.	.	.	.	.	8b-	.
 !!LO:LB:g=original
 =50	=50	=50	=50	=50	=50	=50	=50
-*	*	*	*	*	*ij	*	*
+*	*	*	*	*	*edit	*	*
 2.F	-neur	2A	fut	8FL	l'hon-	2.a	.
 .	.	.	.	8G	.	.	.
 .	.	.	.	8A	.	.	.
@@ -268,7 +268,7 @@
 .	.	.	.	8B-J	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53
 1FF	-me;	2F	-me;	2A	-me;	2r	.
-*	*	*	*	*	*Xij	*	*
+*	*	*	*	*	*Xedit	*	*
 .	.	4F	je	4c	je	4a	je
 .	.	4F	le	4c	le	4a	le
 =54	=54	=54	=54	=54	=54	=54	=54
@@ -306,7 +306,7 @@
 4BB-	-cu	2G	bois,	4d	au	.	.
 4C	au	.	.	4e	bois,	.	.
 =60	=60	=60	=60	=60	=60	=60	=60
-*	*	*	*	*	*ij	*	*
+*	*	*	*	*	*edit	*	*
 2FF	bois,	4.A	qui	4.c	qui	4f	Que
 .	.	.	.	.	.	4f	fait
 .	.	8A	ne	8c	ne	.	.
@@ -319,7 +319,7 @@
 2r	.	4.B-	vol-	2r	.	2g	bois,
 .	.	8B-	-le,	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62
-*	*	*	*	*	*Xij	*	*
+*	*	*	*	*	*Xedit	*	*
 4.C	vol-	4G	vol-	4.e	qui	2r	.
 .	.	4G	-le,	.	.	.	.
 8BB-	-le,	.	.	8d	ne	.	.
