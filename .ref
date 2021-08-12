@@ -1,34 +1,36 @@
-@dummy	Gas01	<h2>Masses </h2>
+@dummy	Gas01	<h2>I/II. Masses </h2>
 
-@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	Missa Ave regina
+@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	1. <hlstart>Missa Ave regina<hend>
 Gas0101a-Missa_ave_regina_Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_ave_regina_Gloria.krn	Gas0101b	Gloria
 
-@dummy	Gas03	<br> </div><h2>Motets</h2>
+@dummy	Gas03	<br> </div><h2>III. Motets</h2>
 
-@dummy	Gas04	<br> </div><h2>Motet cycles</h2>
 
-Gas0401-Ave_domina_sancta_Maria.krn Gas0401 Ave domina sancta Maria
-Gas0402-Ave_mater_omnium.krn	Gas0402	Ave mater omnium
-Gas0403-Ave_regina_celorum.krn	Gas0403	Ave regina celorum
-Gas0404-Salve_sancta_parens.krn	Gas0404	Salve sancta parens
-Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	Virgo maria non est tibi similis
-Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	Virgo maria non est tibi similis
-Gas0406-Christi_mater_ave.krn	Gas0406	Christi mater ave
-Gas0407-Mater_digna_dei.krn	Gas0407	Mater digna dei
 
-@dummy	Gas0501	<br> </div><h2>Lamentations</h2>
+@dummy	Gas04	<br> </div><h2>IV. Motet cycles</h2>
 
-Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a Lamentationes Ieremiae prophatae
-Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	A Giovedi. Lectio secunda
-Gas0501c-A_Giovedi_Lectio_tertia.krn	Gas0501c	A Giovedi. Lectio tertia
-Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	Sabato sancto. Lectio prima
-Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	Sabato sancto. Lectio secunda
+Gas0401-Ave_domina_sancta_Maria.krn Gas0401 1. <hlstart>Ave domina sancta Maria<hlend>
+Gas0402-Ave_mater_omnium.krn	Gas0402	2. <hlstart>Ave mater omnium<hlend>
+Gas0403-Ave_regina_celorum.krn	Gas0403	3. <hlstart>Ave regina celorum<hlend>
+Gas0404-Salve_sancta_parens.krn	Gas0404	4. <hlstart>Salve sancta parens<hlend>
+Gas0405-Virgo_maria_non_est_tibi_similis.krn	5. <hlstart>Gas0405	Virgo maria non est tibi similis<hlend>
+Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	5.2. <hlstart>Gas0405.2	Virgo maria non est tibi similis<hlend>
+Gas0406-Christi_mater_ave.krn	Gas0406	6. <hlstart>Christi mater ave<hlend>
+Gas0407-Mater_digna_dei.krn	Gas0407	7. <hlstart>Mater digna dei<hlend>
 
-@dummy	Gas0502	<br> </div><h2>Songs</h2>
+@dummy	Gas0501	<br> </div><h2>V. Lamentations</h2>
 
-Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	Que fait le cocu au bois
-Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	Que fait le cocu au bois (added Bassus)
-Gas0505-Sans_regretz.krn	Gas0505	Sans regretz
+Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a	1a. <hlstart>Lamentationes Ieremiae prophatae
+Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	1b. <hlstart>A Giovedi. Lectio secunda
+Gas0501c-A_Giovedi_Lectio_tertia.krn	Gas0501c	1c. <hlstart>A Giovedi. Lectio tertia
+Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	1d. <hlstart>Sabato sancto. Lectio prima
+Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	1e. <hlstart>Sabato sancto. Lectio secunda
+
+@dummy	Gas0502	<br> </div><h2>V. Songs</h2>
+
+Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	4. <hlstart>Que fait le cocu au bois<hlend>
+Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	4.2. <hlstart>Que fait le cocu au bois<hlend> (added Bassus)
+Gas0505-Sans_regretz.krn	Gas0505	5. <hlstart>Sans regretz<hlend>
 
 
