@@ -1,5 +1,3 @@
-!!!ONB: YEC Vol. 4?; terminal longs/fermata m54, 113, 116, 149, 166
-!!!RNB: ligatures/coloration need to be added/checked; terminal breves in middle cadences
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Ave regina celorum
@@ -288,7 +286,7 @@
 *	*	*	*	*	*	*Xcol	*
 .	.	.	.	2C	sal-	2a	.
 =30	=30	=30	=30	=30	=30	=30	=30
-2GG	.	1B-y	.	2BB-	.	4.g	.
+2GG	.	1B-y	.	2BB-X	.	4.g	.
 .	.	.	.	.	.	8f	.
 *	*	*	*	*col	*	*	*
 2BB-y	.	.	.	4.D	.	2d	.
@@ -307,8 +305,7 @@
 =32	=32	=32	=32	=32	=32	=32	=32
 1AA	-ve	1A	-ve	1E	-ve	2c	-ve
 .	.	.	.	.	.	2c	ra-
-*	*	*	*	*col	*	*	*
-*col	*	*	*	*	*	*	*
+*col	*	*	*	*col	*	*	*
 4.D	ra-	2r	.	4.F	ra-	4.A	.
 8C	.	.	.	8G	.	8B-y	.
 *Xcol	*	*	*	*Xcol	*	*	*
@@ -840,21 +837,21 @@
 2C	.	2G	.	.	.	.	.
 .	.	.	.	4c	.	4e	.
 =113	=113	=113	=113	=113	=113	=113	=113
-1FF	-o-	[1F;	-sa,	2A	-o-	2.f	-o-
+1FF	-o-	[1Fl;	-sa,	2A	-o-	2.f	-o-
 .	.	.	.	4A	.	.	.
 .	.	.	.	4B-y	.	8eL	.
 .	.	.	.	.	.	8dJ	.
 !!LO:LB:g=original
 =114	=114	=114	=114	=114	=114	=114	=114
-2AA	.	[1F]	.	2c	.	2c	.
+2AA	.	1F_	.	2c	.	2c	.
 [2BB-y	.	.	.	2d	.	4r	.
 .	.	.	.	.	.	[4B-y	.
 =115	=115	=115	=115	=115	=115	=115	=115
-4BB-]	.	[1F]	.	4d	.	4B-]	.
+4BB-]	.	1F_	.	4d	.	4B-]	.
 4AA	.	.	.	4c	.	4c	.
 2BB-y	.	.	.	2B-y	.	2d	.
 =116	=116	=116	=116	=116	=116	=116	=116
-1FFl;	-sa,	1F]	.	1Al;	-sa,	1c;	-sa,
+1FFl;	-sa,	1F]	.	1Al;	-sa,	1cl;	-sa,
 =117||	=117||	=117||	=117||	=117||	=117||	=117||	=117||
 *lig	*	*	*	*	*	*	*
 1FF	va-	1r	.	1r	.	1r	.
