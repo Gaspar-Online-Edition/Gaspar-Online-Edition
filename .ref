@@ -14,18 +14,21 @@ Gas0401-Ave_domina_sancta_Maria.krn Gas0401 1. <hlstart>Ave domina sancta Maria<
 Gas0402-Ave_mater_omnium.krn	Gas0402	2. <hlstart>Ave mater omnium<hlend>
 Gas0403-Ave_regina_celorum.krn	Gas0403	3. <hlstart>Ave regina celorum<hlend>
 Gas0404-Salve_sancta_parens.krn	Gas0404	4. <hlstart>Salve sancta parens<hlend>
-Gas0405-Virgo_maria_non_est_tibi_similis.krn	5. <hlstart>Gas0405	Virgo maria non est tibi similis<hlend>
-Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	5.2. <hlstart>Gas0405.2	Virgo maria non est tibi similis<hlend>
+Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	5. <hlstart>Virgo maria non est tibi similis<hlend>
+Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	5. <hlstart>Virgo maria non est tibi similis<hlend>
 Gas0406-Christi_mater_ave.krn	Gas0406	6. <hlstart>Christi mater ave<hlend>
 Gas0407-Mater_digna_dei.krn	Gas0407	7. <hlstart>Mater digna dei<hlend>
+Gas0408-Ave_stella_mattutina.krn	Gas0408	8. <hlstart>Ave stella mattutina<hlend>
+Gas0409-Ibo_mihi_ad_montem_Mirrhe.krn	Gas0409	9. <hlstart>Ibo mihi ad montem Mirrhe<hlend>
 
 @dummy	Gas0501	<br> </div><h2>V. Lamentations</h2>
 
-Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a	1a. <hlstart>Lamentationes Ieremiae prophatae
-Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	1b. <hlstart>A Giovedi. Lectio secunda
-Gas0501c-A_Giovedi_Lectio_tertia.krn	Gas0501c	1c. <hlstart>A Giovedi. Lectio tertia
-Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	1d. <hlstart>Sabato sancto. Lectio prima
-Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	1e. <hlstart>Sabato sancto. Lectio secunda
+Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a	1a. <hlstart>Lamentationes Ieremiae prophatae<hlend>
+Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	1b. <hlstart>A Giovedi. Lectio secunda<hlend>
+Gas0501c-A_Giovedi_Lectio_tertia.krn	Gas0501c	1c. <hlstart>A Giovedi. Lectio tertia<hlend>
+Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	1d. <hlstart>Sabato sancto. Lectio prima<hlend>
+Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	1e. <hlstart>Sabato sancto. Lectio secunda<hlend>
+Gas0501f-Sabato sancto_Lectio tertia.krn	Gas0501f	1f. <hlstart>Sabato sancto. Lectio tertia<hlend>
 
 @dummy	Gas0502	<br> </div><h2>V. Songs</h2>
 
