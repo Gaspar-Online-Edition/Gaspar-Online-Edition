@@ -4,18 +4,18 @@
 Gas0101a-Missa_ave_regina_Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_ave_regina_Gloria.krn	Gas0101b	Gloria
 
-@dummy	Gas03	<br> </div><h2>III. Motets</h2>
+@dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
 
 
-@dummy	Gas04	<br> </div><h2>IV. Motet cycles</h2>
+@dummy	Gas04	<br> </div><h2>IV. Motets</h2>
 
 Gas0401-Ave_domina_sancta_Maria.krn Gas0401 1. <hlstart>Ave domina sancta Maria<hlend>
 Gas0402-Ave_mater_omnium.krn	Gas0402	2. <hlstart>Ave mater omnium<hlend>
 Gas0403-Ave_regina_celorum.krn	Gas0403	3. <hlstart>Ave regina celorum<hlend>
 Gas0404-Salve_sancta_parens.krn	Gas0404	4. <hlstart>Salve sancta parens<hlend>
 Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	5. <hlstart>Virgo maria non est tibi similis<hlend>
-Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	5. <hlstart>Virgo maria non est tibi similis<hlend>
+Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	5. <hlstart>Virgo maria non est tibi similis<hlend> (organ intabulation)
 Gas0406-Christi_mater_ave.krn	Gas0406	6. <hlstart>Christi mater ave<hlend>
 Gas0407-Mater_digna_dei.krn	Gas0407	7. <hlstart>Mater digna dei<hlend>
 Gas0408-Ave_stella_mattutina.krn	Gas0408	8. <hlstart>Ave stella mattutina<hlend>
