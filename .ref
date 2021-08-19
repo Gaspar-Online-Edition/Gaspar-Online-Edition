@@ -23,16 +23,15 @@ Gas0409-Ibo_mihi_ad_montem_Mirrhe.krn	Gas0409	9. <hlstart>Ibo mihi ad montem Mir
 Gas0410-O_pulcherrima_mulierum.krn	Gas0410	10. <hlstart>O pulcherrima mulierum<hlend>
 Gas0411-Vidi_speciosam_sicut_columbam.krn Gas0411	11. <hlstart>Vidi speciosam sicut columbam<hlend>
 
-@dummy	Gas0501	<br> </div><h2>V. Lamentations</h2>
+@dummy	Gas0500	<br> </div><h2>V. Settings of liturgical texts</h2>
 
+@Gas0501a:Gas0501b:Gas0501c:Gas0501d:Gas0501e:Gas0501f	Gas0501	Lamentations
 Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a	1a. <hlstart>Lamentationes Ieremiae prophatae<hlend>
 Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	1b. <hlstart>A Giovedi. Lectio secunda<hlend>
 Gas0501c-A_Giovedi_Lectio_tertia.krn	Gas0501c	1c. <hlstart>A Giovedi. Lectio tertia<hlend>
 Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	1d. <hlstart>Sabato sancto. Lectio prima<hlend>
 Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	1e. <hlstart>Sabato sancto. Lectio secunda<hlend>
 Gas0501f-Sabato sancto_Lectio tertia.krn	Gas0501f	1f. <hlstart>Sabato sancto. Lectio tertia<hlend>
-
-@dummy	Gas0502a	<br> </div><h2>V. Magnificats</h2>
 
 Gas0502-Magnificat_octavi_toni.krn	Gas0502b	2. <hlstart>Magnificat octavi toni<hlend>
 
