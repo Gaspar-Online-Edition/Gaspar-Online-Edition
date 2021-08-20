@@ -1,5 +1,5 @@
-!!!ONB: bb. 314-24, and 327 the text underlying should be checked; b. 240 triples in B
-!!COM: Gaspar van Weerbeke
+!!!ONB: b.80 text underlying in A should be checked; b.240 truplets should be checked
+!!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Magnificat octavi toni
 !!!AGN: Motet; Magnificat; Hymn
@@ -503,13 +503,13 @@
 .	.	8d	.	.	.	.	.
 .	.	8eL	.	4E	qui	2cc	qui
 .	.	8fJ	.	.	.	.	.
-.	.	4e	.	[4A	po-	.	.
+.	.	4e	.	[4A	pot-	.	.
 =92	=92	=92	=92	=92	=92	=92	=92
-1.r	.	4c	.	2.A]	.	4.cc	po-
-.	.	2e	po-	.	.	.	.
+1.r	.	4c	.	2.A]	.	4.cc	pot-
+.	.	2e	pot-	.	.	.	.
 .	.	.	.	.	.	8dd	.
 .	.	.	.	.	.	4ee	.
-.	.	4f	.	4A	-tens	4dd	.
+.	.	4f	.	4A	-ens	4dd	.
 .	.	4e	.	2A	est,	4cc	.
 .	.	4f	.	.	.	4a	.
 =93	=93	=93	=93	=93	=93	=93	=93
@@ -523,9 +523,9 @@
 .	.	4c	.	4A	.	4cc	.
 =94	=94	=94	=94	=94	=94	=94	=94
 1.r	.	4d	.	4B	.	4b	.
-.	.	2e	.	2c	po-	2g	.
-.	.	4f	.	4F	-tens	2cc	-tens
-.	.	2d	-tens	2G	est:	.	.
+.	.	2e	.	2c	pot-	2g	.
+.	.	4f	.	4F	-ens	2cc	-ens
+.	.	2d	-ens	2G	est:	.	.
 .	.	.	.	.	.	4b	.
 !!LO:LB:g=original
 =95	=95	=95	=95	=95	=95	=95	=95
@@ -1527,9 +1527,11 @@
 .	.	.	.	12c	.	.	.
 6C	.	.	.	6e	.	6cc	.
 =240	=240	=240	=240	=240	=240	=240	=240
+!!LO:TUP:a:r=2
 3.G	.	1r	.	3d	.	6.b	.
 .	.	.	.	.	.	12a	.
 .	.	.	.	6B	.	6g	.
+!!LO:TUP:a:r=2
 6C	.	.	.	6c	.	3g	.
 3D	.	.	.	3A	.	.	.
 *Xcol	*	*	*	*Xcol	*	*	*
@@ -1938,69 +1940,67 @@
 4G	.	.	.	4B-i	.	.	.
 !!LO:LB:g=original
 =314	=314	=314	=314	=314	=314	=314	=314
-4F	.	1d]	.	4A	.	4r	.
-2G	spi-	.	.	2B-i	spi-	4.d	et
+4F	spi-	1d]	.	4A	spi-	4r	.
+2G	ri-	.	.	2B-i	ri-	4.d	et
 .	.	.	.	.	.	8eL	.
 8FL	.	.	.	8AL	.	8f	.
 8EJ	.	.	.	8GJ	.	8gJ	.
 =315	=315	=315	=315	=315	=315	=315	=315
 4D	.	2r	.	4F	.	4a	.
-4E	.	.	.	4G	-ri-	2g	spi-
-2D	-ri-	2d	et	2A	-tu	.	.
-.	.	.	.	.	.	4f#i	-ri-
+4E	.	.	.	4G	.	2g	spi-
+2D	-tu-	2d	et	2A	-tu-	.	.
+.	.	.	.	.	.	4f#i	.
 =316	=316	=316	=316	=316	=316	=316	=316
-*	*	*	*	*	*edit	*	*
-2G	-tu,	2.d	spi-	4.B	san-	4g	-tu
-*	*	*	*	*	*	*	*edit
-.	.	.	.	.	.	2b	san-
+2G	-i	2.d	spi-	4.B	i	4g	-ri-
+.	.	.	.	.	.	2b	-tu-
 .	.	.	.	8c	.	.	.
 2r	.	.	.	4d	.	.	.
-.	.	4c	.	4e	.	4cc	.
+.	.	4c	ri-	4e	.	4cc	-i
 =317	=317	=317	=317	=317	=317	=317	=317
 *	*	*lig	*	*	*	*	*
-1r	.	2B	-ri-	4d	.	4dd	.
-.	.	.	.	2g	.	4b	.
+1r	.	2B	-tu-	4d	.	4dd	san-
+*	*	*	*	*	*edit	*	*
+.	.	.	.	2g	san-	4b	.
 .	.	2A	.	.	.	4.cc	.
 .	.	.	.	4f#i	.	.	.
 .	.	.	.	.	.	8dd	.
 *	*	*Xlig	*	*	*	*	*
 =318	=318	=318	=318	=318	=318	=318	=318
-1r	.	4G	-tu	4g	.	2b	.
+1r	.	4G	-i	4g	.	2b	.
 .	.	2g	san-	4G	.	.	.
+*	*	*	*	*	*	*	*edit
 .	.	.	.	2d	-cto,	2a	-cto,
 .	.	4f#i	.	.	.	.	.
 !!LO:LB:g=original
 =319	=319	=319	=319	=319	=319	=319	=319
-*	*edit	*	*edit	*	*	*	*
-2G	et	2.g	-cto,	1r	.	4r	.
-*	*	*	*	*	*	*lig	*
-.	.	.	.	.	.	2b	spi-
+*	*	*	*edit	*	*	*	*
+2G	san-	2.g	-cto,	1r	.	4r	.
+*	*	*	*	*	*	*lig	*Xedit
+.	.	.	.	.	.	2b	san-
 4E	.	.	.	.	.	.	.
 *lig	*	*	*	*	*	*	*
-[4A	spi-	4e	.	.	.	[4cc	.
+[4A	.	4e	.	.	.	[4cc	.
 =320	=320	=320	=320	=320	=320	=320	=320
-*	*	*lig	*	*	*	*	*
-4A]	.	2f	.	4.a	spi-	4cc]	.
+*	*	*lig	*	*	*Xedit	*	*
+4A]	.	2f	.	4.a	san-	4cc]	.
 *	*	*	*	*	*	*Xlig	*
-2D	.	.	.	.	.	4.dd	-ri-
+2D	.	.	.	.	.	4.dd	.
 .	.	.	.	8g	.	.	.
-.	.	2d	.	8fL	-ri-	.	.
+.	.	2d	.	8fL	.	.	.
 .	.	.	.	8eJ	.	8ccL	.
 *Xlig	*	*Xlig	*	*	*	*	*
-[4G	-ri-	.	.	[4d	-tu	8b	.
+[4G	.	.	.	[4d	.	8b	.
 .	.	.	.	.	.	8aJ	.
 =321	=321	=321	=321	=321	=321	=321	=321
-4G]	.	4B	spi-	4d]	.	4g	-tu
-*	*	*	*	*	*Xedit	*	*Xedit
-4.F	-tu	4c	.	4.f	san-	4.a	san-
-.	.	2A	-ri-	.	.	.	.
+4G]	.	4B	san-	4d]	.	4g	.
+4.F	.	4c	.	4.f	.	4.a	.
+.	.	2A	.	.	.	.	.
 8E	.	.	.	8g	.	8bL	.
 4F	.	.	.	4a	.	8cc	.
 .	.	.	.	.	.	8ddJ	.
 =322	=322	=322	=322	=322	=322	=322	=322
 *lig	*	*	*	*	*	*	*
-*	*Xedit	*	*	*	*	*	*
-2G	san-	4.G	-tu	2d	-cto,	4b	.
+2G	.	4.G	.	2d	-cto,	4b	.
 .	.	.	.	.	.	2dd	.
 .	.	8A	.	.	.	.	.
 2D	.	8BL	.	4r	.	.	.
@@ -2010,7 +2010,7 @@
 *Xlig	*	*	*	*	*	*	*
 =323	=323	=323	=323	=323	=323	=323	=323
 *lig	*	*lig	*	*	*	*	*
-2E	.	2G	san-	4B	.	8bL]	.
+2E	.	2G	.	4B	.	8bL]	.
 .	.	.	.	.	.	8aJ	.
 .	.	.	.	4c	.	2g	.
 2D	.	2A	.	2d	.	.	.
@@ -2026,23 +2026,23 @@
 *	*	*	*	*	*Xedit	*	*
 *	*	*	*	*col	*	*	*
 *col	*	*	*	*	*	*	*
-[1.G	Si-	1.r	.	1.g	Si-	1.r	.
+[1.G	Sic-	1.r	.	1.g	Sic-	1.r	.
 .	.	.	.	.	.	.	.
 =326	=326	=326	=326	=326	=326	=326	=326
 2G]	.	1.r	.	2e	.	1.r	.
-1A	-cut	.	.	1f	-cut	.	.
+1A	-ut	.	.	1f	-ut	.	.
 *	*	*	*	*Xcol	*	*	*
 =327	=327	=327	=327	=327	=327	=327	=327
 *lig	*	*	*	*	*	*	*
 *	*	*	*	*	*	*col	*
-1G	e-	[1.G	Si-	2g	e-	1.g	Si-
+1G	e-	[1.G	Sic-	2g	e-	1.g	Sic-
 .	.	.	.	2G	.	.	.
 [2E	.	.	.	2B	.	.	.
 =328	=328	=328	=328	=328	=328	=328	=328
 *	*	*	*	*lig	*	*	*
 2E]	.	2G]	.	2c	.	2e	.
 *Xlig	*	*	*	*	*	*	*
-1D	.	1A	-cut	1d	.	1f	-cut
+1D	.	1A	-ut	1d	.	1f	-ut
 *Xcol	*	*	*	*	*	*Xcol	*
 *	*	*	*	*Xlig	*	*	*
 =329	=329	=329	=329	=329	=329	=329	=329
@@ -2097,7 +2097,6 @@
 2c	in	1.r	.	2e	prin-	2cc	in
 2G	.	.	.	2.g	.	2b	.
 *	*	*	*	*Xlig	*	*Xlig	*
-
 2B	.	.	.	.	.	2dd	prin-
 .	.	.	.	4f	.	.	.
 !!LO:LB:g=original
