@@ -1,0 +1,404 @@
+!!!RNB: voices?
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
+!!!OTL: Adonay sanctissime Domine Deus
+!!!ONB: organ intabulation
+!!!AGN: Motet
+!!!SCT: Gas0412.2
+!!!SCA: Gas0412.2
+!!!voices:
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/2	*M2/2
+*met(C|)	*met(C|)
+=1	=1
+*^	*^
+1rD	1rGG	1rb	1G
+=2	=2	=2	=2
+1rD	1rGG	1g	2.B-X
+.	.	.	4G
+=3	=3	=3	=3
+1G	1rGG	2.b-X	2d
+.	.	.	8dL
+.	.	.	8c
+.	.	4g	8B-X
+.	.	.	8AJ
+=4	=4	=4	=4
+2.B-X	1G	2dd	1G
+.	.	8ddL	.
+.	.	8cc	.
+4G	.	8b-i	.
+.	.	8aJ	.
+=5	=5	=5	=5
+2B-X	2E-X	2.g	2rc
+2c	2E-	.	2G
+.	.	8fL	.
+.	.	8e-iJ	.
+!!LO:LB:g=original
+=6	=6	=6	=6
+1d	1D	1f	1A
+=7	=7	=7	=7
+2.d	2rD	1b-X	2G
+.	2G	.	4d
+4B-X	.	.	4e
+=8	=8	=8	=8
+2c	2F	2a	2f
+4B-X	4G	4g	4rA
+4A	4F	4a	4c
+=9	=9	=9	=9
+2c	8rD	8rcc	2f
+.	8EL	8gL	.
+.	8D	8f	.
+.	8CJ	8eJ	.
+2d	4BB-X	4d	2d
+.	4B-X	4f	.
+=10	=10	=10	=10
+4B-X	4G	4g	4e-X
+4c	2F	2a	2f
+2d	.	.	.
+.	4G	4b-X	8e-L
+.	.	.	8dJ
+!!LO:LB:g=original
+=11	=11	=11	=11
+4A	4A	4cc	4c
+2d	4F	2a	2f
+.	4.D	.	.
+8cL	.	4dd	4f
+8B-XJ	8E	.	.
+=12	=12	=12	=12
+2A	2F	4cc	2f
+.	.	4a	.
+4d	4BB-X	4b-X	4rc
+4c	4F	[4a	4f
+=13	=13	=13	=13
+8rc	8rC	4a]	8rc
+8B-X	8G	.	8e
+4G	4E	2g	4c
+2A	2D	.	2d
+.	.	4f#i	.
+=14	=14	=14	=14
+1G	6E-X	1g	1d
+.	6D	.	.
+.	6C	.	.
+.	6BB-X	.	.
+.	6C	.	.
+.	6D	.	.
+=15	=15	=15	=15
+1B-X	4.GG	1rb	1re
+.	8AA	.	.
+.	8BB-XL	.	.
+.	8CJ	.	.
+.	4D	.	.
+!!LO:LB:g=original
+=16	=16	=16	=16
+2B-X	4E-X	1rb	1re
+.	2G	.	.
+2B-	.	.	.
+.	8FL	.	.
+.	8E-J	.	.
+=17	=17	=17	=17
+4re	4G	1rb	1re
+8AL	8FL	.	.
+8GJ	8EJ	.	.
+4A	4F	.	.
+4B-X	4G	.	.
+=18	=18	=18	=18
+2.c	2.A	1rb	1re
+4B-X	4G	.	.
+=19	=19	=19	=19
+1B-X	4rD	1rb	1re
+.	8FL	.	.
+.	8E-iJ	.	.
+.	4D	.	.
+.	4E-i	.	.
+=20	=20	=20	=20
+2.B-X	2.D	1rb	1re
+8AL	4E	.	.
+8GJ	.	.	.
+!!LO:LB:g=original
+=21	=21	=21	=21
+2A	2F	1rb	1re
+4G	4rBB	.	.
+[4B-X	[4G	.	.
+=22	=22	=22	=22
+4B-]	4G]	1rb	1re
+8AL	8FL	.	.
+8GJ	8EJ	.	.
+4A	4F	.	.
+4B-X	4G	.	.
+=23	=23	=23	=23
+4G	4B-X	1rb	1re
+4B-	8AL	.	.
+.	8GJ	.	.
+4A	4F	.	.
+[4B-	[4G	.	.
+=24	=24	=24	=24
+4B-]	4G]	1rb	1re
+8AL	8FL	.	.
+8GJ	8EJ	.	.
+4F	4D	.	.
+4E	4E	.	.
+=25	=25	=25	=25
+8DL	8FL	1rb	1re
+8E	8GJ	.	.
+8F	4F	.	.
+8GJ	.	.	.
+8AL	4D	.	.
+8B-XJ	.	.	.
+4c	4E	.	.
+!!LO:LB:g=original
+=26	=26	=26	=26
+8rc	8EL	1rb	1re
+8d	8FJ	.	.
+2B-X	4D	.	.
+.	2C	.	.
+4A	.	.	.
+=27	=27	=27	=27
+1B-X	1BB-X	1rb	1re
+=28	=28	=28	=28
+2rA	1BB-X	1b-X	2f
+2d	.	.	2f
+=29	=29	=29	=29
+2d	2BB-X	2b-X	2.f
+2d	2BB-	2b-	.
+.	.	.	4e
+=30	=30	=30	=30
+1d	1BB-X	1b-X	4.d
+.	.	.	8c
+.	.	.	4B-X
+.	.	.	8AL
+.	.	.	8GJ
+!!LO:PB:g=original
+=31	=31	=31	=31
+2c	2F	2a	4F
+.	.	.	4f
+2B-X	2G	2g	8fL
+.	.	.	8dJ
+.	.	.	4e
+=32	=32	=32	=32
+2A	2F	2a	8fL
+.	.	.	8e
+.	.	.	8d
+.	.	.	8cJ
+2d	2G	2b-X	2B-X
+=33	=33	=33	=33
+2c	2A	2.cc	2.A
+4A	2F	.	.
+4B-X	.	8b-iL	4F
+.	.	8aJ	.
+=34	=34	=34	=34
+4c	4E	4g	4G
+2d	4D	4f	2A
+.	2E	2g	.
+4c	.	.	4G
+=35	=35	=35	=35
+1d	1D	1f	2A
+.	.	.	4.d
+.	.	.	8c
+!!LO:LB:g=original
+=36	=36	=36	=36
+1rD	1rGG	1b-X	8B-XL
+.	.	.	8AJ
+.	.	.	2G
+.	.	.	8FL
+.	.	.	8EJ
+=37	=37	=37	=37
+1rD	1rGG	2b-X	4D
+.	.	.	8EL
+.	.	.	8FJ
+.	.	2b-	8GL
+.	.	.	8A
+.	.	.	8B-X
+.	.	.	8cJ
+=38	=38	=38	=38
+1rD	1rGG	4rcc	4d
+.	.	8aL	4e
+.	.	8gJ	.
+.	.	2a	2f#X
+=39	=39	=39	=39
+1rD	1rGG	2g	4rc
+.	.	.	2g
+.	.	2b-X	.
+.	.	.	8fL
+.	.	.	8eJ
+=40	=40	=40	=40
+1rD	1rGG	4a	8fL
+.	.	.	8e
+.	.	2b-i	8d
+.	.	.	8cJ
+.	.	.	8dL
+.	.	.	8c
+.	.	8aL	8d
+.	.	8gJ	8eJ
+!!LO:LB:g=original
+=41	=41	=41	=41
+1rD	1rGG	2a	2f
+.	.	4g	4e-X
+.	.	4b-X	4d
+=42	=42	=42	=42
+1rD	1rGG	4a	4c
+.	.	2b-X	2d
+.	.	8aL	8cL
+.	.	8gJ	8B-XJ
+=43	=43	=43	=43
+1rD	1rGG	2f	4A
+.	.	.	2d
+.	.	4.d	.
+.	.	.	8cL
+.	.	8e	8B-XJ
+=44	=44	=44	=44
+1rD	1rGG	8fL	8AL
+.	.	8g	8B-X
+.	.	8a	8c
+.	.	8b-iJ	8dJ
+.	.	4cc	4e
+.	.	[4dd	4f
+=45	=45	=45	=45
+1rD	1rGG	4dd]	2d
+.	.	2b-X	.
+.	.	.	2c
+.	.	4a	.
+!!LO:LB:g=original
+=46	=46	=46	=46
+2.D	2.BB-X	2b-X	2B-X
+.	.	2rb	2re
+4E	4C	.	.
+=47	=47	=47	=47
+4F	4D	1rb	1re
+4G	4E	.	.
+4A	4F	.	.
+4B-X	[4D	.	.
+=48	=48	=48	=48
+8rc	4D]	1rb	1re
+8A	.	.	.
+2G	8CL	.	.
+.	8BB-XJ	.	.
+.	2AA	.	.
+4F#X	.	.	.
+=49	=49	=49	=49
+2G	2GG	2.d	2.B-X
+2rD	2rGG	.	.
+.	.	4e	4c
+=50	=50	=50	=50
+1rD	1rGG	4f	4d
+.	.	4g	4e
+.	.	4a	4f
+.	.	4b-X	[4d
+!!LO:LB:g=original
+=51	=51	=51	=51
+1rD	1rGG	8rb	4d]
+.	.	8a	.
+.	.	2g	8cL
+.	.	.	8B-XJ
+.	.	.	2A
+.	.	4f#X	.
+=52	=52	=52	=52
+2.B-X	4.G	2g	1G
+.	8F	.	.
+.	4D	4ra	.
+8AL	[4E	[4g	.
+8GJ	.	.	.
+=53	=53	=53	=53
+2.B-X	4E]	4g]	4.G
+.	8DL	8fL	.
+.	8CJ	8eJ	8A
+.	8BB-XL	8dL	4B-X
+.	8C	8e	.
+4B-	8D	8f	[4F
+.	8EJ	8gJ	.
+=54	=54	=54	=54
+2.A	4.F	4.a	8F]L
+.	.	.	8G
+.	.	.	8A
+.	8E	8g	8B-XJ
+.	4C	4e	4c
+8GL	[4D	[4f	4rA
+8FJ	.	.	.
+=55	=55	=55	=55
+2.A	4D]	4f]	4F
+.	8CL	8eL	8FL
+.	8BB-XJ	8dJ	8GJ
+.	8AAL	8cL	4A
+.	8BB-	8d	.
+4A	8C	8e	[4E
+.	8DJ	8fJ	.
+!!LO:LB:g=original
+=56	=56	=56	=56
+2.G	4.E	4.g	8E]L
+.	.	.	8F
+.	.	.	8G
+.	8D	8f	8AJ
+.	4BB	4d	2B
+8FL	[4C	[4e	.
+8EJ	.	.	.
+=57	=57	=57	=57
+2.G	4C]	4e]	4G
+.	8BBL	8dL	8GL
+.	8AAJ	8cJ	8AJ
+.	8GGL	8BL	4B
+.	8AA	8c	.
+4G	8BB-X	8d	[4D
+.	8CJ	8eJ	.
+=58	=58	=58	=58
+2.F	4.D	4.f	8D]L
+.	.	.	8E
+.	.	.	8F
+.	8C	8e	8GJ
+.	4AA	4c	2A
+8EL	[4BB-X	[4d	.
+8DJ	.	.	.
+=59	=59	=59	=59
+2.F	4BB-]	4d]	4B-X
+.	8AAL	8cL	2F
+.	8GGJ	8B-iJ	.
+.	2D	2A	.
+4F	.	.	[4d
+!!LO:LB:g=original
+=60	=60	=60	=60
+4.G	4GG	8GL	4d]
+.	.	8A	.
+.	4G	8B-i	2B-X
+8A	.	8cJ	.
+4B-X	8GL	4d	.
+.	8FJ	.	.
+4c	4E	4e	[4A
+=61	=61	=61	=61
+4d	4D	4.f	4A]
+4B-X	4G	.	4G
+.	.	8g	.
+4c	4F	4a	[2f
+[4d	[4BB-X	[4b-X	.
+=62	=62	=62	=62
+4d]	4BB-]	4b-]	4f]
+8cL	4C	8aL	4e
+8B-XJ	.	8gJ	.
+2A	2D	2f	2d
+=63	=63	=63	=63
+1G	1E-X	2.g	2B-X
+.	.	.	2c
+.	.	8f#iL	.
+.	.	8eJ	.
+=64	=64	=64	=64
+1A	1D	1f#X	1d
+=65	=65	=65	=65
+1G	1GG	1g	1d
+*v	*v	*	*
+*	*v	*v
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal breve
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2010, Pavanello, Agnese
+!!!YEM: CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/08/20
