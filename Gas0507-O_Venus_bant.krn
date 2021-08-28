@@ -1,4 +1,3 @@
-!!!RNB: the original version for 2 voices needs to be done
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: O Venus bant
@@ -6,7 +5,6 @@
 !!!SCT: Gas0507
 !!!SCA: Gas0507
 !!!voices: 3
-!!!voices-extant: 2
 **kern	**kern	**text	**kern
 *part3	*part2	*part2	*part1
 *staff3	*staff2	*staff2	*staff1
@@ -17,7 +15,6 @@
 *M2/2	*M2/2	*	*M2/2
 *met(C|)	*met(C|)	*	*met(C|)
 =1	=1	=1	=1
-!	!LO:TX:a:t=[Tenor composed by Paul Kolb]	!	!
 *	*	*edit	*
 4.GG	1G	O	4.g
 8AA	.	.	8f
