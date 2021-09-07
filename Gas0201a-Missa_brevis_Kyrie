@@ -1,3 +1,5 @@
+!!!ONB: should beams after tieded notes been split (e.g. mm.3-4,9-10) ?
+!!!RNB: two syllabes per one note need to be checked (mm.15,55)
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Missa brevis
@@ -21,7 +23,7 @@
 =2	=2	=2	=2	=2	=2	=2	=2
 *	*	*	*	*lig	*	*	*
 4.F	-e	4.c	-e	2f	-e	4.a	-e
-8E	.	8d	.	.	.	8b-y	.
+8E-j	.	8d	.	.	.	8b-y	.
 2C	.	2e-j	.	2e-j	.	2cc	.
 *	*	*	*	*Xlig	*	*	*
 =3	=3	=3	=3	=3	=3	=3	=3
@@ -30,15 +32,17 @@
 2BB-y	e-	2f	e-	4.d	.	2.dd	e-
 .	.	.	.	8c	.	.	.
 [2D	.	4d	.	2A	.	.	.
-.	.	[4f	-lei-	.	.	8ccL	.
+*	*	*col	*	*	*	*	*
+.	.	[4f	-ley-	.	.	8ccL	.
 .	.	.	.	.	.	8b-yJ	.
 *Xlig	*	*	*	*	*	*	*
 =4	=4	=4	=4	=4	=4	=4	=4
 *	*	*	*	*	*edit	*	*
 4D]	.	8fL]	.	4F	e-	4a	-ley-
 .	.	8e-i	.	.	.	.	.
+*	*	*Xcol	*	*	*	*	*
 4F	.	2d	.	2A	-ley-	4f	.
-2E-i	-lei-	.	.	.	.	2g	-son,
+2E-i	-ley-	.	.	.	.	2g	-son,
 .	.	4c	.	4G	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5
 4.D	-son,	[1d	-son,	2A	-son,	4.f	Ky-
@@ -48,67 +52,69 @@
 !!LO:LB:g=original
 =6	=6	=6	=6	=6	=6	=6	=6
 *	*	*	*	*	*	*	*Xedit
-4F	-lei-	2d]	.	4A	-lei-	4a	-e-
-4G	.	.	.	4G	.	2dd	-lei-
+4F	-ley-	2d]	.	4A	-ley-	4a	-e-
+4G	.	.	.	4G	.	2dd	-ley-
 *	*	*	*edit	*	*	*	*
-[2D	.	[2f	ky-	2A	-son,	.	.
+[2D	.	[2f	Ky-	2A	-son,	.	.
 .	.	.	.	.	.	8ccL	.
 .	.	.	.	.	.	8b-yJ	.
 =7	=7	=7	=7	=7	=7	=7	=7
-2D]	.	2f]	.	[1d	ky-	2a	-son,
+2D]	.	2f]	.	[1d	Ky-	2a	-son,
 *	*	*	*	*	*	*	*edit
-2G	-son,	2g	-ri-	.	.	2b-y	ky-
+2G	-son,	2g	-ri-	.	.	2b-y	Ky-
 =8	=8	=8	=8	=8	=8	=8	=8
 2r	.	4f	-e	2d]	.	4a	-ri-
 .	.	4d	.	.	.	4b-y	-e
-2C	ky-	2e	.	4.c	-ri-	8ccL	e-
+2C	Ky-	2e-i	.	4.c	-ri-	8ccL	e-
 .	.	.	.	.	.	8b-y	.
 .	.	.	.	.	.	8a	.
 .	.	.	.	8B-y	.	8gJ	.
 =9	=9	=9	=9	=9	=9	=9	=9
+*	*	*col	*	*	*	*	*
 2.D	-ri-	4.d	.	8AL	.	4.f	.
 .	.	.	.	8GJ	.	.	.
 .	.	.	.	2F	-e	.	.
-.	.	8e	.	.	.	8g	.
+.	.	8e-i	.	.	.	8g	.
+*	*	*Xcol	*	*	*	*	*
 .	.	4f	.	.	.	8aL	.
 .	.	.	.	.	.	8b-yJ	.
 4C	.	4e-i	.	4G	e-	[4cc	.
 =10	=10	=10	=10	=10	=10	=10	=10
-4D	-e	4f	.	4F	-lei-	8cc]	.
+4D	-e	4f	.	4F	-ley-	8cc]	.
 .	.	.	.	.	.	8b-y	.
-4BB-y	.	4d	.	4B-y	.	2b-y	-lei-
+4BB-y	.	4d	.	4B-y	.	2b-y	-ley-
 2F	.	2c	.	4F	-son,	.	.
 .	.	.	.	[4f	e-	4a	.
 =11	=11	=11	=11	=11	=11	=11	=11
 4BB-y	e-	4B-y	e-	4f]	.	2b-y	-son,
-4D	.	2B-y	-lei-	8e-iL	.	.	.
+4D	.	2B-y	-ley-	8e-iL	.	.	.
 .	.	.	.	8dJ	.	.	.
-2C	-lei-	.	.	2e-i	-lei-	4r	.
+2C	-ley-	.	.	2e-i	-lei-	4r	.
 *	*	*	*	*	*	*	*Xedit
-.	.	4A	.	.	.	4cc	ky-
+.	.	4A	.	.	.	4cc	Ky-
 !!LO:LB:g=original
 =12	=12	=12	=12	=12	=12	=12	=12
 2BB-y	-son,	2B-y	-son,	4d	-son,	2dd	-ri-
-.	.	.	.	4f	ky-	.	.
+.	.	.	.	4f	Ky-	.	.
 *	*	*	*Xedit	*	*	*	*
-2r	.	4e-X	ky-	4g	-ri-	4cc	-e
+2r	.	4e-X	Ky-	4g	-ri-	4cc	-e
 *	*	*	*	*	*	*	*edit
-.	.	4d	-ri-	[4b-y	-e-	[4dd	e-
+.	.	4d	-ri-	[4b-y	-e e-	[4dd	e-
 =13	=13	=13	=13	=13	=13	=13	=13
 *lig	*	*	*	*	*	*	*
-2G	ky-	4B-y	-e	8b-]	.	4dd]	.
+2G	Ky-	4B-y	-e	8b-L]	.	4dd]	.
 .	.	.	.	8a	.	.	.
 *	*	*	*edit	*	*	*	*
-.	.	2d	e-	2g	-lei-	8ccL	.
+.	.	2d	e-	2g	-ley-	8ccL	.
 .	.	.	.	.	.	8b-yJ	.
-2A	.	.	.	.	.	2cc	-lei-
+2A	.	.	.	.	.	2cc	-ley-
 .	.	4c	.	4f#i	.	.	.
 *Xlig	*	*	*	*	*	*	*
 =14	=14	=14	=14	=14	=14	=14	=14
-2G	-ri-	4.d	-lei-	2g	-son,	2b-y	-son,
-.	.	8e-i	.	.	.	.	.
-2D	-e	4f	.	4r	.	4a	ky-
-.	.	[4d	.	[4f	ky-	[4b-y	-ri-
+2G	-ri-	4.d	-ley-	2g	-son,	2b-y	-son,
+.	.	8e-j	.	.	.	.	.
+2D	-e	4f	.	4r	.	4a	Ky-
+.	.	[4d	.	[4f	Ky-	[4b-y	-ri-
 =15	=15	=15	=15	=15	=15	=15	=15
 *	*Xedit	*	*	*	*	*	*
 8DL	e-	4d]	.	4f]	.	4b-]	.
@@ -116,17 +122,17 @@
 8F	.	8cL	.	8eL	-ri-	8aL	.
 8GJ	.	8B-yJ	.	8dJ	.	8gJ	.
 *	*	*	*	*	*	*	*Xedit
-4A	.	4A	-son,	4c	-e	4f	-e-
+4A	.	4A	-son,	4c	-e	4f	-e e-
 *	*	*	*	*	*	*lig	*
 *	*	*	*Xedit	*	*Xedit	*	*
-[4F	.	[4c	e-	[4f	e-	[4a	-lei-
+[4F	.	[4c	e-	[4f	e-	[4a	-ley-
 =16	=16	=16	=16	=16	=16	=16	=16
-4F]	.	4c]	.	8f]	.	4a]	.
+4F]	.	4c]	.	8fL]	.	4a]	.
 .	.	.	.	8e	.	.	.
 4G	.	4B-y	.	2d	-le-	2g	.
-2D	-lei-	2A	-lei-	.	.	.	.
+2D	-ley-	2A	-ley-	.	.	.	.
 *	*	*	*	*	*	*Xlig	*
-.	.	.	.	4d	-i-	4f#i	.
+.	.	.	.	4d	-y-	4f#i	.
 =17	=17	=17	=17	=17	=17	=17	=17
 0G	-son.	0G	-son.	0d	-son.	0g	-son.
 !!LO:LB:g=original
@@ -150,14 +156,14 @@
 4E	.	4G	.	.	.	.	.
 4F	.	4A	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
-4.G	-lei-	4.B-y	.	2.d	Chri-	1r	.
+4.G	-ley-	4.B-y	.	2.d	Chri-	1r	.
 8F	.	8A	.	.	.	.	.
 4D	-son,	4B-y	.	.	.	.	.
 *	*	*	*edit	*	*	*	*
 4C	.	4c	e-	[4e	-ste	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
 *	*	*lig	*	*	*	*	*
-4.c	Chri-	2A	-lei-	4e]	.	1r	.
+4.c	Chri-	2A	-ley-	4e]	.	1r	.
 .	.	.	.	8dL	.	.	.
 8B-y	.	.	.	8cJ	.	.	.
 2G	.	2B-y	.	4d	.	.	.
@@ -172,7 +178,7 @@
 [4G	e-	[4d	Chri-	4B-y	e-	[4b-y	-ste
 =24	=24	=24	=24	=24	=24	=24	=24
 *	*	*	*	*lig	*	*	*
-4G]	.	4d]	.	2G	-lei-	4b-]	.
+4G]	.	4d]	.	2G	-ley-	4b-]	.
 8FL	.	4e	.	.	.	8aL	.
 8EJ	.	.	.	.	.	8gJ	.
 2D	.	2f	-ste	2F	.	4a	.
@@ -181,18 +187,18 @@
 =25	=25	=25	=25	=25	=25	=25	=25
 *lig	*	*	*	*	*	*lig	*
 *	*	*	*Xedit	*	*	*	*edit
-2.C	-lei-	2e	e-	2G	-son,	2.cc	e-
+2.C	-ley-	2e	e-	2G	-son,	2.cc	e-
 .	.	4c	.	4A	Chri-	.	.
 [4BB-y	.	4f	.	[4B-y	-ste	[4dd	.
-*Xlig	*	*	*	*	*	*Xlig	*
 =26	=26	=26	=26	=26	=26	=26	=26
 4BB-]	.	4e	.	8B-L]	.	4dd]	.
+*Xlig	*	*	*	*	*	*Xlig	*
 .	.	.	.	8AJ	.	.	.
-4C	.	4c	.	2G	.	2cc	-lei-
-2G	-son,	2d	-lei-	.	.	.	.
+4C	.	4c	.	2G	.	2cc	-ley-
+2G	-son,	2d	-ley-	.	.	.	.
 .	.	.	.	4g	e-	4bni	.
 =27	=27	=27	=27	=27	=27	=27	=27
-4A	Chri-	2c	-son,	4.e	-lei-	2cc	-son,
+4A	Chri-	2c	-son,	4.e	-ley-	2cc	-son,
 4c	.	.	.	.	.	.	.
 .	.	.	.	8f	.	.	.
 4B-y	.	2r	.	8gL	.	2r	.
@@ -200,10 +206,10 @@
 [4d	-ste	.	.	[4b-y	.	.	.
 !!LO:LB:g=original
 =28	=28	=28	=28	=28	=28	=28	=28
-8d]	.	1r	.	4b-]	.	4r	.
+8dL]	.	1r	.	4b-]	.	4r	.
 8c	.	.	.	.	.	.	.
 4B-y	e-	.	.	2g	.	4g	Chri-
-2A	-lei-	.	.	.	.	4a	-ste
+2A	-ley-	.	.	.	.	4a	-ste
 .	.	.	.	4f#i	.	4cc	.
 =29	=29	=29	=29	=29	=29	=29	=29
 2G	-son,	2r	.	4.g	-son,	4b-y	.
@@ -217,22 +223,22 @@
 4F	.	1c	-ste	4f	e-	4a	.
 4.A	-ste	.	.	8eL	.	4.cc	.
 .	.	.	.	8dJ	.	.	.
-.	.	.	.	4c	-lei-	.	.
+.	.	.	.	4c	-ley-	.	.
 8GL	.	.	.	.	.	8b-yL	.
 8F	.	.	.	4A	.	8a	.
 8EJ	.	.	.	.	.	8gJ	.
 =31	=31	=31	=31	=31	=31	=31	=31
 2D	e-	2d	e-	2A	-son,	2f	.
-4G	-lei-	4B-y	.	4r	.	4d	.
+4G	-ley-	4B-y	.	4r	.	4d	.
 *	*	*	*	*	*	*	*Xedit
 4C	.	[4c	.	[4G	Chri-	[4e	e-
 =32	=32	=32	=32	=32	=32	=32	=32
 *lig	*	*	*	*	*	*	*
-2E	-son,	4c]	.	8G]	.	8e]	.
+2E	-son,	4c]	.	8G]	.	8eL]	.
 .	.	.	.	8AL	.	8f	.
-.	.	4G	.	8B-y	.	2g	-lei-
+.	.	4G	.	8B-y	.	2g	-ley-
 .	.	.	.	8cJ	.	.	.
-2D	.	2A	-lei-	2d	-ste,	.	.
+2D	.	2A	-ley-	2d	-ste,	.	.
 .	.	.	.	.	.	4f#i	.
 *Xlig	*	*	*	*	*	*	*
 =33	=33	=33	=33	=33	=33	=33	=33
@@ -249,7 +255,7 @@
 *	*	*	*Xedit	*	*	*	*
 4B-y	e-	4G	Chri-	4d	.	[4dd	.
 =35	=35	=35	=35	=35	=35	=35	=35
-4G	-lei-	4B-y	-ste	4B-y	.	4dd]	.
+4G	-ley-	4B-y	-ste	4B-y	.	4dd]	.
 4E	.	4c	.	4G	.	4ee	.
 2D	-son,	4.d	.	4A	.	4ff	.
 .	.	.	.	[4a	e-	8eeL	.
@@ -260,23 +266,23 @@
 .	.	8dJ	.	8fJ	.	.	.
 *	*	*	*	*	*	*	*edit
 4r	.	4c	.	4e	.	4ee	e-
-4D	Chri-	4d	.	[4a	-lei-	[4dd	-lei-
+4D	Chri-	4d	.	[4a	-ley-	[4dd	-ley-
 =37	=37	=37	=37	=37	=37	=37	=37
 *lig	*	*	*	*	*	*	*
 2A	-ste	2e	e-	2a]	.	4dd]	.
 .	.	.	.	.	.	4cc#i	.
-2B-y	.	[2d	-lei-	4f	-son,	4dd	-son,
+2B-y	.	[2d	-ley-	4f	-son,	4dd	-son,
 *	*	*	*	*	*Xedit	*	*Xedit
 .	.	.	.	4d	e-	[4b-y	e-
 *Xlig	*	*	*	*	*	*	*
 =38	=38	=38	=38	=38	=38	=38	=38
 *	*Xedit	*	*	*	*	*	*
-4G	e-	1d]	.	4g	-lei-	4b-]	.
+4G	e-	1d]	.	4g	-ley-	4b-]	.
 4D	.	.	.	4f	.	4a	.
-2G	-lei-	.	.	4.g	.	2b-y	-lei-
+2G	-ley-	.	.	4.g	.	2b-y	-ley-
 .	.	.	.	8a	.	.	.
 =39	=39	=39	=39	=39	=39	=39	=39
-0D	-son	0d	-son.	0f	-son.	0a	-son.
+0D	-son	0d	-son.	0f#j	-son.	0a	-son.
 !!LO:LB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -292,7 +298,7 @@
 *	*	*	*	*Xlig	*	*	*
 =42	=42	=42	=42	=42	=42	=42	=42
 2E-i	-ri-	4G	e-	4B-y	-e	2r	.
-.	.	2c	-lei-	2G	.	.	.
+.	.	2c	-ley-	2G	.	.	.
 2D	.	.	.	.	.	2dd	Ky-
 .	.	4Bni	.	4F	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43
@@ -300,40 +306,42 @@
 *	*	*	*	*	*edit	*	*
 2C	-e	2c	-son,	4.G	e-	2ee-i	-ri-
 .	.	.	.	8A	.	.	.
+*	*	*	*	*	*	*col	*
 2G	.	4r	.	2B-y	.	4.dd	.
 *	*	*	*edit	*	*	*	*
-.	.	[4d	ky-	.	.	.	.
+.	.	[4d	Ky-	.	.	.	.
 .	.	.	.	.	.	8cc	.
+*	*	*	*	*	*	*Xcol	*
 *Xlig	*	*	*	*	*	*	*
 =44	=44	=44	=44	=44	=44	=44	=44
 *	*	*	*	*lig	*	*	*
-4r	.	4d]	.	2G	-lei-	4b-y	-e
+4r	.	4d]	.	2G	-ley-	4b-y	-e
 *	*edit	*	*	*	*	*	*
 4C	e-	4e	-ri-	.	.	4cc	.
 *	*	*	*	*	*	*	*edit
-2D	-lei-	2f	-e	2F	.	4a	e-
-.	.	.	.	.	.	[4dd	-lei-
+2D	-ley-	2f	-e	2F	.	4a	e-
+.	.	.	.	.	.	[4dd	-ley-
 *	*	*	*	*Xlig	*	*	*
 =45	=45	=45	=45	=45	=45	=45	=45
 *lig	*	*	*	*	*	*	*
 2G	-son,	4d	e-	8GL	-son,	4dd]	.
 .	.	.	.	8A	.	.	.
-.	.	2g	-lei-	8B-y	.	4b-y	.
+.	.	2g	-ley-	8B-y	.	4b-y	.
 .	.	.	.	8cJ	.	.	.
 2D	.	.	.	2d	.	2a	.
 .	.	4f#i	.	.	.	.	.
 *Xlig	*	*	*	*	*	*	*
 =46	=46	=46	=46	=46	=46	=46	=46
-2r	.	2g	-son,	4e-X	ky-	4g	-son,
-.	.	.	.	8dL	.	2b-y	ky-
+2r	.	2g	-son,	4e-X	Ky-	4g	-son,
+.	.	.	.	8dL	.	2b-y	Ky-
 .	.	.	.	8cJ	.	.	.
 *	*Xedit	*	*	*	*	*	*
-2G	e-	4.d	ky-	4.B-y	-ri-	.	.
+2G	e-	4.d	Ky-	4.B-y	-ri-	.	.
 .	.	.	.	.	.	8aL	-ri-
 .	.	8e	-ri-	8c	.	8gJ	.
 !!LO:PB:g=original
 =47	=47	=47	=47	=47	=47	=47	=47
-4.D	-lei-	4f	-e	4.d	-e	4f	-e
+4.D	-ley-	4f	-e	4.d	-e	4f	-e
 *	*	*	*	*	*	*	*Xedit
 .	.	4d	.	.	.	4.a	e-
 8E-i	.	.	.	8c	.	.	.
@@ -343,12 +351,12 @@
 =48	=48	=48	=48	=48	=48	=48	=48
 4D	.	4f	e-	4F	e-	8cc]	.
 .	.	.	.	.	.	8b-y	.
-4BB-y	.	4d	.	2B-y	-lei-	2b-y	-lei-
+4BB-y	.	4d	.	2B-y	-ley-	2b-y	-ley-
 *	*edit	*	*	*	*	*	*
-2F	-son,	2c	-lei-	.	.	.	.
+2F	-son,	2c	-ley-	.	.	.	.
 .	.	.	.	4f	.	4a	.
 =49	=49	=49	=49	=49	=49	=49	=49
-4.G	ky-	2B-y	-son,	4.d	-son,	2b-y	-son,
+4.G	Ky-	2B-y	-son,	4.d	-son,	2b-y	-son,
 8F	.	.	.	8e	.	.	.
 4D	-ri-	2r	.	8fL	.	2r	.
 .	.	.	.	8g	.	.	.
@@ -366,12 +374,12 @@
 =51	=51	=51	=51	=51	=51	=51	=51
 *	*	*	*	*	*Xedit	*	*
 4G	e-	1r	.	4d	e-	1r	.
-4B-y	.	.	.	2g	-lei-	.	.
-2A	-lei-	.	.	.	.	.	.
+4B-y	.	.	.	2g	-ley-	.	.
+2A	-ley-	.	.	.	.	.	.
 .	.	.	.	4f#i	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52
 *	*Xedit	*	*Xedit	*	*	*	*
-2G	-son,	2B-y	ky-	2g	-son,	8gL	ky-
+2G	-son,	2B-y	Ky-	2g	-son,	8gL	Ky-
 .	.	.	.	.	.	8a	.
 .	.	.	.	.	.	8b-y	.
 .	.	.	.	.	.	8ccJ	.
@@ -390,32 +398,32 @@
 =54	=54	=54	=54	=54	=54	=54	=54
 *	*	*	*	*	*	*	*edit
 2r	.	4d]	.	2r	.	4a	e-
-.	.	8cL	.	.	.	2g	-lei-
+.	.	8cL	.	.	.	2g	-ley-
 .	.	8B-yJ	.	.	.	.	.
-2D	ky-	2A	.	2d	ky-	.	.
+2D	Ky-	2A	.	2d	Ky-	.	.
 .	.	.	.	.	.	4f	.
 =55	=55	=55	=55	=55	=55	=55	=55
 *	*	*lig	*	*	*	*	*
 2G	-ri-	2B-y	.	4B-y	.	4d	-son,
 *	*	*	*	*	*	*	*Xedit
 .	.	.	.	2e-X	-ri-	4.g	e-
-4C	-e-	2c	.	.	.	.	.
+4C	-e e-	2c	.	.	.	.	.
 .	.	.	.	.	.	8e	.
 *	*edit	*	*	*	*	*	*
-[4F	-lei-	.	.	8dL	.	[4a	.
+[4F	-ley-	.	.	8dL	.	[4a	.
 .	.	.	.	8cJ	.	.	.
 *	*	*Xlig	*	*	*	*	*
 =56	=56	=56	=56	=56	=56	=56	=56
-8F]	.	1A	-lei-	2d	-e	8a]	.
+8F]	.	1A	-ley-	2d	-e	8a]	.
 8EL	.	.	.	.	.	8gL	.
 8D	.	.	.	.	.	8f#i	.
 8CJ	.	.	.	.	.	8eJ	.
-2D	-son,	.	.	4r	.	2f#i	-lei-
+2D	-son,	.	.	4r	.	2f#i	-ley-
 .	.	.	.	4d	e-	.	.
 =57	=57	=57	=57	=57	=57	=57	=57
 *	*Xedit	*	*	*	*	*	*
 4E-X	e-	[1Gl	-son.	4B-y	.	[1gl	-son.
-4.C	-lei-	.	.	2e-i	-lei-	.	.
+4.C	-lei-	.	.	2e-i	-ley-	.	.
 8BB-y	.	.	.	.	.	.	.
 4C	.	.	.	8dL	.	.	.
 .	.	.	.	8cJ	.	.	.
@@ -432,11 +440,8 @@
 !!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
 !!!PPR: American Institute of Musicology
 !!!PC#: Corpus Mensurabilis Musicae 106/V
-!!!PDT: {YEAR}
+!!!PDT: 2018
 !!!PED: Kolb, Paul
-!!!PED: Pavanello, Agnese
-!!!YEC: Copyright {YEAR}, Kolb, Paul
-!!!YEC: Copyright {YEAR}, Pavanello, Agnese
+!!!YEC: Copyright 2016, Kolb, Paul
 !!!EED: Zybina, Karina
-!!!EED: Mair-Gruber, Roland
 !!!EEV: 2021/09/05
