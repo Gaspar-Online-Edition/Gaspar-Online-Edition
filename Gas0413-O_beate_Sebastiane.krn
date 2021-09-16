@@ -332,7 +332,8 @@
 .	.	2r	.	.	.	2r	.
 !!LO:LB:g=original
 =57	=57	=57	=57	=57	=57	=57	=57
-*M3/2	*	*M3/2	*	*	*	*	*
+!!!ONB: no mensuration change, coloration used
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 !!LO:TX:t=[whole] = [whole-dot]
 *col	*	*col	*	*	*	*	*
 1D	fu-	1F	fu-	1.r	.	1.r	.
@@ -381,7 +382,7 @@
 *Xcol	*	*Xcol	*	*	*	*	*
 =66	=66	=66	=66	=66	=66	=66	=66
 !!LO:TX:t=[whole-dot] = [whole]
-*M2/2	*	*M2/2	*	*	*	*	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 2GG	-ta,	1G	-ta,	2.d	fu-	1r	.
 2G	fu-	.	.	.	.	.	.
 .	.	.	.	4e	-it	.	.
@@ -815,7 +816,10 @@
 1D	.	1A	.	1d]	.	1f	.
 *	*	*Xlig	*	*	*	*Xlig	*
 =143	=143	=143	=143	=143	=143	=143	=143
+!!!ONB: no mensuration change, coloration used
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *col	*	*col	*	*col	*	*col	*
+!!LO:TX:t=[whole] = [whole-dot]
 1E-i	-mis-	1G	-mis-	1g	-mis-	1b-y	-mis-
 [2E-i	-si-	[2B-y	-si-	[2g	-si-	2b-y	-si-
 =144	=144	=144	=144	=144	=144	=144	=144
@@ -832,6 +836,8 @@
 *Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 !!LO:LB:g=original
 =147	=147	=147	=147	=147	=147	=147	=147
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+!!LO:TX:t=[whole-dot] = [whole]
 1D;	-bus	1A;	-bus	1d;	-bus	1f#j;	-bus
 =148	=148	=148	=148	=148	=148	=148	=148
 *lig	*	*	*	*	*	*lig	*
