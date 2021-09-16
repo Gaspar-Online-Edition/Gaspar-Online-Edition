@@ -5,10 +5,10 @@ Gas0101a-Missa_ave_regina-Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_ave_regina-Gloria.krn	Gas0101b	Gloria
 
 @Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	2. <hlstart>Missa brevis<hend>
-Gas0201a-Missa_brevis-Kyrie.krn
-Gas0201c-Missa_brevis-Credo.krn
-Gas0201d-Missa_brevis-Sanctus.krn
-Gas0201e-Missa_brevis-Agnus.krn
+Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Kyrie
+Gas0201c-Missa_brevis-Credo.krn	Gas0201c	Credo
+Gas0201d-Missa_brevis-Sanctus.krn	Gas0201d	Sanctus
+Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Agnus
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
