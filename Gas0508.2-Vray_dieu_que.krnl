@@ -1,12 +1,12 @@
-!!!RNB: voices? b. 25 check accidental ()
-!!!COM: Gaspar van Weerbeke
-!!!CDT: ~1450-~1517
+!!!COA1: Gaspar van Weerbeke
+!!!CDT1: ~1450-~1517
+!!!COA2: Compere, Loyset
+!!!LAR: Sicher, Fridolin
 !!!OTL: Vray dieu quel
 !!!ONB: organ intabulation
 !!!AGN: Song; Chanson
 !!!SCT: Gas0508.2
 !!!SCA: Gas0508.2
-!!!voices:
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
@@ -112,7 +112,7 @@
 =25	=25	=25	=25
 1F	2c	2.a	1f
 .	2F	.	.
-.	.	4b-X	.
+.	.	4bnN	.
 =26	=26	=26	=26
 1ryy	4rD	1cc	2f
 .	4G	.	.
@@ -237,8 +237,8 @@
 *-	*-
 !!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
-!!!Xfilter: gasparize
 !!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: N = editorial accidental, cautionary, paren
 !!!RDF**kern: l = terminal long
 !!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
 !!!PPR: American Institute of Musicology
