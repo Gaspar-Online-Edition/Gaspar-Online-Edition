@@ -1,0 +1,165 @@
+!!!COM: Anonymous
+!!!OTL: Ave panis angelorum
+!!!AGN: Motet
+!!!SCT: Ano0422
+!!!SCA: Ano0422
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1C;	A-	1c;	A-	1g;	A-	1cc;	A-
+=2	=2	=2	=2	=2	=2	=2	=2
+1c;	-ve	1e;	-ve	1g;	-ve	1cc;	-ve
+=3	=3	=3	=3	=3	=3	=3	=3
+1A;	pa-	1f;	pa-	1c;	pa-	1cc;	pa-
+=4	=4	=4	=4	=4	=4	=4	=4
+1G;	-nis	1g;	-nis	1d;	-nis	1b;	-nis
+=5	=5	=5	=5	=5	=5	=5	=5
+1C;	an-	1e;	an-	1g;	an-	1cc;	an-
+=6	=6	=6	=6	=6	=6	=6	=6
+1D;	-ge-	1f;	-ge-	1d;	-ge-	1a;	-ge-
+=7	=7	=7	=7	=7	=7	=7	=7
+1G;	-lo-	1g;	-lo-	1d;	-lo-	1b;	-lo-
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+1G;	-rum,	1d;	-rum,	1g;	-rum,	1b;	-rum,
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*edit	*	*edit	*	*edit	*	*
+2C	Dei-	2e	Dei-	2g	Dei-	2cc	Dei-
+2C	-ta-	2e	-ta-	2g	-ta-	2cc	-ta-
+=10	=10	=10	=10	=10	=10	=10	=10
+2G	-tis-	2d	-tis-	2g	-tis-	2b	-tis-
+2G	-que	2d	-que	2g	-que	2b	-que
+=11	=11	=11	=11	=11	=11	=11	=11
+2A	lux	2c	lux	2e	lux	2cc	lux
+2A	san-	2c	san-	2c	san-	2a	san-
+=12	=12	=12	=12	=12	=12	=12	=12
+*	*	*lig	*	*	*	*	*
+1F	-cto-	2c	-cto-	1A	-cto-	4.cc	-cto-
+.	.	.	.	.	.	8b	.
+.	.	2d	.	.	.	4.a	.
+*	*	*Xlig	*	*	*	*	*
+.	.	.	.	.	.	8g	.
+=13	=13	=13	=13	=13	=13	=13	=13
+1E;	-rum!	1e;	-rum!	1B;	-rum!	1g;	-rum!
+=14||	=14||	=14||	=14||	=14||	=14||	=14||	=14||
+!!LO:TX:t=[whole]=[whole-dot]
+!!LO:TX:a:t=[O/3]
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+1E	Tu	1B	Tu	1G	Tu	1g	Tu
+2E	es	2B	es	2G	es	2g	es
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15	=15	=15
+1E	no-	1B	no-	1G	no-	1g	no-
+2E	-stra	2c	-stra	2G	-stra	2e	-stra
+=16	=16	=16	=16	=16	=16	=16	=16
+1D	glo-	1d	glo-	1A	glo-	1f	glo-
+2D	-ri-	2d	-ri-	2A	-ri-	2f	-ri-
+=17	=17	=17	=17	=17	=17	=17	=17
+1.E;	-a,	1.B;	-a,	1.G;	-a,	1.g;	-a,
+=18	=18	=18	=18	=18	=18	=18	=18
+1C	vir-	1c	vir-	1e	vir-	1g	vir-
+2C	-rus	2G	-tus	2e	-tus	2g	-tus
+=19	=19	=19	=19	=19	=19	=19	=19
+2C	et	2G	et	2e	et	2g	et
+2C	eu-	2G	eu-	2e	eu-	2cc	eu-
+2C	-ca-	2A	-ca-	2e	-ca-	2cc	-ca-
+=20	=20	=20	=20	=20	=20	=20	=20
+1BB	-re-	1B	-re-	1d	-re-	1dd	-re-
+2BB	-sti-	2B	-sti-	2d	-sti-	2dd	-sti-
+=21	=21	=21	=21	=21	=21	=21	=21
+1.C;	-a,	1.G;	-a,	1.c;	-a,	1.ee;	-a,
+!!LO:LB:g=original
+=22	=22	=22	=22	=22	=22	=22	=22
+1.C;	ca-	1.e;	ca-	1.g;	ca-	1.cc;	ca-
+=23	=23	=23	=23	=23	=23	=23	=23
+1.G;	-ro,	1.d;	-ro,	1.g;	-ro,	1.b;	-ro,
+=24	=24	=24	=24	=24	=24	=24	=24
+1.A;	ci-	1.c;	ci-	1.e;	ci-	1.a;	ci-
+=25	=25	=25	=25	=25	=25	=25	=25
+1.E;	-bus,	1.B;	-bus,	1.e;	-bus,	1.g;	-bus,
+=26	=26	=26	=26	=26	=26	=26	=26
+1.F;	sa-	1.A;	sa-	1.c;	sa-	1.a;	sa-
+=27	=27	=27	=27	=27	=27	=27	=27
+1.C;	-cra-	1.c;	-cra-	1.e;	-cra-	1.g;	-cra-
+=28	=28	=28	=28	=28	=28	=28	=28
+1.D;	-men-	1.A;	-men-	1.d;	-men-	1.f;	-men-
+=29	=29	=29	=29	=29	=29	=29	=29
+1.G;	-tum,	1.B;	-tum,	1.d;	-tum,	1.g;	-tum,
+!!LO:PB:g=original
+=30	=30	=30	=30	=30	=30	=30	=30
+2G	quo	1.r	.	2d	quo	1.r	.
+2G	non	.	.	2d	non	.	.
+2G	est	.	.	2d	est	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2c	ma-	1.r	.	2e	ma-	1.r	.
+2c	-ius	.	.	2e	-ius	.	.
+2d	in-	.	.	2f	in-	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2e	-ven-	2G	quo	2.g	-ven-	1.r	.
+2.d	.	2G	non	.	.	.	.
+.	.	.	.	4f	.	.	.
+.	.	2G	est	2d	.	.	.
+4c	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2.A	.	2c	ma-	2e	.	1.r	.
+.	.	2c	-ius	2c	.	.	.
+4G	.	.	.	.	.	.	.
+2F	.	2d	in-	2A	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+1E	-tum,	2.e	-ven-	2B	.	2g	quo
+.	.	.	.	2G	.	2g	non
+.	.	4d	.	.	.	.	.
+2G	in-	4c	.	2g	.	2g	est
+.	.	4B	.	.	.	.	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35	=35	=35
+2.F	-ven-	1A	.	2.a	.	2cc	ma-
+.	.	.	.	.	.	2cc	-ius
+4E	.	.	.	4g	.	.	.
+2D	.	2B	.	2f	.	2dd	in-
+=36	=36	=36	=36	=36	=36	=36	=36
+2C	.	2.c	-tum,	1e	-tum,	2.ee	-ven-
+4c	.	.	.	.	.	.	.
+4B	.	4d	.	.	.	4dd	.
+4A	.	2e	.	2r	.	4cc	.
+4G	.	.	.	.	.	4b	.
+=37	=37	=37	=37	=37	=37	=37	=37
+*	*	*col	*	*	*	*	*
+2F	.	1f	in-	2c	in-	4a	.
+.	.	.	.	.	.	4g	.
+2D	.	.	.	2d	-ven-	2.dd	.
+2E	.	2g	-ven-	2B	.	.	.
+.	.	.	.	.	.	4cc	.
+=38	=38	=38	=38	=38	=38	=38	=38
+*	*	*	*	*lig	*	*	*
+2C	.	2e	.	2c	.	1cc	.
+1G	.	1d	.	2G	.	.	.
+*	*	*Xcol	*	*	*	*	*
+*	*	*	*	*Xlig	*	*	*
+.	.	.	.	2g	.	2b	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1Cl	-tum.	1cl	-tum.	1gl	-tum.	1ccl	-tum.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: j = editorial accidental, optional, paren up
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal breve
+!!!PTL: Gaspar van Weerbeke: Collected Works. IV. Motets
+!!!PPR: American Institute of Musicology
+!!!PC#: Corpus Mensurabilis Musicae 106/IV
+!!!PDT: 2010
+!!!PED: Pavanello, Agnese
+!!!YEC: Copyright 2010, Pavanello, Agnese
+!!!YEM: CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+!!!EED: Mair-Gruber, Roland
+!!!EEV: 2021/09/24
