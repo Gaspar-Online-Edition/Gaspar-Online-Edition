@@ -14,7 +14,6 @@ Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Agnus
 
 @dummy	Gas04	<br> </div><h2>IV. Motets</h2>
 
-
 Gas0401-Ave_domina_sancta_Maria.krn Gas0401 1. <hlstart>Ave domina sancta Maria<hlend>
 Gas0402-Ave_mater_omnium.krn	Gas0402	2. <hlstart>Ave mater omnium<hlend>
 Gas0403-Ave_regina_celorum.krn	Gas0403	3. <hlstart>Ave regina celorum<hlend>
@@ -35,6 +34,9 @@ Gas0415-Ave_verum_corpus.krn	Gas0415	15. <hlstart>Ave verum corpus<hlend>
 Gas0416-Panis_angelicus.krn	Gas0416	16. <hlstart>Panis angelicus<hlend>
 Gas0417-Tenebre_facte_sunt.krn	Gas0417	17. <hlstart>Tenebre facte sunt<hlend>
 Gas0418-Verbum_caro_factum_est.krn	Gas0418	18. <hlstart>Verbum caro factum est<hlend>
+Gas0419-Dulcis_amica_Dei.krn  Gas0419 19. <h1start>Dulcis amica Dei<h1end>
+Gas0420-Stabat_mater.krn  Gas0420 20. <h1start>Stabat mater<h1end>
+Ano0421-Ave_nostra_salus.krn  Ano0421 21. <h1start>Ave nostra salus <h1end> (Anonymous)
 
 @dummy	Gas0500	<br> </div><h2>V. Settings of liturgical texts</h2>
 
