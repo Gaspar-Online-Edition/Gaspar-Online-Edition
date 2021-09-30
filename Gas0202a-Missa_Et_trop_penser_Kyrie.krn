@@ -1,5 +1,4 @@
 !!!RNB: two syllabes per one note, italic/non italic, need to be checked (m.1,S)
-!!!RNB: coloration m. 87, T, need to be check
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Missa Et trop penser
@@ -611,13 +610,12 @@
 2C	.	.	.	.	.	2r	.
 .	.	.	.	4A	.	.	.
 =87	=87	=87	=87	=87	=87	=87	=87
-*lig	*	*	*	*	*	*	*
+*lig	*	*col	*	*	*	*	*
 1.BB-y	-ley-	2r	.	4.B-y	-e	1dd	Ky-
 .	.	.	.	8c	.	.	.
 .	.	2r	.	8dL	.	.	.
 .	.	.	.	8eJ	.	.	.
 .	.	.	.	2f	.	.	.
-*	*	*col	*	*	*	*	*
 .	.	[2d	Ky-	.	.	2dd	-ri-
 .	.	.	.	4B-y	e-	.	.
 =88	=88	=88	=88	=88	=88	=88	=88
@@ -754,11 +752,8 @@
 !!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
 !!!PPR: American Institute of Musicology
 !!!PC#: Corpus Mensurabilis Musicae 106/V
-!!!PDT: {YEAR}
+!!!PDT: 2018
 !!!PED: Kolb, Paul
-!!!PED: Pavanello, Agnese
-!!!YEC: Copyright {YEAR}, Kolb, Paul
-!!!YEC: Copyright {YEAR}, Pavanello, Agnese
+!!!YEC: Copyright 2016, Kolb, Paul
 !!!EED: Zybina, Karina
-!!!EED: Mair-Gruber, Roland
 !!!EEV: 2021/09/27
