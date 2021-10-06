@@ -131,6 +131,7 @@
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
 !!LO:TX:t=[whole] = [whole-dot]
+!!LO:TX:a:t=[O/3]
 2G	-pau-	1.r	.	2d	-pau-	1.r	.
 2G	-per,	.	.	2d	-per,	.	.
 2G	ser-	.	.	2d	ser-	.	.
