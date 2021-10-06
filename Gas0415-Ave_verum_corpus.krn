@@ -179,7 +179,7 @@
 !!LO:LB:g=original
 =45	=45	=45	=45	=45	=45	=45	=45
 !!LO:TX:t=[whole] = [whole-dot]
-!!LO:TX:t= Cut-C 3
+!!LO:TX:t= C|3
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
 1GG	E-	1G	E-	1d	E-	1.r	.
