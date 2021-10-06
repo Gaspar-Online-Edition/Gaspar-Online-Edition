@@ -334,7 +334,7 @@
 =57	=57	=57	=57	=57	=57	=57	=57
 !!!ONB: no mensuration change, coloration used
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-!!LO:TX:t=[whole] = [whole-dot]
+!!LO:TX:t=[whole]=[whole-dot]
 *col	*	*col	*	*	*	*	*
 1D	fu-	1F	fu-	1.r	.	1.r	.
 2E	-it	2G	-it	.	.	.	.
@@ -381,7 +381,8 @@
 .	.	2F#i	.	.	.	.	.
 *Xcol	*	*Xcol	*	*	*	*	*
 =66	=66	=66	=66	=66	=66	=66	=66
-!!LO:TX:t=[whole-dot] = [whole]
+!!!ONB: no mensuration change, coloration used
+!!LO:TX:t=[whole-dot]=[whole]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 2GG	-ta,	1G	-ta,	2.d	fu-	1r	.
 2G	fu-	.	.	.	.	.	.
