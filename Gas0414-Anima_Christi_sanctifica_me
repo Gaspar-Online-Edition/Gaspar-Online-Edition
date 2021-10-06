@@ -155,6 +155,7 @@
 !!LO:LB:g=original
 =33	=33	=33	=33	=33	=33	=33	=33
 !!LO:TX:t=[whole] = [whole-dot]
+!!LO:TX:a:t=[O/3]
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
 *lig	*	*	*	*	*	*	*
