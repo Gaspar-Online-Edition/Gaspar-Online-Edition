@@ -21,7 +21,7 @@ Gas0404-Salve_sancta_parens.krn	Gas0404	4. <hlstart>Salve sancta parens<hlend>
 Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	5. <hlstart>Virgo maria non est tibi similis<hlend>
 Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	5. <hlstart>Virgo maria non est tibi similis<hlend> (organ intabulation)
 Gas0406-Christi_mater_ave.krn	Gas0406	6. <hlstart>Christi mater ave<hlend>
-Gas0407-Mater_digna_dei.krn	Gas0407	7. <hlstart>Mater digna Dei<hlend>
+Gas0407-Mater_digna_Dei.krn Gas0407	7. <hlstart>Mater digna Dei<hlend>
 Gas0408-Ave_stella_matutina.krn	Gas0408	8. <hlstart>Ave stella matutina<hlend>
 Gas0409-Ibo_mihi_ad_montem_Mirrhe.krn	Gas0409	9. <hlstart>Ibo mihi ad montem Mirrhe<hlend>
 Gas0410-O_pulcherrima_mulierum.krn	Gas0410	10. <hlstart>O pulcherrima mulierum<hlend>
@@ -36,7 +36,9 @@ Gas0417-Tenebre_facte_sunt.krn	Gas0417	17. <hlstart>Tenebre facte sunt<hlend>
 Gas0418-Verbum_caro_factum_est.krn	Gas0418	18. <hlstart>Verbum caro factum est<hlend>
 Gas0419-Dulcis_amica_Dei.krn  Gas0419 19. <h1start>Dulcis amica Dei<h1end>
 Gas0420-Stabat_mater.krn  Gas0420 20. <h1start>Stabat mater<h1end>
-Ano0421-Ave_nostra_salus.krn  Ano0421 21. <h1start>Ave nostra salus <h1end> (Anonymous)
+Ano0421-Ave_nostra_salus.krn  Ano0421 21. <h1start>Ave nostra salus<h1end> (Anonymous)
+Ano0422-Ave_panis_angelorum.krn Ano0422 22. <h1start>Ave panis angelorum<h1end> (Anonymous)
+Ano0423-O_inextimabilis_dilectio.krn  Ano0423 23. <h1start>O inextimabilis dilectio<h1end> (Anonymous)
 
 @dummy	Gas0500	<br> </div><h2>V. Settings of liturgical texts</h2>
 
