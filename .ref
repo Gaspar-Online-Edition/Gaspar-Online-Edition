@@ -1,8 +1,9 @@
 @dummy	Gas01	<h2>I/II. Masses </h2>
 
-@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	1. <hlstart>Missa Ave regina<hend>
-Gas0101a-Missa_ave_regina-Kyrie.krn	Gas0101a	Kyrie
-Gas0101b-Missa_ave_regina-Gloria.krn	Gas0101b	Gloria
+@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	1. <hlstart>Missa Ave regina celorum<hend>
+Gas0101a-Missa_Ave_regina_celorum-Kyrie.krn	Gas0101a	Kyrie
+Gas0101b-Missa_Ave_regina_celorum-Gloria.krn	Gas0101b	Gloria
+Gas0101c-Missa_Ave_regina_celorum-Credo.krn Gas0101c  Credo
 
 @Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	2. <hlstart>Missa brevis<hend>
 Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Kyrie
