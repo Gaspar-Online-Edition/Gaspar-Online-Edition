@@ -1514,14 +1514,14 @@
 2C	-tu-	2G	-tam	2G	-tu-	2e	.
 =251	=251	=251	=251	=251	=251	=251	=251
 *lig	*	*	*	*	*	*	*
-2FF	-ri	1A	ven-	1F	-ri-	1f	vi-
+2FF	-ri	1A	ven-	1F	-ri	1f	vi-
 2F	se-	.	.	.	.	.	.
 *Xlig	*	*	*	*	*	*	*
-2E	-cu-	2G	-tu-	2C	-se-	2g	-tam
+2E	-cu-	2G	-tu-	2C	se-	2g	-tam
 =252	=252	=252	=252	=252	=252	=252	=252
 *	*	*	*	*col	*	*	*
 *	*	*lig	*	*	*	*	*
-2F	-li.	2F	-ri	1c	-cu-li.	2a	ven-
+2F	-li.	2F	-ri	1c	-culi.	2a	ven-
 2C	A-	2c	se-	.	.	2a	-tu-
 *	*	*Xlig	*	*	*	*	*
 2BB-y	.	2d	-cu-	2r	.	2b-y	-ri
