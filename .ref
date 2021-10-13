@@ -4,8 +4,15 @@
 Gas0101a-Missa_Ave_regina_celorum-Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_Ave_regina_celorum-Gloria.krn	Gas0101b	Gloria
 Gas0101c-Missa_Ave_regina_celorum-Credo.krn Gas0101c  Credo
+Gas0101d-Missa_Ave_regina_celorum-Sanctus.krn Gas0101d  Sanctus
 
-@Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	2. <hlstart>Missa brevis<hend>
+@Gas0102a:Gas0102b:Gas0102c:Gas0102d:Gas0102e Gas0102 2. <h1start>Missa O venus bant<hend>
+
+@Gas0103a:Gas0103b:Gas0103c:Gas0103d:Gas0103e Gas0103 3. <h1start>Missa Princesse d'amourettes<hend>
+
+@Gas0104a:Gas0104b:Gas0104c:Gas0104d:Gas0104e Gas0104 4. <h1start>Missa Se mieulx ne vient<hend>
+
+@Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	5. <hlstart>Missa brevis<hend>
 Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Kyrie
 Gas0201c-Missa_brevis-Credo.krn	Gas0201c	Credo
 Gas0201d-Missa_brevis-Sanctus.krn	Gas0201d	Sanctus
