@@ -5,8 +5,11 @@ Gas0101a-Missa_Ave_regina_celorum-Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_Ave_regina_celorum-Gloria.krn	Gas0101b	Gloria
 Gas0101c-Missa_Ave_regina_celorum-Credo.krn Gas0101c  Credo
 Gas0101d-Missa_Ave_regina_celorum-Sanctus.krn Gas0101d  Sanctus
+Gas0101e-Missa_Ave_regina_celorum-Agnus.krn Gas0101e  Agnus Dei
 
 @Gas0102a:Gas0102b:Gas0102c:Gas0102d:Gas0102e Gas0102 2. <h1start>Missa O venus bant<hend>
+Gas0102a-Missa_O_venus_bant-Kyrie.krn Gas0102a  Kyrie
+Gas0102b-Missa_O_venus_bant-Gloria.krn  Gas0102b  Gloria
 
 @Gas0103a:Gas0103b:Gas0103c:Gas0103d:Gas0103e Gas0103 3. <h1start>Missa Princesse d'amourettes<hend>
 
@@ -14,9 +17,21 @@ Gas0101d-Missa_Ave_regina_celorum-Sanctus.krn Gas0101d  Sanctus
 
 @Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	5. <hlstart>Missa brevis<hend>
 Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Kyrie
+Gas0201b-Missa_brevis-Gloria.krn  Gas0201b  Gloria
 Gas0201c-Missa_brevis-Credo.krn	Gas0201c	Credo
 Gas0201d-Missa_brevis-Sanctus.krn	Gas0201d	Sanctus
-Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Agnus
+Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Agnus Dei
+
+@Gas0202a:Gas0202b:Gas0202c:Gas0202d:Gas0202e	Gas0202	6. <hlstart>Missa Et trop penser<hend>
+Gas0202a-Missa_Et_trop_penser-Kyrie.krn Gas0202a  Kyrie
+Gas0202b-Missa_Et_trop_penser-Gloria.krn  Gas0202b  Gloria
+Gas0202c-Missa_Et_trop_penser-Credo.krn Gas0202c  Credo
+Gas0202d-Missa_Et_trop_penser-Sanctus.krm Gas0202d  Sanctus
+Gas0202e-Missa_Et_trop_penser-Agnus.krn Gas0202e  Agnus Dei
+
+@Gas0203a:Gas0203b:Gas0203c:Gas0203d:Gas0203e	Gas0203	7. <hlstart>Missa N'as tu pas<hend>
+Gas0203a-Missa_N'as_tu_pas-Kyrie.krn  Gas0203a  Kyrie
+Gas0203b-Missa_N'as_tu_pas-Gloria Gas0203b  Gloria
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
