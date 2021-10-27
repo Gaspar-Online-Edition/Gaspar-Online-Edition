@@ -411,7 +411,7 @@
 .	.	.	.	4B	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45
 *	*	*	*	*	*	*	*Xedit
-1.Cl	-ens.	1.Gl	-ens.	1.cl	-ens.	1.el	-ens.
+1.Cl	-ens.	1.Gl	--ens.	1.cl	-ens.	1.el	-ens.
 !!LO:PB:g=original
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -936,10 +936,10 @@
 8CJ	.	.	.	8GJ	.	8BJ	.
 2D	.	.	.	2F#i	.	2A	.
 =134	=134	=134	=134	=134	=134	=134	=134
-*	*	*	*	*	*	*	*Xedit
-1GGl	-ctus.	1Gl	[san]-<i>ctus.</i>	1Gl 1dl	-ctus.	1Gl	-ctus.
+*	*	*	*edit	*	*	*	*Xedit
+1GGl	-ctus.	1Gl	--ctus.	1Gl 1dl	-ctus.	1Gl	-ctus.
 =135||	=135||	=135||	=135||	=135||	=135||	=135||	=135||
-*M3/2	*	*M3/2	*edit	*M3/2	*	*M3/2	*
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(C|3)	*	*met(C|3)	*	*met(C|3)	*Xedit	*met(C|3)	*
 !!LO:TX:a:t=C|3
 1.r	.	1.r	.	1.c	Tu	1.r	.
