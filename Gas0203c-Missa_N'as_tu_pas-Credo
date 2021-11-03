@@ -1,5 +1,4 @@
 !!!RNB: m. 147, T: compare printed edition (whole note)
-!!!RNB: text needs to be checked
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Missa N'as tu pas
@@ -20,11 +19,11 @@
 =1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1r	.	2F	Pa-	2f	Pa-
 .	.	.	.	4F	-trem	4f	-trem
-.	.	.	.	4F	o-	4f	o-
+.	.	.	.	4F	om-	4f	om-
 =2	=2	=2	=2	=2	=2	=2	=2
-1r	.	1r	.	4F	-mni-	4a	-mni-
-.	.	.	.	4G	-po-	4b-y	-po-
-.	.	.	.	4.A	-ten-	8ccL	-ten-
+1r	.	1r	.	4F	-ni-	4a	-ni-
+.	.	.	.	4G	-pot-	4b-y	-pot-
+.	.	.	.	4.A	-en-	8ccL	-en-
 .	.	.	.	.	.	8b-y	.
 .	.	.	.	.	.	8a	.
 .	.	.	.	8B-y	.	8gJ	.
@@ -49,7 +48,7 @@
 .	.	.	.	.	.	8fJ	.
 .	.	.	.	4A	-re,	4a	-re,
 =6	=6	=6	=6	=6	=6	=6	=6
-4FF	vi-	4F	vi-	1r	.	1r	.
+4FF	Vi-	4F	Vi-	1r	.	1r	.
 4FF	-si-	4F	-si-	.	.	.	.
 4.FF	-bi-	4A	-bi-	.	.	.	.
 .	.	4A	-li-	.	.	.	.
@@ -105,19 +104,18 @@
 4C	Chri-	4G	Chri-	4e	Chri-	4cc	Chri-
 !!LO:PB:g=original
 =15	=15	=15	=15	=15	=15	=15	=15
-2C	-stum	2E	-stum	2e	-stum	4.cc	-stum,
+2C	-stum,	2E	-stum,	2e	-stum,	4.cc	-stum,
 .	.	.	.	.	.	8b-y	.
 4D	Fi-	4F	Fi-	4d	Fi-	4a	.
 4AA	-li-	4E	-li-	4c	-li-	4cc	Fi-
 =16	=16	=16	=16	=16	=16	=16	=16
-2AA	-um	4.E	-um	8AL	-um	2cc	-li
+2AA	-um	4.E	-um	8AL	-um	2cc	-li-um
 .	.	.	.	8B-y	.	.	.
 .	.	.	.	8c	.	.	.
 .	.	8F	.	8dJ	.	.	.
 4GG	De-	4G	De-	4e	De-	4b-y	De-
-4FF	-i	4A	-i	[4f	-i	4a	-i
+4FF	-i	4A	-i.	[4f	-i	4a	-i.
 =17	=17	=17	=17	=17	=17	=17	=17
-!	!	!	!	!	!	!LO:TX:b:t=-  um	!
 4F	u-	1r	.	4f]	.	1r	.
 4F	-ni-	.	.	4A	u-	.	.
 2D	-ge-	.	.	4A	-ni-	.	.
@@ -159,12 +157,12 @@
 .	.	.	.	.	.	4f#i	.
 =23	=23	=23	=23	=23	=23	=23	=23
 4r	.	4G	-tum	4r	.	4g	-tum
-4F	an-	4c	an-	4f	an-	4a	an-
+4F	An-	4c	an-	4f	An-	4a	an-
 4F	-te	4c	-te	4f	-te	4a	-te
-4F	o-	4c	o-	[4f	o-	4a	o-
+4F	om-	4c	om-	[4f	om-	4a	om-
 =24	=24	=24	=24	=24	=24	=24	=24
-4BB-y	-mni-	8dL	-mni-	8fL]	.	8b-yL	-mni-
-.	.	8c	.	8fJ	-mni-	8a	.
+4BB-y	-ni-	8dL	-ni-	8fL]	.	8b-yL	-ni-
+.	.	8c	.	8fJ	-ni-	8a	.
 4BB-y	-a	8B-y	.	4d	-a	8g	.
 .	.	8AJ	.	.	.	8fJ	.
 4C	se-	4G	.	4e	se-	8eL	.
@@ -184,10 +182,10 @@
 =27	=27	=27	=27	=27	=27	=27	=27
 2r	.	4G	De-	4d	De-	8gL	De-
 .	.	.	.	.	.	8f	.
-.	.	2c	-o,	4e	-o,	8e	.
+.	.	2c	-o,	4e	-o.	8e	.
 .	.	.	.	.	.	8dJ	.
 4r	.	.	.	2r	.	4e	-o,
-4C	lu-	4c	lu-	.	.	4g	lu-
+4C	Lu-	4c	lu-	.	.	4g	lu-
 =28	=28	=28	=28	=28	=28	=28	=28
 4C	-men	4c	-men	1r	.	4g	-men
 4C	de	4c	de	.	.	4g	de
@@ -241,7 +239,7 @@
 .	.	.	.	4G	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36
 2AA	-ctum,	1r	.	4A	-ctum,	4r	.
-.	.	.	.	4F	con-	4cc	con-
+.	.	.	.	4F	con-	4cc	Con-
 2r	.	.	.	4F	-sub-	4cc	-sub-
 .	.	.	.	4F	-stan-	4cc	-stan-
 =37	=37	=37	=37	=37	=37	=37	=37
@@ -259,11 +257,11 @@
 .	.	.	.	.	.	4g	.
 =39	=39	=39	=39	=39	=39	=39	=39
 4r	.	4r	.	4A	-tri:	4a	-tri:
-4FF	per	4c	per	4A	per	4a	per
+4FF	Per	4c	Per	4A	per	4a	per
 4FF	quem	4c	quem	4F	quem	4a	quem
-4FF	o-	4c	o-	4c	o-	4a	o-
+4FF	om-	4c	om-	4c	om-	4a	om-
 =40	=40	=40	=40	=40	=40	=40	=40
-4BB-y	-mni-	4d	-mni-	4B-y	-mni-	8b-yL	-mni-
+4BB-y	-ni-	4d	-ni-	4B-y	-ni-	8b-yL	-ni-
 .	.	.	.	.	.	8a	.
 4BB-y	-a	4d	-a	4B-y	-a	8g	.
 .	.	.	.	.	.	8fJ	.
@@ -299,7 +297,7 @@
 4C]	.	2r	.	4D	.	2ra	.
 4BBni	-mi-	.	.	4D	-mi-	.	.
 2C	-nes,	4r	.	2C	-nes,	4r	.
-.	.	4A	et	.	.	4e	et
+.	.	4A	et	.	.	4e	Et
 =46	=46	=46	=46	=46	=46	=46	=46
 1r	.	4A	pro-	1r	.	4e	pro-
 .	.	4A	-pter	.	.	4f	-pter
@@ -466,7 +464,7 @@
 .	.	4E	.	.	.	.	.
 !!LO:LB:g=original
 =74	=74	=74	=74	=74	=74	=74	=74
-1FF	-to	2F	-to	1r	.	2r	.
+1FF	-to.	2F	-to.	1r	.	2r	.
 .	.	2r	.	.	.	4f	pas-
 .	.	.	.	.	.	4f	-sus
 =75	=75	=75	=75	=75	=75	=75	=75
@@ -489,7 +487,7 @@
 1r	.	2r	.	4B-y	ter-	4g	di-
 .	.	.	.	8A	-ti-	4f	-e,
 .	.	.	.	8A	-a	.	.
-.	.	4E	se-	4G	di-	4g	se-
+.	.	4E	Se-	4G	di-	4g	se-
 .	.	4F	-cun-	4F	-e,	[4a	-cun-
 !!LO:PB:g=original
 =79	=79	=79	=79	=79	=79	=79	=79
@@ -497,7 +495,7 @@
 2r	.	(4D	-dum	4A	se-	8aL]	.
 .	.	.	.	.	.	8gJ	.
 .	.	4D)	.	4B-y	-cun-	4f	.
-4C	se-	8CL	Scri-	2c	-dum	2e	-dum
+4C	Se-	8CL	Scri-	2c	-dum	2e	-dum
 .	.	8D	.	.	.	.	.
 4AA	-cun-	8E	.	.	.	.	.
 .	.	8FJ	.	.	.	.	.
@@ -515,25 +513,25 @@
 .	.	4Bni	.	4F	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82
 2C	-ras.	2c	-ras.	2G	-ras.	4e	Et
-.	.	.	.	.	.	4e	as-
-2r	.	2r	.	8AL	Et	8cL	-cen-
+.	.	.	.	.	.	4e	a-
+2r	.	2r	.	8AL	Et	8cL	-scen-
 .	.	.	.	8B-y	.	8d	.
 .	.	.	.	8c	.	8e	.
 .	.	.	.	8dJ	.	8fJ	.
 =83	=83	=83	=83	=83	=83	=83	=83
-1r	.	1r	.	4e	as-	4g	.
-.	.	.	.	4f	-cen-	4a	-dit
+1r	.	1r	.	4e	a-	4g	.
+.	.	.	.	4f	-scen-	4a	-dit
 .	.	.	.	4e	-dit	4g	in
 .	.	.	.	4c	in	[4cc	ce-
 =84	=84	=84	=84	=84	=84	=84	=84
 1r	.	2r	.	2d	ce-	4cc]	.
 .	.	.	.	.	.	4bni	.
-.	.	4r	.	2c	-lum:	2cc	-lum:
-.	.	4c	se-	.	.	.	.
+.	.	4r	.	2c	-lum.	2cc	-lum.
+.	.	4c	Se-	.	.	.	.
 !!LO:LB:g=original
 =85	=85	=85	=85	=85	=85	=85	=85
 4r	.	4G	-det	1r	.	1r	.
-4C	se-	4G	ad	.	.	.	.
+4C	Se-	4G	ad	.	.	.	.
 4GG	-det	4B-y	dex-	.	.	.	.
 4GG	ad	4B-y	-te-	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86
@@ -567,7 +565,7 @@
 =90	=90	=90	=90	=90	=90	=90	=90
 4F	-rum	4A	.	4c	.	4cc	-tu-
 4A	ven-	4A	ven-	2f	-tus	4cc	-rus
-4G	-tu-	4B-y	-tu-	.	.	4.b-y	est
+4G	-tu-	4B-y	-tu-	.	.	4.b-y	est:
 4G	-rus	4B-y	-rus	4e	.	.	.
 .	.	.	.	.	.	8g	.
 !!LO:LB:g=original
@@ -577,18 +575,18 @@
 4F	glo-	4A	glo-	2r	.	2r	.
 4D	-ri-	4B-y	-ri-	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92
-2C	-a,	8cL	-a,	1r	.	1r	.
+2C	-a	8cL	-a,	1r	.	1r	.
 .	.	8B-y	.	.	.	.	.
 .	.	8A	.	.	.	.	.
 .	.	8GJ	.	.	.	.	.
-4F	iu-	4A	.	.	.	.	.
+4F	ju-	4A	.	.	.	.	.
 !!LO:S:dash
-4F	-di-	(4c	iu-	.	.	.	.
+4F	-di-	(4c	ju-	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93
 2F	-ca-	4c)	.	1r	.	1r	.
 .	.	4c	-di-	.	.	.	.
 4G	-re	4B-y	-ca-	.	.	.	.
-4A	.	4A	-re	.	.	.	.
+4A	.	4A	-re.	.	.	.	.
 =94	=94	=94	=94	=94	=94	=94	=94
 4F	vi-	1r	.	4A	vi-	1r	.
 4F	-vos	.	.	4A	-vos	.	.
@@ -602,12 +600,12 @@
 2D	-tu-	.	.	.	.	.	.
 .	.	.	.	4Bni	-tu-	.	.
 =96	=96	=96	=96	=96	=96	=96	=96
-2C	-os:	1r	.	2c	-os:	2r	.
+2C	-os.	1r	.	2c	-os:	2r	.
 2r	.	.	.	4r	.	2cc	cu-
 .	.	.	.	4c	cu-	.	.
 !!LO:LB:g=original
 =97	=97	=97	=97	=97	=97	=97	=97
-1r	.	1r	.	4f	-ius	4cc	-ius
+1r	.	1r	.	4f	-jus	4cc	-jus
 .	.	.	.	4e	re-	4cc	re-
 .	.	.	.	4f	-gni	4a	-gni
 .	.	.	.	4e	non	4cc	non
@@ -657,7 +655,7 @@
 .	.	4E	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105	=105
 4FF	-tem:	4F	-tem:	2f	qui	4r	.
-4F	qui	4c	qui	.	.	4a	qui
+4F	qui	4c	qui	.	.	4a	Qui
 4F	ex	4c	ex	4f	ex	4a	ex
 4F	Pa-	4c	Pa-	4f	Pa-	4a	Pa-
 =106	=106	=106	=106	=106	=106	=106	=106
@@ -694,7 +692,7 @@
 2C	.	2G	.	.	.	.	.
 .	.	.	.	.	.	4e	.
 =111	=111	=111	=111	=111	=111	=111	=111
-2FF	-dit.	2F	-dit.	4A	-dit..	2f	-dit.
+2FF	-dit.	2F	-dit.	4A	-dit.	2f	-dit.
 .	.	.	.	4F	Qui	.	.
 4r	.	2r	.	4A	cum	2r	.
 4FF	Qui	.	.	4A	Pa-	.	.
@@ -711,17 +709,17 @@
 2BB-y	-li-	.	.	.	.	.	.
 .	.	.	.	4G	-li-	.	.
 =114	=114	=114	=114	=114	=114	=114	=114
-2AA	-o	2r	.	2A	-o	4r	.
-.	.	.	.	.	.	4f	si-
+2AA	-o,	2r	.	2A	-o,	4r	.
+.	.	.	.	.	.	4f	Si-
 2r	.	4r	.	2r	.	4a	-mul
-.	.	4F	si-	.	.	4a	a-
+.	.	4F	Si-	.	.	4a	ad-
 !!LO:LB:g=original
 =115	=115	=115	=115	=115	=115	=115	=115
-1r	.	4A	-mul	1r	.	4.cc	-do-
-.	.	4A	a-	.	.	.	.
+1r	.	4A	-mul	1r	.	4.cc	-o-
+.	.	4A	ad-	.	.	.	.
 .	.	.	.	.	.	16b-yLL	.
 .	.	.	.	.	.	16aJJ	.
-.	.	4.c	-do-	.	.	8gL	.
+.	.	4.c	-o-	.	.	8gL	.
 .	.	.	.	.	.	8fJ	.
 .	.	.	.	.	.	4cc	.
 .	.	8B-y	.	.	.	.	.
@@ -731,7 +729,7 @@
 .	.	2B-y	-ra-	.	.	.	.
 .	.	.	.	.	.	4g	.
 =117	=117	=117	=117	=117	=117	=117	=117
-2r	.	2A	-tur,	4r	.	2a	-tur,
+2r	.	2A	-tur:	4r	.	2a	-tur:
 .	.	.	.	4A	et	.	.
 4r	.	2r	.	4.c	con-	2r	.
 4AA	et	.	.	.	.	.	.
@@ -782,10 +780,10 @@
 .	.	.	.	4Bni	-li-	.	.
 !!LO:PB:g=original
 =127	=127	=127	=127	=127	=127	=127	=127
-1r	.	2r	.	2c	-cam	4c	-cam
+1r	.	2r	.	2c	-cam.	4c	-cam
 .	.	.	.	.	.	4c	et
 .	.	4r	.	2r	.	4f	a-
-.	.	4C	et	.	.	4e	-po-
+.	.	4C	Et	.	.	4e	-po-
 =128	=128	=128	=128	=128	=128	=128	=128
 1r	.	4F	a-	1r	.	4f	-sto-
 .	.	4E	-po-	.	.	4g	-li-
@@ -805,11 +803,11 @@
 1r	.	1r	.	4A	-or	4cc	-fi-
 .	.	.	.	4d	u-	4b-y	-te-
 .	.	.	.	8c	-num	4a	-or
-.	.	.	.	8A	bap-	.	.
-.	.	.	.	4B-y	-tis-	4dd	u-
+.	.	.	.	8A	ba-	.	.
+.	.	.	.	4B-y	-pti-	4dd	u-
 !!LO:LB:g=original
 =132	=132	=132	=132	=132	=132	=132	=132
-2r	.	4r	.	4A	-ma	8cc	-num
+2r	.	4r	.	4A	-sma.	8cc	-num
 .	.	.	.	.	.	8a	bap-
 .	.	4d	in	4r	.	4b-y	-tis-
 4r	.	4c	re-	2r	.	4a	-ma
@@ -848,9 +846,9 @@
 2r	.	2r	.	2F	Et	.	.
 =138	=138	=138	=138	=138	=138	=138	=138
 1F	Et	1.r	.	1A	ex-	1.r	.
-2G	ex-	.	.	2B-y	-pec-	.	.
+2G	ex-	.	.	2B-y	-spe-	.	.
 =139	=139	=139	=139	=139	=139	=139	=139
-4A	-pec-	1.r	.	4c	-to	2r	.
+4A	-spe-	1.r	.	4c	-cto	2r	.
 4G	.	.	.	4B-y	.	.	.
 4F	.	.	.	4A	.	2r	.
 4E	.	.	.	4G	.	.	.
@@ -858,11 +856,11 @@
 =140	=140	=140	=140	=140	=140	=140	=140
 2.D	.	1.r	.	2.f	re-	1a	ex-
 4C	.	.	.	4e	-sur-	.	.
-2BB-y	.	.	.	2d	-re-	2b-y	-pec-
+2BB-y	.	.	.	2d	-re-	2b-y	-spe-
 =141	=141	=141	=141	=141	=141	=141	=141
-2AA	.	1.r	.	2c	-cti-	4cc	-to
+2AA	.	1.r	.	2c	-cti-	4cc	-cto
 .	.	.	.	.	.	4b-y	.
-2FF	-to	.	.	2f	-o-	4a	.
+2FF	-cto	.	.	2f	-o-	4a	.
 .	.	.	.	.	.	4g	.
 2r	.	.	.	2f	-nem	2a	.
 !!LO:LB:g=original
@@ -876,9 +874,9 @@
 2A	re-	1.r	.	2c	-tu-	2cc	-cti-
 2G	-sur-	.	.	4.d	-o-	2b-y	-o-
 .	.	.	.	8e	.	.	.
-2F	-re-	.	.	2f	-rum.	2a	-nem
+2F	-re-	.	.	2f	-rum.	2a	-nem.
 =144	=144	=144	=144	=144	=144	=144	=144
-2D	-cti-	1A	mor-	1.r	.	1.r	.
+2D	-cti-	1A	Mor-	1.r	.	1.r	.
 1F	-o-	.	.	.	.	.	.
 .	.	2A	-tu-	.	.	.	.
 =145	=145	=145	=145	=145	=145	=145	=145
@@ -933,12 +931,12 @@
 2G	A-	2B-y	.	.	.	.	.
 .	.	.	.	.	.	4f	.
 *	*	*	*	*	*edit	*	*edit
-2D	.	2A	.	2d	-men.	2f	-men.
+2D	.	2A	.	2d	-men,	2f	-men,
 *Xcol	*	*	*	*	*	*	*
 *	*	*Xlig	*	*	*	*	*
 =154	=154	=154	=154	=154	=154	=154	=154
 *lig	*	*	*	*lig	*	*	*
-2GG	.	2G	.	2d	A-	2b-y	A-
+2GG	.	2G	.	2d	a-	2b-y	a-
 2D	.	2F	.	2f	.	2a	.
 *Xlig	*	*lig	*	*Xlig	*	*	*
 2E-X	.	2B-y	.	2g	.	2g	.
