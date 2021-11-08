@@ -1,7 +1,7 @@
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Missa N'as tu pas
-!!!OTL: Gloria
+!!!OTL: Sanctus
 !!!AGN: Mass
 !!!SCT: Gas0203d
 !!!SCA: Gas0203d
@@ -64,8 +64,8 @@
 .	.	.	.	8EJ	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
 *	*	*lig	*	*	*	*	*
-2r	.	2c	San-	4F	.	8a]	.
-.	.	.	.	.	.	8gL	.
+2r	.	2c	San-	4F	.	8aL]	.
+.	.	.	.	.	.	8g	.
 .	.	.	.	4C	.	8e	.
 .	.	.	.	.	.	8fJ	.
 *	*Xedit	*	*	*	*	*	*
@@ -83,8 +83,8 @@
 [4D	.	.	.	4D	.	.	.
 !!LO:LB:g=original
 =11	=11	=11	=11	=11	=11	=11	=11
-8D]	.	1A]	.	4.d	.	2.f	San-
-8C	.	.	.	.	.	.	.
+8DL]	.	1A]	.	4.d	.	2.f	San-
+8CJ	.	.	.	.	.	.	.
 2D	.	.	.	.	.	.	.
 .	.	.	.	8e	.	.	.
 .	.	.	.	4f	.	.	.
@@ -133,8 +133,8 @@
 8GJ	.	.	.	.	.	8b-yJ	.
 [4A	.	.	.	.	.	[4cc	.
 =18	=18	=18	=18	=18	=18	=18	=18
-8A]	.	2c]	.	1r	.	8cc]	.
-8GL	.	.	.	.	.	8b-yL	.
+8AL]	.	2c]	.	1r	.	8ccL]	.
+8G	.	.	.	.	.	8b-y	.
 8F	.	.	.	.	.	8a	.
 8EJ	.	.	.	.	.	8gJ	.
 8FL	.	4c	.	.	.	4a	.
@@ -216,8 +216,8 @@
 .	.	4G	.	4B-y	-mi-	2r	.
 .	.	[4A	De-	[4c	-nus	.	.
 =31	=31	=31	=31	=31	=31	=31	=31
-1r	.	4A]	.	8c]	.	1r	.
-.	.	.	.	8d	.	.	.
+1r	.	4A]	.	8cL]	.	1r	.
+.	.	.	.	8dJ	.	.	.
 .	.	8GL	.	2e	.	.	.
 .	.	8FJ	.	.	.	.	.
 .	.	4E	.	.	.	.	.
@@ -245,14 +245,14 @@
 4FF	.	8FL	.	[4c	Sa-	[4a	.
 .	.	8GJ	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35
-2F	.	8AL	.	4c]	.	8a]	.
-.	.	8B-yJ	.	.	.	8g	.
+2F	.	8AL	.	4c]	.	8aL]	.
+.	.	8B-yJ	.	.	.	8gJ	.
 .	.	4c	.	4f	.	4a	.
 4G	.	4B-y	.	4e	.	4g	.
 4F	.	[4c	.	4f	.	[4a	.
 =36	=36	=36	=36	=36	=36	=36	=36
-4E	.	4c]	.	2c	.	8a]	.
-.	.	.	.	.	.	8g	.
+4E	.	4c]	.	2c	.	8aL]	.
+.	.	.	.	.	.	8gJ	.
 4F	.	4A	.	.	.	2f	-ba-
 2C	-ba-	2G	-ba-	2c	-ba-	.	.
 .	.	.	.	.	.	4e	.
@@ -344,7 +344,7 @@
 .	.	.	.	4f	.	4f	.
 =52	=52	=52	=52	=52	=52	=52	=52
 *	*Xedit	*	*	*	*	*	*
-8FFL	ce-	2.A	ce-	1r	.	1r	.
+8FFL	Ce-	2.A	Ce-	1r	.	1r	.
 8GG	.	.	.	.	.	.	.
 8AA	.	.	.	.	.	.	.
 8BB-yJ	.	.	.	.	.	.	.
@@ -445,11 +445,11 @@
 [1BB-y	-cel-	1F	-sis,	2.B-y	ex-	2.d	-cel-
 .	.	.	.	[4d	-cel-	[4f	.
 =69	=69	=69	=69	=69	=69	=69	=69
-1BB-]	.	2r	.	8d]	.	8f]	.
-.	.	.	.	8e	.	8eL	.
+1BB-]	.	2r	.	8dL]	.	8fL]	.
+.	.	.	.	8eJ	.	8e	.
 .	.	.	.	4.f	.	8d	.
 .	.	.	.	.	.	8cJ	.
-.	.	2F	O-	.	.	2d	-sis,
+.	.	2F	o-	.	.	2d	-sis,
 .	.	.	.	8eL	.	.	.
 .	.	.	.	8d	.	.	.
 .	.	.	.	8cJ	.	.	.
@@ -458,23 +458,25 @@
 .	.	.	.	8c	.	.	.
 .	.	4D	.	8d	.	.	.
 .	.	.	.	8e-iJ	.	.	.
-.	.	2G	-na,	4d	.	2b-y	O-
+.	.	2G	-na,	4d	.	2b-y	o-
 .	.	.	.	[4g	.	.	.
 !!LO:LB:g=original
 =71	=71	=71	=71	=71	=71	=71	=71
 1GG]	.	2r	.	4g]	.	2b-y	-san-
 .	.	.	.	8fL	.	.	.
 .	.	.	.	8eJ	.	.	.
-.	.	[2G	O-	2d	.	2b-y	-na
+.	.	[2G	o-	2d	.	2b-y	-na
 =72	=72	=72	=72	=72	=72	=72	=72
 *	*	*	*	*	*	*	*Xedit
-2C	O-	2G]	.	2c	-sis,	4.cc	in
+*	*	*	*	*	*	*col	*
+2C	o-	2G]	.	2c	-sis,	4.cc	in
 .	.	.	.	.	.	8b-y	.
+*	*	*	*	*	*	*Xcol	*
 4FF	-san-	2c	.	2r	.	8aL	.
 .	.	.	.	.	.	8gJ	.
 [4F	-na	.	.	.	.	[4a	.
 =73	=73	=73	=73	=73	=73	=73	=73
-4F]	.	4A	-san-	4c	O-	8aL]	.
+4F]	.	4A	-san-	4c	o-	8aL]	.
 .	.	.	.	.	.	8gJ	.
 4.G	in	4G	-na	4B-y	-san-	4.b-y	ex-
 .	.	2B-y	in	4d	-na	.	.
@@ -482,8 +484,8 @@
 8E	.	.	.	[4G	in	8g	.
 8DJ	.	.	.	.	.	8fJ	.
 =74	=74	=74	=74	=74	=74	=74	=74
-4C	.	4c	ex-	8G]	.	4e	.
-.	.	.	.	8A	.	.	.
+4C	.	4c	ex-	8GL]	.	4e	.
+.	.	.	.	8AJ	.	.	.
 4D	ex-	4F	.	4B-y	ex-	2f	-cel-
 2C	-cel-	2G	-cel-	2c	-cel-	.	.
 .	.	.	.	.	.	4e	.
@@ -498,15 +500,19 @@
 .	.	.	.	.	.	4a	-ne-
 .	.	.	.	4d	-ne-	4b-y	.
 =77	=77	=77	=77	=77	=77	=77	=77
+*	*	*	*	*	*	*col	*
 1r	.	1r	.	4e	.	4.cc	-di-
 .	.	.	.	4.f	-di-	.	.
 .	.	.	.	.	.	8b-y	.
+*	*	*	*	*	*	*Xcol	*
 .	.	.	.	.	.	4a	.
 .	.	.	.	8e	.	.	.
+*	*	*	*	*	*	*col	*
 .	.	.	.	4c	.	[4cc	.
 =78	=78	=78	=78	=78	=78	=78	=78
-1r	.	1r	.	4.f	.	8cc]	.
-.	.	.	.	.	.	8b-yL	.
+1r	.	1r	.	4.f	.	8ccL]	.
+.	.	.	.	.	.	8b-y	.
+*	*	*	*	*	*	*Xcol	*
 .	.	.	.	.	.	8a	.
 .	.	.	.	8e	.	8gJ	.
 .	.	.	.	8dL	.	4.f	.
@@ -521,7 +527,7 @@
 .	.	.	.	.	.	4g	.
 =80	=80	=80	=80	=80	=80	=80	=80
 *	*Xedit	*	*Xedit	*	*	*	*
-2F	qui	2F	qui	2A	-ctus	2a	-ctus
+2F	Qui	2F	Qui	2A	-ctus	2a	-ctus
 4F	ve-	4A	ve-	2r	.	2r	.
 4D	.	4B-y	.	.	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81
@@ -533,8 +539,8 @@
 4C	.	[4c	.	.	.	.	.
 !!LO:LB:g=original
 =82	=82	=82	=82	=82	=82	=82	=82
-4.F	.	8c]	.	1r	.	1r	.
-.	.	8B-yL	.	.	.	.	.
+4.F	.	8cL]	.	1r	.	1r	.
+.	.	8B-y	.	.	.	.	.
 .	.	8A	.	.	.	.	.
 8E	.	8GJ	.	.	.	.	.
 8DL	.	4F	.	.	.	.	.
@@ -559,10 +565,12 @@
 .	.	.	.	8A	.	.	.
 .	.	.	.	8B-yL	.	.	.
 .	.	.	.	8cJ	.	.	.
+*	*	*	*	*	*	*col	*
 .	.	.	.	[4d	.	[4f	-ne
 =86	=86	=86	=86	=86	=86	=86	=86
-4r	.	1r	.	8d]	.	8fL]	.
-.	.	.	.	8cL	.	8e	.
+4r	.	1r	.	8dL]	.	8fL]	.
+.	.	.	.	8c	.	8e	.
+*	*	*	*	*	*	*Xcol	*
 *	*edit	*	*	*	*	*	*
 4D	in	.	.	8Bni	.	8d	.
 .	.	.	.	8AJ	.	8cJ	.
@@ -579,7 +587,7 @@
 =88	=88	=88	=88	=88	=88	=88	=88
 4G]	.	4A	no-	1r	.	1r	.
 2F	Do-	4F	-mi-	.	.	.	.
-.	.	2G	-ne	.	.	.	.
+.	.	2G	-ne.	.	.	.	.
 4E	-mi-	.	.	.	.	.	.
 =89	=89	=89	=89	=89	=89	=89	=89
 2F	-ni.	1r	.	8FL	Do-	4r	.
@@ -625,21 +633,23 @@
 .	.	.	.	4A	.	.	.
 4G	.	4B-y	.	4G	.	4b-y	.
 =97	=97	=97	=97	=97	=97	=97	=97
+*	*	*	*	*	*	*col	*
 4A	.	2.c	.	4.F	.	4.a	.
 4F	.	.	.	.	.	.	.
 .	.	.	.	8E	.	8g	.
+*	*	*	*	*	*	*Xcol	*
 4C	.	.	.	[2G	.	4e	.
 [4E-X	-cel-	[4B-y	.	.	.	[4g	.
 =98	=98	=98	=98	=98	=98	=98	=98
-4E-]	.	8B-]	.	4G]	.	4g]	.
-.	.	8A	.	.	.	.	.
+4E-]	.	8B-L]	.	4G]	.	4g]	.
+.	.	8AJ	.	.	.	.	.
 4F	.	4F	.	2.c	.	2f	-cel-
 2C	-sis,	2G	-cel-	.	.	.	.
 .	.	.	.	.	.	4e	.
 !!LO:LB:g=original
 =99	=99	=99	=99	=99	=99	=99	=99
-2D	O-	2F	-sis,	2A	-cel-	1f	-sis,
-4D	-san-	2A	O-	2F	-sis,	.	.
+2D	o-	2F	-sis,	2A	-cel-	1f	-sis,
+4D	-san-	2A	o-	2F	-sis,	.	.
 [4D	-na	.	.	.	.	.	.
 =100	=100	=100	=100	=100	=100	=100	=100
 4D]	.	4A	-san-	1r	.	1r	.
@@ -671,8 +681,8 @@
 4E	.	4G	.	.	.	.	.
 4F	.	[4A	.	.	.	.	.
 =104	=104	=104	=104	=104	=104	=104	=104
-4.D	.	8A]	.	1r	.	1r	.
-.	.	8G	.	.	.	.	.
+4.D	.	8AL]	.	1r	.	1r	.
+.	.	8GJ	.	.	.	.	.
 .	.	4B-y	.	.	.	.	.
 8BB-y	.	.	.	.	.	.	.
 4C	.	4A	.	.	.	.	.
@@ -684,15 +694,15 @@
 2BB-y	-cel-	.	.	.	.	.	.
 .	.	4G	.	.	.	.	.
 =106	=106	=106	=106	=106	=106	=106	=106
-2AA	-sis,	2A	-sis,	4.c	O-	8cL	O-
+2AA	-sis,	2A	-sis,	4.c	o-	8cL	o-
 .	.	.	.	.	.	8d	.
 .	.	.	.	.	.	8e	.
 .	.	.	.	8d	.	8fJ	.
 2r	.	2r	.	4e	.	4g	.
 .	.	.	.	4f	-san-	[4a	-san-
 =107	=107	=107	=107	=107	=107	=107	=107
-1r	.	1r	.	4.d	-na	8a]	.
-.	.	.	.	.	.	8g	.
+1r	.	1r	.	4.d	-na	8aL]	.
+.	.	.	.	.	.	8gJ	.
 .	.	.	.	.	.	4b-y	.
 .	.	.	.	8e	.	.	.
 .	.	.	.	4f	.	4a	-na
@@ -703,9 +713,9 @@
 .	.	.	.	2B-y	-cel-	.	.
 .	.	.	.	.	.	4g	.
 =109	=109	=109	=109	=109	=109	=109	=109
-4.D	O-	2r	.	2A	-sis,	2a	-sis,
+4.D	o-	2r	.	2A	-sis,	2a	-sis,
 8E	.	.	.	.	.	.	.
-4F	.	4.A	O-	2r	.	2r	.
+4F	.	4.A	o-	2r	.	2r	.
 4D	-san-	.	.	.	.	.	.
 .	.	8B-y	.	.	.	.	.
 =110	=110	=110	=110	=110	=110	=110	=110
@@ -715,8 +725,8 @@
 [4C	ex-	4c	in	.	.	.	.
 !!LO:PB:g=original
 =111	=111	=111	=111	=111	=111	=111	=111
-8C]	.	4.G	ex-	1r	.	1r	.
-8D	.	.	.	.	.	.	.
+8CL]	.	4.G	ex-	1r	.	1r	.
+8DJ	.	.	.	.	.	.	.
 4E	.	.	.	.	.	.	.
 .	.	8A	.	.	.	.	.
 4D	.	8B-yL	.	.	.	.	.
@@ -724,16 +734,16 @@
 [4G	.	[4d	.	.	.	.	.
 =112	=112	=112	=112	=112	=112	=112	=112
 4G]	.	4d]	.	1r	.	4r	.
-4E	.	2c	-cel-	.	.	4g	O-
+4E	.	2c	-cel-	.	.	4g	o-
 2D	-cel-	.	.	.	.	4.f	-san-
 .	.	4Bni	.	.	.	.	.
 .	.	.	.	.	.	8d	.
 =113	=113	=113	=113	=113	=113	=113	=113
 2C	-sis,	2c	-sis,	2r	.	4e	.
 .	.	.	.	.	.	2g	.
-8CL	O-	2r	.	4r	.	.	.
+8CL	o-	2r	.	4r	.	.	.
 8D	.	.	.	.	.	.	.
-8E	.	.	.	4c	O-	4e	.
+8E	.	.	.	4c	o-	4e	.
 8FJ	.	.	.	.	.	.	.
 =114	=114	=114	=114	=114	=114	=114	=114
 2G	-san-	1r	.	2B-y	-san-	2d	-na,
@@ -743,7 +753,7 @@
 =115	=115	=115	=115	=115	=115	=115	=115
 4E	in	1r	.	8cL]	.	4r	.
 .	.	.	.	8B-yJ	.	.	.
-2F	ex-	.	.	4A	.	4cc	O-
+2F	ex-	.	.	4A	.	4cc	o-
 .	.	.	.	2G	ex-	2b-y	-san-
 4E	-cel-	.	.	.	.	.	.
 =116	=116	=116	=116	=116	=116	=116	=116
@@ -763,9 +773,9 @@
 .	.	8G	.	.	.	.	.
 *	*	*	*	*	*	*Xlig	*
 =118	=118	=118	=118	=118	=118	=118	=118
-4.FF	O-	8AL	.	4r	.	1r	.
+4.FF	o-	8AL	.	4r	.	1r	.
 .	.	8B-yJ	.	.	.	.	.
-.	.	4c	.	4.F	O-	.	.
+.	.	4c	.	4.F	o-	.	.
 8GG	.	.	.	.	.	.	.
 8AAL	.	4F	-sis,	.	.	.	.
 8BB-yJ	.	.	.	8GL	.	.	.
@@ -786,24 +796,24 @@
 .	.	.	.	[4c	in	.	.
 8D	.	.	.	.	.	.	.
 =121	=121	=121	=121	=121	=121	=121	=121
-8EL	.	1r	.	8c]	.	1r	.
-8FJ	.	.	.	8dL	.	.	.
+8EL	.	1r	.	8cL]	.	1r	.
+8FJ	.	.	.	8d	.	.	.
 4G	.	.	.	8e	.	.	.
 .	.	.	.	8fJ	.	.	.
 4C	ex-	.	.	4g	.	.	.
 [4F	-cel-	.	.	4c	ex-	.	.
 !!LO:LB:g=original
 =122	=122	=122	=122	=122	=122	=122	=122
-2F]	.	2r	.	4.f	-cel-	4.f	O-
+2F]	.	2r	.	4.f	-cel-	4.f	o-
 .	.	.	.	8e	.	8g	.
-[2F	-sis,	4.F	O-	4c	.	8aL	.
+[2F	-sis,	4.F	o-	4c	.	8aL	.
 .	.	.	.	.	.	8b-yJ	.
 .	.	.	.	4A	.	4cc	.
 .	.	8G	.	.	.	.	.
 =123	=123	=123	=123	=123	=123	=123	=123
 4F]	.	8AL	.	4c	.	4.f	-san-
 .	.	8B-yJ	.	.	.	.	.
-4.F	O-	4c	.	4F	.	.	.
+4.F	o-	4c	.	4F	.	.	.
 .	.	.	.	.	.	8g	.
 .	.	4F	-san-	2f	-sis,	4.a	-na
 8D	.	.	.	.	.	.	.
@@ -816,7 +826,7 @@
 .	.	.	.	.	.	8a	.
 4E-X	in	4B-y	.	2G	ex-	8gL	.
 .	.	.	.	.	.	8f	.
-4C	.	[4c	ex-	.	.	8e	.
+4C	.	[4c	ex-	.	.	8e-j	.
 .	.	.	.	.	.	8dJ	.
 =125	=125	=125	=125	=125	=125	=125	=125
 2F	ex-	4c]	.	4A	.	4c	ex-
@@ -833,14 +843,11 @@
 !!!RDF**kern: j = editorial accidental, optional, paren up
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
+!!!PTL: Gaspar van Weerbeke: Collected Works. Collected Works. II. Masses, Part 2
 !!!PPR: American Institute of Musicology
-!!!PC#: Corpus Mensurabilis Musicae 106/V
-!!!PDT: {YEAR}
+!!!PC#: Corpus Mensurabilis Musicae 106/II.2
+!!!PDT: 2018
 !!!PED: Kolb, Paul
-!!!PED: Pavanello, Agnese
-!!!YEC: Copyright {YEAR}, Kolb, Paul
-!!!YEC: Copyright {YEAR}, Pavanello, Agnese
+!!!YEC: Copyright 2016, Kolb, Paul
 !!!EED: Zybina, Karina
-!!!EED: Mair-Gruber, Roland
 !!!EEV: 2021/11/07
