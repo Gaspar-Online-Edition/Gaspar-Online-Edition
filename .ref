@@ -22,6 +22,11 @@ Gas0103d-Missa_Princesse_damourettes-Sanctus.krn	Gas0103d	Sanctus
 Gas0103e-Missa_Princesse_damourettes-Agnus.krn	Gas0103e	Agnus Dei
 
 @Gas0104a:Gas0104b:Gas0104c:Gas0104d:Gas0104e	Gas0104	4. <h1start>Missa Se mieulx ne vient<hend>
+Gas0104a-Missa_Se_mieulx_ne_vient-Kyrie.krn	Gas0104a	Kyrie
+Gas0104b-Missa_Se_mieulx_ne_vient-Gloria.krn	Gas0104b	Gloria
+Gas0104c-Missa_Se_mieulx_ne_vient-Credo.krn	Gas0104c	Credo
+Gas0104d-Missa_Se_mieulx_ne_vient-Sanctus.krn	Gas0104d	Sanctus
+Gas0104e-Missa_Se_mieulx_ne_vient-Agnus.krn	Gas0104e	Agnus Dei
 
 @Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	5. <hlstart>Missa brevis<hend>
 Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Kyrie
@@ -41,6 +46,8 @@ Gas0202e-Missa_Et_trop_penser-Agnus.krn	Gas0202e	Agnus Dei
 Gas0203a-Missa_N'as_tu_pas-Kyrie.krn	Gas0203a	Kyrie
 Gas0203b-Missa_N'as_tu_pas-Gloria	Gas0203b	Gloria
 Gas0203c-Missa_N'as_tu_pas-Credo	Gas0203c	Credo
+Gas0203d-Missa_N'as_tu_pas-Sanctus.krn	Gas0203d	Sanctus
+Gas0203e-Missa_N'as_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
