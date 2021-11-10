@@ -51,6 +51,13 @@ Gas0203e-Missa_N'as_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
+@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. <h1start>Ave mundi domina</hend>
+
+@Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. <h1start>Quam pulchra es</hend>
+
+@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303f	Gas0303	3. <h1start>In honorem sancti spiritus</hend>
+Gas0303a-Spiritus_domini.krn	Gas0303a	Spiritus domini
+
 @dummy	Gas04	<br> </div><h2>IV. Motets</h2>
 
 Gas0401-Ave_domina_sancta_Maria.krn	Gas0401	1. <hlstart>Ave domina sancta Maria<hlend>
