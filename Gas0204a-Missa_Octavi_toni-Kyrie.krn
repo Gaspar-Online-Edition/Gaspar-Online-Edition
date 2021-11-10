@@ -388,18 +388,18 @@
 !!LO:LB:g=original
 =57	=57	=57	=57	=57	=57	=57	=57
 *	*	*	*	*	*	*lig	*
-1r	.	2F	-lei-	2f	.	2a	e-
+1r	.	2F	-ley-	2f	.	2a	e-
 .	.	2C	.	2e	.	2g	.
 *	*	*	*	*	*	*Xlig	*
 =58	=58	=58	=58	=58	=58	=58	=58
 *	*	*lig	*	*	*	*	*
 1r	.	2D	-son,	4d	.	4f	.
-.	.	.	.	2d	-lei-	4d	.
+.	.	.	.	2d	-ley-	4d	.
 .	.	2A	.	.	.	2e	.
 .	.	.	.	4c#i	.	.	.
 *	*	*Xlig	*	*	*	*	*
 =59	=59	=59	=59	=59	=59	=59	=59
-2.D	e-	2r	.	2.d	-son,	4d	-lei-
+2.D	e-	2r	.	2.d	-son,	4d	-ley-
 .	.	.	.	.	.	4e	.
 .	.	[2d	e-	.	.	4f	.
 4E	.	.	.	4c	.	4g	.
@@ -407,8 +407,9 @@
 *lig	*	*	*	*	*	*lig	*
 2F	.	4d]	.	2A	.	2a	-son,
 .	.	4c	.	.	.	.	.
-2G	.	2B	.	2G	.	2b	.
 *	*	*lig	*	*	*	*	*
+2G	.	2B	.	2G	.	2b	.
+*	*	*	*	*	*	*Xlig	*
 *Xlig	*	*	*	*	*	*	*
 =61	=61	=61	=61	=61	=61	=61	=61
 2F	.	2A	.	2r	.	2cc	e-
@@ -417,30 +418,32 @@
 [4F	.	[4c	.	[4A	e-	[4a	.
 =62	=62	=62	=62	=62	=62	=62	=62
 4F]	.	4c]	.	4A]	.	4a]	.
-2G	.	4B	.	2B	-lei-	2d	.
+2G	.	4B	.	2B	-ley-	2d	.
 .	.	2G	.	.	.	.	.
 4E	.	.	.	4c	.	[4g	.
 =63	=63	=63	=63	=63	=63	=63	=63
-4.D	-lei-	1A	-lei-	1d	-son,	4g]	.
+*col	*	*	*	*	*	*	*
+4.D	-ley-	1A	-ley-	1d	-son,	4g]	.
 .	.	.	.	.	.	4f#i	.
 8C	.	.	.	.	.	.	.
-2D	-son,	.	.	.	.	4.f#i	-lei-
+*Xcol	*	*	*	*	*	*	*
+2D	-son,	.	.	.	.	4.f#i	-ley-
 .	.	.	.	.	.	8e	.
 !!LO:LB:g=original
 =64	=64	=64	=64	=64	=64	=64	=64
 *	*	*lig	*	*lig	*	*	*
 2GG	e-	[1G	-son,	2B	e-	1g	-son,
-[2C	-lei-	.	.	[2e	.	.	.
-*	*	*	*	*Xlig	*	*	*
+[2C	-ley-	.	.	[2e	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65
 2C]	.	1G]	.	4e]	.	2.e	e-
+*	*	*	*	*Xlig	*	*	*
 .	.	.	.	8dL	.	.	.
 .	.	.	.	8cJ	.	.	.
 2E	.	.	.	4B	.	.	.
 .	.	.	.	4c	.	4c	.
 =66	=66	=66	=66	=66	=66	=66	=66
 *lig	*	*	*	*	*	*	*
-2D	-son,	1A	.	2d	-lei-	4.f	.
+2D	-son,	1A	.	2d	-ley-	4.f	.
 .	.	.	.	.	.	8e	.
 2F	.	.	.	2A	-son,	8dL	.
 .	.	.	.	.	.	8cJ	.
@@ -449,27 +452,29 @@
 =67	=67	=67	=67	=67	=67	=67	=67
 *	*	*lig	*	*	*	*	*
 4E	e-	2G	e-	4r	.	4d]	.
-8DL	.	.	.	4e	e-	2c	-lei-
+8DL	.	.	.	4e	e-	2c	-ley-
 8CJ	.	.	.	.	.	.	.
 2D	.	2F	.	2f	.	.	.
 .	.	.	.	.	.	4B	.
 *	*	*Xlig	*	*	*	*	*
 =68	=68	=68	=68	=68	=68	=68	=68
 *	*Xedit	*	*	*	*	*	*
-[1C	-lei-	2.G	.	4.e	.	4.c	-son,
+*	*	*	*	*	*	*col	*
+[1C	-ley-	2.G	.	4.e	.	4.c	-son,
 .	.	.	.	8f	.	8d	.
+*	*	*	*	*	*	*Xcol	*
 .	.	.	.	4g	.	4.e	.
 *	*	*	*	*	*Xedit	*	*
-.	.	4A	.	[4c	-lei-	.	.
+.	.	4A	.	[4c	-ley-	.	.
 .	.	.	.	.	.	8f	.
 =69	=69	=69	=69	=69	=69	=69	=69
-2C]	.	4G	.	8c]	.	4g	.
-.	.	.	.	8BL	.	.	.
+2C]	.	4G	.	8cL]	.	4g	.
+.	.	.	.	8B	.	.	.
 *	*	*	*Xedit	*	*	*	*
-.	.	2c	-lei-	8A	.	4a	e-
+.	.	2c	-ley-	8A	.	4a	e-
 .	.	.	.	8GJ	.	.	.
 *	*	*	*	*	*	*	*Xedit
-2D	.	.	.	2F	.	8b-iL	-lei-
+2D	.	.	.	2F	.	8b-jL	-ley-
 .	.	.	.	.	.	8a	.
 .	.	4B	.	.	.	8g	.
 .	.	.	.	.	.	8fJ	.
@@ -488,7 +493,7 @@
 .	.	2A	.	2f	e-	2cc	e-
 =73	=73	=73	=73	=73	=73	=73	=73
 *	*	*	*edit	*	*	*	*
-1GG	Ky-	1G	e-	4.g	-lei-	1b	-lei-
+1GG	Ky-	1G	e-	4.g	-ley-	1b	-ley-
 .	.	.	.	8f	.	.	.
 .	.	.	.	4.d	.	.	.
 .	.	.	.	8c	.	.	.
@@ -506,26 +511,26 @@
 =75	=75	=75	=75	=75	=75	=75	=75
 *	*edit	*	*	*	*	*	*
 4G	e-	4G	.	2d	e-	4b	.
-4D	.	4F	.	.	.	2a	-lei-
+4D	.	4F	.	.	.	2a	-ley-
 *	*	*lig	*	*	*	*	*
-2E	.	2G	-lei-	4B	.	.	.
+2E	.	2G	-ley-	4B	.	.	.
 .	.	.	.	4c	.	2g	.
 2D	.	2A	.	2d	.	.	.
 .	.	.	.	.	.	4f#i	.
 *	*	*Xlig	*	*	*	*	*
 !!LO:PB:g=original
 =76	=76	=76	=76	=76	=76	=76	=76
-2.E	-lei-	1G	-son,	4B	-lei-	2g	-son,
+2.E	-ley-	1G	-son,	4B	-ley-	2g	-son,
 .	.	.	.	4G	.	.	.
 .	.	.	.	2G	-son,	2r	.
 4C	.	.	.	.	.	.	.
 2C	-son,	2r	.	2r	.	2r	.
 =77	=77	=77	=77	=77	=77	=77	=77
-2r	.	1.c	ky-	2.A	ky-	2e	ky-
+2r	.	1.c	Ky-	2.A	Ky-	2e	Ky-
 2r	.	.	.	.	.	4.e	-ri-
 .	.	.	.	8GL	.	.	.
 .	.	.	.	8FJ	.	8f	.
-4.C	ky-	.	.	4.E	-ri-	4g	.
+4.C	Ky-	.	.	4.E	-ri-	4g	.
 .	.	.	.	.	.	4a	.
 8D	.	.	.	8F	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78
@@ -541,14 +546,14 @@
 .	.	8B	.	.	.	.	.
 4r	.	4c	.	.	.	.	.
 .	.	.	.	8GL	.	.	.
-4D	e-	2d	-lei-	8A	.	4f	.
+4D	e-	2d	-ley-	8A	.	4f	.
 .	.	.	.	8BJ	.	.	.
-2A	-lei-	.	.	4c	-lei-	2e	-lei-
+2A	-ley-	.	.	4c	-ley-	2e	-ley-
 .	.	4c#i	.	4A	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80
 1D	-son,	1d	-son,	2A	-son,	2d	-son,
 .	.	.	.	2r	.	2r	.
-2r	.	2d	ky-	2r	.	2f	ky-
+2r	.	2d	Ky-	2r	.	2f	Ky-
 !!LO:LB:g=original
 =81	=81	=81	=81	=81	=81	=81	=81
 1.r	.	4c	-ri-	1.r	.	4e	-ri-
@@ -560,23 +565,25 @@
 .	.	.	.	.	.	4g	.
 =82	=82	=82	=82	=82	=82	=82	=82
 1.r	.	4A	-e	1.r	.	4f	.
-.	.	4G	.	.	.	2e	-lei-
+.	.	4G	.	.	.	2e	-ley-
 .	.	4A	e-	.	.	.	.
 .	.	4F	.	.	.	2d	.
-.	.	2E	-lei-	.	.	.	.
+.	.	2E	-ley-	.	.	.	.
 .	.	.	.	.	.	4c#i	.
 =83	=83	=83	=83	=83	=83	=83	=83
-2D	ky-	1D	-son,	2A	ky-	1d	-son,
+2D	Ky-	1D	-son,	2A	Ky-	1d	-son,
+*col	*	*	*	*	*	*	*
 4.F	-ri-	.	.	4.A	-ri-	.	.
 8E	.	.	.	8G	.	.	.
+*Xcol	*	*	*	*	*	*	*
 4D	-e	4F	e-	4F	-e	2r	.
 4C	.	4G	.	4E	.	.	.
 =84	=84	=84	=84	=84	=84	=84	=84
 4BB-i	e-	4B-i	.	4D	e-	1.r	.
-4C	.	2A	-lei-	4E	.	.	.
+4C	.	2A	-ley-	4E	.	.	.
 4D	.	.	.	4F	.	.	.
-4BB-i	.	2G	.	2D	-lei-	.	.
-2AA	-lei-	.	.	.	.	.	.
+4BB-i	.	2G	.	2D	-ley-	.	.
+2AA	-ley-	.	.	.	.	.	.
 .	.	4F#i	.	4C	.	.	.
 =85	=85	=85	=85	=85	=85	=85	=85
 2GG	-son,	2G	-son,	4.D	-son,	1d	e-
@@ -588,20 +595,20 @@
 !!LO:LB:g=original
 =86	=86	=86	=86	=86	=86	=86	=86
 1.r	.	1.r	.	4G	.	4b-i	.
-.	.	.	.	2d	-lei-	2a	-lei-
-.	.	.	.	4B	.	2g	.
+.	.	.	.	2d	-ley-	2a	-ley-
+.	.	.	.	4B-j	.	2g	.
 .	.	.	.	2A	.	.	.
 .	.	.	.	.	.	4f#i	.
 =87	=87	=87	=87	=87	=87	=87	=87
-2GG	ky-	1G	ky-	2.G	-son,	1g	-son,
+2GG	Ky-	1G	Ky-	2.G	-son,	1g	-son,
 1C	-ri-	.	.	.	.	.	.
-.	.	.	.	4.E	ky-	.	.
+.	.	.	.	4.E	Ky-	.	.
 .	.	[2c	-ri-	.	.	2r	.
 .	.	.	.	8F	.	.	.
 .	.	.	.	4G	.	.	.
 =88	=88	=88	=88	=88	=88	=88	=88
 *	*	*	*	*	*	*lig	*
-2E	-e	4c]	.	4C	.	2g	ky-
+2E	-e	4c]	.	4C	.	2g	Ky-
 .	.	4B	.	4G	.	.	.
 2F	.	4A	.	2A	-ri-	2cc	.
 .	.	2d	-e	.	.	.	.
@@ -610,7 +617,7 @@
 [4A	e-	4c	e-	4c	.	4a	.
 =89	=89	=89	=89	=89	=89	=89	=89
 4A]	.	4B	.	4.d	e-	4b	-e
-2G	-lei-	4G	.	.	.	2dd	e-
+2G	-ley-	4G	.	.	.	2dd	e-
 .	.	.	.	8e	.	.	.
 .	.	2A	.	2f	.	.	.
 4F#i	.	.	.	.	.	4cc	.
@@ -621,12 +628,12 @@
 =90	=90	=90	=90	=90	=90	=90	=90
 4r	.	4D	.	4d	.	4f	.
 *	*	*	*	*	*	*	*Xedit
-4D	e-	4F	.	4A	.	2a	-lei-
+4D	e-	4F	.	4A	.	2a	-ley-
 4BB	.	4G	.	4B	.	.	.
 *	*	*	*	*	*Xedit	*	*
-4GG	.	4B	.	2.d	-lei-	2g	.
+4GG	.	4B	.	2.d	-ley-	2g	.
 *	*Xedit	*	*Xedit	*	*	*	*
-2D	-lei-	2A	-lei-	.	.	.	.
+2D	-ley-	2A	-ley-	.	.	.	.
 .	.	.	.	.	.	4f#i	.
 =91	=91	=91	=91	=91	=91	=91	=91
 0GGl	-son.	0Gl	-son.	0dl	-son.	0gl	-son.
@@ -637,15 +644,11 @@
 !!!RDF**kern: j = editorial accidental, optional, paren up
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
-!!!PPR: American Institute of Musicology
-!!!PC#: Corpus Mensurabilis Musicae 106/V
-!!!PDT: {YEAR}
+!!!PTL: Gaspar van Weerbeke: Collected Works. II. Masses, Part 2
+!!!PC#: Corpus Mensurabilis Musicae 106/II.2
+!!!PDT: 2018
 !!!PED: Kolb, Paul
-!!!PED: Pavanello, Agnese
-!!!YEC: Copyright {YEAR}, Kolb, Paul
-!!!YEC: Copyright {YEAR}, Pavanello, Agnese
+!!!YEC: Copyright 2016, Kolb, Paul
 !!!YEM: CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Zybina, Karina
-!!!EED: Mair-Gruber, Roland
 !!!EEV: 2021/11/10
