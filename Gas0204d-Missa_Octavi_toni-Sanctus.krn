@@ -114,17 +114,18 @@
 *lig	*	*lig	*	*	*	*	*
 *	*	*col	*	*	*	*	*
 *col	*	*	*	*	*	*	*
-2C	.	1c	.	2e	-ctus,	2cc	-ctus,
+2C	.	[1.c	.	2e	-ctus,	2cc	-ctus,
 *	*	*	*	*	*	*	*edit
 2F	.	.	.	4r	.	2.cc	San-
 .	.	.	.	4f	San-	.	.
-[2C	.	[2r	.	4e	.	.	.
+[2C	.	.	.	4e	.	.	.
 .	.	.	.	[4g	.	8bL	.
 .	.	.	.	.	.	8aJ	.
-*Xlig	*	*	*	*	*	*	*
 !!LO:LB:g=original
 =15	=15	=15	=15	=15	=15	=15	=15
-1.C]	.	2ryy	.	8gL]	.	2g	-ctus,
+1.C]	.	2c]	.	8gL]	.	2g	-ctus,
+*Xcol	*	*	*	*	*	*	*
+*Xlig	*	*	*	*	*	*	*
 .	.	.	.	8f	.	.	.
 .	.	.	.	8e	.	.	.
 .	.	.	.	8dJ	.	.	.
