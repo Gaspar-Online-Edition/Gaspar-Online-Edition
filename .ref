@@ -44,10 +44,16 @@ Gas0202e-Missa_Et_trop_penser-Agnus.krn	Gas0202e	Agnus Dei
 
 @Gas0203a:Gas0203b:Gas0203c:Gas0203d:Gas0203e	Gas0203	7. <hlstart>Missa N'as tu pas<hend>
 Gas0203a-Missa_N'as_tu_pas-Kyrie.krn	Gas0203a	Kyrie
-Gas0203b-Missa_N'as_tu_pas-Gloria	Gas0203b	Gloria
-Gas0203c-Missa_N'as_tu_pas-Credo	Gas0203c	Credo
+Gas0203b-Missa_N'as_tu_pas-Gloria.krn	Gas0203b	Gloria
+Gas0203c-Missa_N'as_tu_pas-Credo.krn	Gas0203c	Credo
 Gas0203d-Missa_N'as_tu_pas-Sanctus.krn	Gas0203d	Sanctus
 Gas0203e-Missa_N'as_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
+
+@Gas0204a:Gas0204b:Gas0204c:Gas0204d:Gas0204e	Gas0204	8. <hlstart>Missa Octavi toni<hend>
+Gas0204a-Missa_Octavi_toni-Kyrie.krn	Gas0204a	Kyrie
+Gas0204a-Missa_Octavi_toni-Gloria.krn	Gas0204b	Gloria
+Gas0204a-Missa_Octavi_toni-Sanctus.krn	Gas0204d	Sanctus
+Gas0204a-Missa_Octavi_toni-Agnus.krn	Gas0204e	Agnus Dei
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
@@ -57,6 +63,10 @@ Gas0203e-Missa_N'as_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
 
 @Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303f	Gas0303	3. <h1start>In honorem sancti spiritus</hend>
 Gas0303a-Spiritus_domini.krn	Gas0303a	3a Spiritus domini
+Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b Veni sancte spiritus
+Gas0303c-Beata_gens.krn	Gas0303c	3c Beata gens
+Gas0303d-Confirma_hoc_deus.krn	Gas0303d	3d Confirma hoc, deus
+Gas0303e-Loquebantur_variis_linguis.krn	Gas0303e	3e Loquebantur variis linguis
 
 @dummy	Gas04	<br> </div><h2>IV. Motets</h2>
 
@@ -102,7 +112,7 @@ Gas0502-Magnificat_octavi_toni.krn	Gas0502b	2. <hlstart>Magnificat octavi toni<h
 
 @dummy	Gas0503	<br> </div><h2>V. Songs</h2>
 
-Gas0503-Bon_temps_Adieu_mes_amours.krn	Gas0503	3. <hlstart>Bon tempos / Adieu mes amours<hlend>
+Gas0503-Bon_temps_Adieu_mes_amours.krn	Gas0503	3. <hlstart>Bon temps / Adieu mes amours<hlend>
 Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	4. <hlstart>Que fait le cocu au bois<hlend>
 Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	4.2. <hlstart>Que fait le cocu au bois<hlend> (added Bassus)
 Gas0505-Sans_regretz.krn	Gas0505	5. <hlstart>Sans regretz<hlend>
