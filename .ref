@@ -58,8 +58,10 @@ Gas0204a-Missa_Octavi_toni-Agnus.krn	Gas0204e	Agnus Dei
 @Gas0205:Gas0206	Gas0205	9.<h1start>Credos<hend>
 Gas0205-Credo.krn	Gas0205	Credo
 
-@Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. <hlstart>Missa [sine nomine]<hend>
-
+@Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. <hlstart>Missa [sine nomine]<hend> (Anonymous)
+Ano0207a-Missa_[sine_nomine]_Kyrie.krn	Gas0207a	Kyrie
+Ano0207b-Missa_[sine_nomine]_Gloria.krn	Gas0207b	Gloria
+Ano0207c-Missa_[sine_nomine]_Credo.krn	Gas0207c	Credo
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
@@ -67,12 +69,15 @@ Gas0205-Credo.krn	Gas0205	Credo
 
 @Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. <h1start>Quam pulchra es</hend>
 
-@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303f	Gas0303	3. <h1start>In honorem sancti spiritus</hend>
+@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. <h1start>In honorem sancti spiritus</hend>
 Gas0303a-Spiritus_domini.krn	Gas0303a	3a Spiritus domini
 Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b Veni sancte spiritus
 Gas0303c-Beata_gens.krn	Gas0303c	3c Beata gens
 Gas0303d-Confirma_hoc_deus.krn	Gas0303d	3d Confirma hoc, deus
 Gas0303e-Loquebantur_variis_linguis.krn	Gas0303e	3e Loquebantur variis linguis
+Gas0303e.2-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e.2 Sancti spiritus adsit nobis (Anonymous)
+Gas0303f-Factus_est_repente.krn	Gas0303f	3f Factus est repente
+
 
 @dummy	Gas04	<br> </div><h2>IV. Motets</h2>
 
