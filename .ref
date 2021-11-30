@@ -55,6 +55,12 @@ Gas0204a-Missa_Octavi_toni-Gloria.krn	Gas0204b	Gloria
 Gas0204a-Missa_Octavi_toni-Sanctus.krn	Gas0204d	Sanctus
 Gas0204a-Missa_Octavi_toni-Agnus.krn	Gas0204e	Agnus Dei
 
+@Gas0205:Gas0206	Gas0205	9.<h1start>Credos<hend>
+Gas0205-Credo.krn	Gas0205	Credo
+
+@Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. <hlstart>Missa [sine nomine]<hend>
+
+
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
 @Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. <h1start>Ave mundi domina</hend>
