@@ -43,11 +43,11 @@ Gas0202d-Missa_Et_trop_penser-Sanctus.krm	Gas0202d	Sanctus
 Gas0202e-Missa_Et_trop_penser-Agnus.krn	Gas0202e	Agnus Dei
 
 @Gas0203a:Gas0203b:Gas0203c:Gas0203d:Gas0203e	Gas0203	7. <hlstart>Missa N'as tu pas<hend>
-Gas0203a-Missa_N'as_tu_pas-Kyrie.krn	Gas0203a	Kyrie
-Gas0203b-Missa_N'as_tu_pas-Gloria.krn	Gas0203b	Gloria
-Gas0203c-Missa_N'as_tu_pas-Credo.krn	Gas0203c	Credo
-Gas0203d-Missa_N'as_tu_pas-Sanctus.krn	Gas0203d	Sanctus
-Gas0203e-Missa_N'as_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
+Gas0203a-Missa_Nas_tu_pas-Kyrie.krn	Gas0203a	Kyrie
+Gas0203b-Missa_Nas_tu_pas-Gloria.krn	Gas0203b	Gloria
+Gas0203c-Missa_Nas_tu_pas-Credo.krn	Gas0203c	Credo
+Gas0203d-Missa_Nas_tu_pas-Sanctus.krn	Gas0203d	Sanctus
+Gas0203e-Missa_Nas_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
 
 @Gas0204a:Gas0204b:Gas0204c:Gas0204d:Gas0204e	Gas0204	8. <hlstart>Missa Octavi toni<hend>
 Gas0204a-Missa_Octavi_toni-Kyrie.krn	Gas0204a	Kyrie
@@ -59,9 +59,9 @@ Gas0204a-Missa_Octavi_toni-Agnus.krn	Gas0204e	Agnus Dei
 Gas0205-Credo.krn	Gas0205	Credo
 
 @Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. <hlstart>Missa [sine nomine]<hend> (Anonymous)
-Ano0207a-Missa_[sine_nomine]_Kyrie.krn	Gas0207a	Kyrie
-Ano0207b-Missa_[sine_nomine]_Gloria.krn	Gas0207b	Gloria
-Ano0207c-Missa_[sine_nomine]_Credo.krn	Gas0207c	Credo
+Ano0207a-Missa_sine_nomine_Kyrie.krn	Gas0207a	Kyrie
+Ano0207b-Missa_sine_nomine_Gloria.krn	Gas0207b	Gloria
+Ano0207c-Missa_sine_nomine_Credo.krn	Gas0207c	Credo
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
