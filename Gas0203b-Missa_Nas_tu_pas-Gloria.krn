@@ -1,7 +1,7 @@
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OTL: Missa N'as tu pas
-!!!OTL: Gloria
+!!!OPR: Gloria
 !!!AGN: Mass
 !!!SCT: Gas0203b
 !!!SCA: Gas0203b
@@ -649,3 +649,4 @@
 !!!EED: Zybina, Karina
 !!!EEV: 2021/11/07
 !!!RDF**kern: @ = marked note
+!!!title: @{OPR} &mdash; @{OTL}
