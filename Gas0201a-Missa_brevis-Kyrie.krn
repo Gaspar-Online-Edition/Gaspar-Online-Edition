@@ -138,8 +138,7 @@
 !!LO:LB:g=original
 =18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!LO:TX:a:t=[C2]
+*met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
 2D	Chri-	1r	.	1r	.	1r	.
 4D	-ste	.	.	.	.	.	.
 [4E	.	.	.	.	.	.	.
@@ -289,8 +288,7 @@
 !!LO:TX:a:t=C| (A, B)
 !!LO:TX:a:t=C (S, T)
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!LO:TX:a:t=[C2]
+*met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
 1r	.	2A	Ky-	2r	.	1r	.
 .	.	2B-y	-ri-	2d	Ky-	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
