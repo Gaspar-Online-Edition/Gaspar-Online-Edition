@@ -1,5 +1,6 @@
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
+!!!PTL: Lamentatio Ieremiae prophetae
 !!!OTL: In coena Domini. Lectio secunda
 !!!AGN: Motet; Lamentation
 !!!SCT: Gas0501b
@@ -16,8 +17,8 @@
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*	*	*lig	*
 !!LO:TX:a:t=[In coena Domini. Primo nocturno]\n[Lectio secunda]
+*	*	*	*	*	*	*lig	*
 [1D	De-	[1D	De-	[1A	De-	[1d	De-
 =2	=2	=2	=2	=2	=2	=2	=2
 1D]	.	1D]	.	1A_	.	1d]	.
@@ -36,7 +37,7 @@
 1AAl	.	1El	.	1Al	-leth.	1c#Xl	.
 !!LO:LB:g=original
 =8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||
-[1AA	Vi-	[1E	Vi-	[1A	.	[1c#i	Vi-
+[1AA	Vi-	[1E	Vi-	[1A	Vi-	[1c#i	Vi-
 =9	=9	=9	=9	=9	=9	=9	=9
 1AA]	.	1E]	.	1A]	.	1c#]	.
 =10	=10	=10	=10	=10	=10	=10	=10
@@ -59,7 +60,7 @@
 =16	=16	=16	=16	=16	=16	=16	=16
 1BB-	non	1F	non	1B-i	non	1d	non
 =17	=17	=17	=17	=17	=17	=17	=17
-2GG	sind	2G	sint	2B-i	sint	2d	sint
+2GG	sit	2G	sit	2B-i	sit	2d	sit
 2GG	qui	2G	qui	2B-i	qui	2d	qui
 =18	=18	=18	=18	=18	=18	=18	=18
 [1AA	ve-	[1E	ve-	[1A	ve-	[1c#i	ve-
@@ -307,6 +308,7 @@
 =97	=97	=97	=97	=97	=97	=97	=97
 2r	.	4G	.	4B	.	4e	.
 .	.	4A	.	4A	.	4f	.
+*	*edit	*	*	*	*	*	*
 2C	tri-	2E	.	4G	.	2g	.
 .	.	.	.	[4c	.	.	.
 =98	=98	=98	=98	=98	=98	=98	=98
@@ -324,6 +326,7 @@
 .	.	.	.	.	.	2c#i	.
 =101	=101	=101	=101	=101	=101	=101	=101
 1Dl	-tis.	1Dl	-tis.	1Al	-tis.	1dl	-tis.
+*	*Xedit	*	*	*	*	*	*
 =102||	=102||	=102||	=102||	=102||	=102||	=102||	=102||
 [1GG	Ie-	[1D [1G	Ie-	[1G [1B	Ie-	[1d	Ie-
 =103	=103	=103	=103	=103	=103	=103	=103
@@ -417,7 +420,7 @@
 1AA	.	1E	.	[1Al	.	2d]	.
 .	.	.	.	.	.	2c#	.
 =129	=129	=129	=129	=129	=129	=129	=129
-1Dl	-um.	1Dl	-um	1A]	.	1dl	-um.
+1Dl	-um.	1Dl	-um.	1A]	.	1dl	-um.
 *	*	*	*	*Xlig	*	*	*
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
