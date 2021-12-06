@@ -1,6 +1,7 @@
 !!!ONB: measures 7, 43-4, 52, 58, 100-1, 117-8, 129-30: longs or breves?
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
+!!!PTL: Lamentatio Ieremiae prophetae
 !!!OTL: In coena Domini. Lectio tertia
 !!!AGN: Motet; Lamentation
 !!!SCT: Gas0501c
@@ -332,11 +333,11 @@
 2E	.	2G	.	2c	.	2g	.
 !!LO:LB:g=original
 =99	=99	=99	=99	=99	=99	=99	=99
-1D	.	1A	.	1d	.	1f	.
+1D	.	1A	.	1d	-ta	1f	.
 =100	=100	=100	=100	=100	=100	=100	=100
-1G	-ta	1G	-ta	1d	-ta	1g	-ta
+1G	-ta	1G	-ta	1d	e-	1g	-ta
 =101	=101	=101	=101	=101	=101	=101	=101
-[1F	e-	2.c	e-	[1f	e-	2.a	e-
+[1F	e-	2.c	e-	[1f	.	2.a	e-
 .	.	4B-i	.	.	.	4b-i	.
 =102	=102	=102	=102	=102	=102	=102	=102
 1F]	.	2A	.	1f]	.	2.cc	.
@@ -442,7 +443,7 @@
 1F	tu-	2.A	.	[1c	-um.	2f	.
 .	.	.	.	.	.	2a	.
 *	*	*	*	*	*	*Xlig	*
-.	.	4B-i	.	.	.	.	.
+.	.	4B-j	.	.	.	.	.
 =131	=131	=131	=131	=131	=131	=131	=131
 *	*	*lig	*	*	*	*	*
 2C	.	2c	.	1c]	.	2g	.
