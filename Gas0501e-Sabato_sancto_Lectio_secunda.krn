@@ -1,7 +1,8 @@
 !!!ONB: breves and longs should be cleared; b. 26 time signatures and [] need to be improved
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
-!!!OTL: Lamentationes Ieremiae prophetae
+!!!PTL: Lamentatio Ieremiae prophetae
+!!!OTL: Sabato sancto. Lectio secunda
 !!!AGN: Motet; Lamentation
 !!!SCT: Gas0501e
 !!!SCA: Gas0501e
@@ -46,7 +47,7 @@
 .	.	.	.	8dJ	.	.	.
 .	.	.	.	2e	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8
-1F	leph.	1c	leph.	1f	leph.	1f	leph.
+0F	leph.	0c	leph.	0f	leph.	0f	leph.
 !!LO:LB:g=original
 =9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||
 1F	-Quo-	1A	Quo	1c	-Quo-	1f	Quo-
@@ -116,13 +117,13 @@
 2C	-des	2c	-des	[2e	san-	2g	-des
 =29	=29	=29	=29	=29	=29	=29	=29
 2.E	san-	2.B-y	san-	1e]	.	2.g	san-
-4F	.	4A	.	.	.	4a	.
+4F	-ctu-	4A	-ctu-	.	.	4a	-ctu-
 =30	=30	=30	=30	=30	=30	=30	=30
-2E	-ctu-	2B-y	-ctu-	2E	-ctu-	2g	-ctu-
-2D	-a-	2B-y	-a-	2F	-a-	2f	-a-
+2E	-a-	2B-y	-a-	2E	-ctu-	2g	-a-
+2D	-ri-	2B-y	-ri-	2F	-a-	2f	-ri-
 =31	=31	=31	=31	=31	=31	=31	=31
-2C	-rij	2c	-rij	4G	-ri-	2e	-rij
-.	.	.	.	4G	-j	.	.
+2C	-i	2c	-i	4G	-ri-	2e	-i
+.	.	.	.	4G	-i	.	.
 2r	.	2A	in	2c	in	2f	in
 =32	=32	=32	=32	=32	=32	=32	=32
 1r	.	2.B-X	ca-	2.d	ca-	2.g	ca-
@@ -179,13 +180,13 @@
 !!LO:LB:g=original
 =47	=47	=47	=47	=47	=47	=47	=47
 2.D	.	1d]	.	[1f]	.	[1a	.
-*	*	*	*	*	*	*Xlig	*
 4E	.	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48
-1F	.	1c	.	1f]	.	1a]	.
+0F	.	0c	.	0f]	.	0a]	.
+*	*	*	*	*	*	*Xlig	*
 =49||	=49||	=49||	=49||	=49||	=49||	=49||	=49||
 *	*	*	*	*lig	*	*	*
-1r	.	[1F	.	1c	-Sed	[1a	.
+1r	.	[1F	Sed	1c	-Sed	[1a	Sed
 =50	=50	=50	=50	=50	=50	=50	=50
 1r	.	1F]	.	1d	.	1a]	.
 *	*	*	*	*Xlig	*	*	*
@@ -221,9 +222,9 @@
 *	*	*	*	*lig	*	*	*
 1C	-mam	1c	-mam	2G	la-	1e	-mam
 .	.	.	.	[2c	.	.	.
-*	*	*	*	*Xlig	*	*	*
 =59	=59	=59	=59	=59	=59	=59	=59
 1c	la-	1r	.	4c]	.	2r	.
+*	*	*	*	*Xlig	*	*	*
 .	.	.	.	4d	.	.	.
 .	.	.	.	2e	-cta-	2g	la-
 !!LO:LB:g=original
@@ -280,7 +281,7 @@
 *	*	*Xlig	*	*	*	*	*
 .	.	.	.	.	.	2e	.
 =71	=71	=71	=71	=71	=71	=71	=71
-1F	os.	1F	os.	1c]	.	1f	os.
+0F	os.	0F	os.	0c]	.	0f	os.
 !!LO:LB:g=original
 =72||	=72||	=72||	=72||	=72||	=72||	=72||	=72||
 *	*	*	*Xedit	*	*	*	*
@@ -313,7 +314,7 @@
 2F	.	.	.	.	.	2a	.
 .	.	4c	.	.	.	.	.
 =80	=80	=80	=80	=80	=80	=80	=80
-1G	-lem,	1B-y	.	[1d	lem.	1g	-sa-
+1G	-lem,	1B-y	.	[1d	lem,	1g	-sa-
 =81	=81	=81	=81	=81	=81	=81	=81
 1D	.	1A	.	1d]	.	1a	-lem,
 =82	=82	=82	=82	=82	=82	=82	=82
@@ -392,7 +393,7 @@
 1C	.	1G	.	[1cl	um.	2f]	.
 .	.	.	.	.	.	2e	.
 =98	=98	=98	=98	=98	=98	=98	=98
-1Fl	.	1Fl	um.	1c]	.	1fl	um.
+1Fl	um.	1Fl	um.	1c]	.	1fl	um.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
