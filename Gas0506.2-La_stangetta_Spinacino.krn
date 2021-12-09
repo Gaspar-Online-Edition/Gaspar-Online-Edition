@@ -1,7 +1,6 @@
 !!!RNB: voices? bb. 4-5; 12-13, 25 check new voice appearance
 !!!COM: Franccesco Spinacino
 !!!CDT: fl.1507
-!!!COM: Anonymous
 !!!OTL: La stangetta
 !!!ONB: lute intabulation
 !!!AGN: Motet
@@ -14,7 +13,6 @@
 *clefF4	*clefG2
 *k[b-]	*k[b-]
 *M4/4	*M4/4
-*met(O)	*met(O)
 =1	=1
 4G	1r
 16ALL	.
@@ -50,11 +48,11 @@
 .	8aJ
 =5	=5
 *^	*
-1ryy	2G	8r
+2G	2ryy	8r
 .	.	8b-yL
 .	.	8a
 .	.	8gJ
-.	4G	8r
+2ryy	4G	8r
 .	.	8b-yL
 .	8FL	8a
 .	8EJ	8gJ
@@ -108,7 +106,7 @@
 4F	2D	.	2a
 4F	.	.	.
 =13	=13	=13	=13
-1ryy	8FL	2a	2f
+1Fyy	8FL	2a	2f
 .	8E	.	.
 .	8D	.	.
 .	8CJ	.	.
@@ -188,7 +186,7 @@
 2rA	4rC	4dd
 .	4D	[4dd
 =25	=25	=25
-1ry	8D	4dd]
+1ryy	8D	4dd]
 .	4.C	.
 .	.	8ccL
 .	.	8b-yJ
@@ -196,7 +194,7 @@
 .	4E-X	[4cc
 !!LO:LB:g=original
 =26	=26	=26
-1ry	8E-XL	2.cc]
+1ryy	8E-XL	2.cc]
 .	8D	.
 .	8C	.
 .	8BB-yJ	.
@@ -450,3 +448,5 @@
 !!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Zybina, Karina
 !!!EEV: 2021/08/26
+!!!Xfilter: gasparize
+!!!RDF**kern: l = terminal long
