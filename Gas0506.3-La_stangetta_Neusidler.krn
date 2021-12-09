@@ -1,6 +1,7 @@
+!!!COM: Gaspar van Weerbeke
+!!!CDT: ~1450-~1517
 !!!RNB: voices?
-!!!COM: Neusidler
-!!!COM: Anonymous
+!!!COA: Neusidler
 !!!OTL: La stangetta
 !!!ONB: lute intabulation
 !!!AGN: Motet
@@ -13,7 +14,6 @@
 *clefF4	*clefG2
 *k[b-]	*k[b-]
 *M4/4	*M4/4
-*met(O)	*met(O)
 =1	=1
 2G	1r
 2G	.
@@ -176,7 +176,7 @@
 .	.	16f#JJ
 =24	=24	=24
 2G	2E-X	2g
-2rF	4rBB	4dd
+[2rF	4rBB	4dd
 .	[4D	4dd
 =25	=25	=25
 1ryy	2D]	8ddL
@@ -202,7 +202,7 @@
 8cL	8E-X	.
 8B-yJ	8DJ	.
 4d	4F	.
-4c	4E-i	.
+4c	4E-	.
 =29	=29	=29
 8cL	8E-XL	1r
 8B-yJ	8D	.
@@ -419,9 +419,9 @@
 .	.	16f#X
 .	.	16eJJ
 .	.	16gLL
-.	.	16f#
+.	.	16f#i
 .	.	16e
-.	.	16f#JJ
+.	.	16f#iJJ
 =59	=59	=59
 1G;	1GG	1g;
 =60	=60	=60
@@ -459,3 +459,5 @@
 !!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Zybina, Karina
 !!!EEV: 2021/08/26
+!!!Xfilter: gasparize
+!!!RDF**kern: l = terminal long
