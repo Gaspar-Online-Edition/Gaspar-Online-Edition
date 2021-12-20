@@ -68,13 +68,13 @@
 =12	=12	=12	=12	=12	=12
 1r	.	2c	le	2f	fait
 .	.	2A	co-	2f	le
+!!LO:LB:g=original
 =13	=13	=13	=13	=13	=13
 1r	.	2B-	-cu	2d	co-
 .	.	2c	au	2e	-cu
 =14	=14	=14	=14	=14	=14
 1r	.	2d	bois,	2f	au
 .	.	[2e	qui	[2g	bois,
-!!LO:LB:g=original	*	*	*	*	*	*	*
 =15	=15	=15	=15	=15	=15
 1r	.	4e]	.	2g]	.
 .	.	4d	ne	.	.
@@ -96,6 +96,7 @@
 .	.	.	.	8a	.
 .	.	4B-	vol-	2g	-le,
 .	.	4B-	-le,	.	.
+!!LO:LB:g=original
 =19	=19	=19	=19	=19	=19
 1r	.	4A	vol-	4f	.
 .	.	4G	-le,	4.g	vol-
@@ -112,9 +113,8 @@
 =21	=21	=21	=21	=21	=21
 1r	.	2F	-le,	1f	-le,
 .	.	2c	que	.	.
-!!LO:PB:g=original
 =22	=22	=22	=22	=22	=22
-2F	que	2c	fait	2r	.
+2F	Que	2c	fait	2r	.
 2F	fait	2c	le	2f	que
 =23	=23	=23	=23	=23	=23
 2F	le	2d	co-	2f	fait
@@ -127,6 +127,7 @@
 8G	.	4B-	.	.	.
 8FJ	.	.	.	.	.
 2G	au	2c	bois,	2e	-cu
+!!LO:PB:g=original
 =25	=25	=25	=25	=25	=25
 2F	bois,	4A	qui	2f	au
 .	.	4A	ne	.	.
@@ -151,7 +152,6 @@
 .	.	4e	vol-	.	.
 4F	.	4A	-le'au-	4a	.
 4E	.	[4c	-cu-	[4g	.
-!!LO:LB:g=original	*	*	*	*	*	*	*
 =29	=29	=29	=29	=29	=29
 2F	.	8cL]	.	4g]	.
 .	.	8AJ	.	.	.
@@ -160,6 +160,7 @@
 .	.	.	.	4e	-ne
 =30	=30	=30	=30	=30	=30
 1F	fois?	1A	fois?	1f	fois?
+!!LO:LB:g=original	*	*	*	*	*	*	*
 =31	=31	=31	=31	=31	=31
 1r	.	2e	Ung	1r	.
 .	.	2e	hom-	.	.
@@ -174,7 +175,6 @@
 1r	.	2d	vil-	1r	.
 .	.	2c	-le,	.	.
 .	.	.	.	.	.
-!!LO:LB:g=original	*	*	*	*	*	*	*
 =35	=35	=35	=35	=35	=35
 2B-	Ung	2r	.	1r	.
 *	*	*	*edit	*	*
@@ -187,6 +187,7 @@
 =37	=37	=37	=37	=37	=37
 2.B-	ces-	1d	-le,	1f	-me'est
 4B-	-te	.	.	.	.
+!!LO:LB:g=original	*	*	*	*	*	*	*
 =38	=38	=38	=38	=38	=38
 2A	vil-	2r	.	1a	en
 *	*	*	*Xedit	*	*
@@ -210,11 +211,11 @@
 .	.	8eL	.	.	.
 .	.	8dJ	.	.	.
 .	.	2c	.	2a	est
-!!LO:PB:g=original	*	*	*	*	*	*	*
 =43	=43	=43	=43	=43	=43
 1A	-cu	2d	.	2f	co-
 .	.	4c	par	2a	-cu
 .	.	4f	ma	.	.
+!!LO:LB:g=original	*	*	*	*	*	*	*
 =44	=44	=44	=44	=44	=44
 2B-	par	4e	.	2g	par
 .	.	2d	foy.	.	.
@@ -243,7 +244,7 @@
 .	.	4e	.	4cc	sa
 2A	Ne	2f	-me,	4.cc	fem-
 .	.	.	.	8b-	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =50	=50	=50	=50	=50	=50
 *	*	*	*edit	*	*
 2A	fut	8FL	l'hon-	2.a	.
@@ -271,12 +272,15 @@
 *	*	*	*Xedit	*	*
 4F	je	4c	je	4a	je
 4F	le	4c	le	4a	le
+*	*	*	*edit	*	*edit
 =54	=54	=54	=54	=54	=54
 2F	vous	4c	vous	4a	vous
+*	*	*	*Xedit	*	*Xedit
 .	.	4A	mon-	4a	mon-
 2D	mon-	4B-	-stras-	4f	-stras-
 .	.	4B-	-se'au	8eL	.
 .	.	.	.	8dJ	.
+!!LO:LB:g=original	*	*	*	*	*	*	*
 =55	=55	=55	=55	=55	=55
 *	*	*lig	*	*	*
 2E	-stras-	2G	doibt.	2c	.
@@ -288,7 +292,6 @@
 1G	doibt.	2r	.	2e	doibt,
 .	.	4c	Que	4r	.
 .	.	4c	fait	4e	au
-!!LO:LB:g=original	*	*	*	*	*	*	*
 =57	=57	=57	=57	=57	=57
 1r	.	4c	le	4c	.
 .	.	4A	co-	2f	.
@@ -305,6 +308,7 @@
 4F	au	4A	-cu	.	.
 2G	bois,	4d	au	.	.
 .	.	4e	bois,	.	.
+!!LO:LB:g=original	*	*	*	*	*	*	*
 =60	=60	=60	=60	=60	=60
 *	*	*	*edit	*	*
 4.A	qui	4.c	qui	4f	Que
@@ -323,15 +327,14 @@
 4G	vol-	4.e	qui	2r	.
 4G	-le,	.	.	.	.
 .	.	8d	ne	.	.
-2r	.	4c	vol-	4.a	qui
+2r	.	4c	vol-	4.a	Qui
 .	.	4c	-le,	.	.
 .	.	.	.	8g	ne
-!!LO:PB:g=original	*	*	*	*	*	*	*
 =63	=63	=63	=63	=63	=63
-8AL	vol-	4.c	vol-	4f	vol-
+8A	vol-	4.c	vol-	4f	vol-
 8A	-le,	.	.	.	.
 8A	vol-	.	.	4f	-le,
-8AJ	-le,	8c	-le,	.	.
+8A	-le,	8c	-le,	.	.
 4F	vol-	4d	vol-	2r	.
 .	.	.	.	.	.
 4F	-le,	4d	-le,	.	.
@@ -340,19 +343,20 @@
 2r	.	2r	.	4.b-	vol-
 .	.	.	.	.	.
 .	.	.	.	8a	-le,
-8B-L	vol-	8dL	vol-	4g	vol-
+8B-	vol-	8d	vol-	4g	vol-
 8B-	-le,	8d	-le,	.	.
 8B-	vol-	8d	vol-	4g	-le,
-8B-J	-le,	8dJ	-le,	.	.
+8B-	-le,	8d	-le,	.	.
+!!LO:LB:g=original	*	*	*	*	*	*	*
 =65	=65	=65	=65	=65	=65
 4G	vol-	4e	vol-	2r	.
 .	.	.	.	.	.
 4G	-le,	4e	-le,	.	.
 .	.	.	.	.	.
-2r	.	2r	.	8b-L	vol-
+2r	.	2r	.	8b-	vol-
 .	.	.	.	8b-	-le,
 .	.	.	.	8b-	vol-
-.	.	.	.	8b-J	-le,
+.	.	.	.	8b-	-le,
 =66	=66	=66	=66	=66	=66
 4.c	qui	4e	vol-	4g	vol-
 .	.	4e	-le,	4g	-le,
@@ -373,7 +377,6 @@
 8AJ	.	.	.	.	.
 2G	-ne	[2c	fois?	.	.
 .	.	.	.	4e	-ne
-!!linebreak:original
 =69	=69	=69	=69	=69	=69
 1Fl	fois?	1cl]	.	1fl	fois?
 ==	==	==	==	==	==
