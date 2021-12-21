@@ -16,9 +16,9 @@
 *met(C|)	*met(C|)
 =1	=1
 *^	*^
-1rc	1rEE	1ryy	1G
+1rF	1ryy	1G	1ree
 =2	=2	=2	=2
-1rc	1rEE	1g	2G
+1rF	1ryy	1g	2G
 .	.	.	2G
 *v	*v	*	*
 =3	=3	=3
@@ -46,12 +46,12 @@
 8B-XL	.	.	.
 8AJ	.	.	.
 =8	=8	=8	=8
-1BnXj	1G	1rb	4f]
+1BnXj	1G	1ree	4f]
 .	.	.	8eL
 .	.	.	8dJ
 .	.	.	2e
 =9	=9	=9	=9
-1c	1F	1rb	1f
+1c	1F	1ree	1f
 =10	=10	=10	=10
 1ryy	1F	1ff	1a
 =11	=11	=11	=11
@@ -65,10 +65,10 @@
 1f	2.B-X	1dd	1d
 .	4A	.	.
 =14	=14	=14	=14
-2e	2G	1raa	1rc
+2e	2G	1ree	1ryy
 2d	2F	.	.
 =15	=15	=15	=15
-2d	2E	1raa	1rc
+2d	2E	1ree	1ryy
 2c#i	2E	.	.
 =16	=16	=16	=16
 1d	2.D	2rdd	2.f
@@ -95,24 +95,24 @@
 2d	.	.	2A
 .	4E	.	.
 =22	=22	=22	=22
-2c	2F	1ryy	4.A
-.	.	.	8B-X
-2A	2F	.	2c
+2c	2F	4.A	1ryy
+.	.	8B-X	.
+2A	2F	2c	.
 =23	=23	=23	=23
-2.B-X	2.G	1ryy	4B-X
-.	.	.	4.d
-.	.	.	8e
-4A	4A	.	[4f
+2.B-X	2.G	4B-X	1ryy
+.	.	4.d	.
+.	.	8e	.
+4A	4A	[4f	.
 !!LO:LB:g=original
 =24	=24	=24	=24
-1G	2BnZ	1ryy	4f]
-.	.	.	8eL
-.	.	.	8dJ
-.	2B	.	2e
+1G	2BnZj	4f]	1ryy
+.	.	8eL	.
+.	.	8dJ	.
+.	2B	2e	.
 =25	=25	=25	=25
 1F	2c	2.a	1f
 .	2F	.	.
-.	.	4bnN	.
+.	.	4bn-	.
 =26	=26	=26	=26
 1ryy	4rD	1cc	2f
 .	4G	.	.
@@ -150,8 +150,8 @@
 *	*v	*v
 =34	=34
 *M3/2	*M3/2
-*met(O)	*met(O)
 *^	*^
+!!LO:TX:t=[whole]=[whole-dot]
 1.G	1G	1g	2d
 .	.	.	2e
 .	2G	2g	2g
@@ -210,7 +210,7 @@
 =48	=48	=48	=48
 1F	1c	1a	2.f
 .	.	.	4e
-2G	2B-X	2rb	2d
+2G	2B-X	2rbb	2d
 =49	=49	=49	=49
 2.A	2c	1.cc	2c
 .	1A	.	2e
