@@ -2,6 +2,7 @@
 !!!CDT: ~1450-~1517
 !!!OPR: Missa brevis
 !!!OTL: Sanctus
+!!!ONM: 4
 !!!AGN: Mass
 !!!SCT: Gas0201d
 !!!SCA: Gas0201d
@@ -898,6 +899,7 @@
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 *	*	*	*Xedit	*	*	*	*
 !!LO:TX:t=[whole]=[whole-dot]
+!!LO:TX:a:t=[C |3]
 2r	.	1G	-ni.	1B-y	-ni.	1g	-ni.
 2r	.	.	.	.	.	.	.
 2G	O-	2G	O-	2G	.	2b-y	O-
