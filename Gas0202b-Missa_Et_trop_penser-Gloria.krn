@@ -1,9 +1,9 @@
-!!!RNB: m.95, S, a dashed slur is needed
 !!!RNB: m.118, B, two syllables per one note need to be checked
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Missa Et trop penser
 !!!OTL: Gloria
+!!!ONM: 2
 !!!AGN: Mass
 !!!SCT: Gas0202b
 !!!SCA: Gas0202b
@@ -719,6 +719,7 @@
 =95	=95	=95	=95	=95	=95	=95	=95
 *	*	*lig	*	*	*	*	*
 2.F	mun-	[1A	.	2c	-ca-	4a	tol-
+!!LO:S:dash
 .	.	.	.	.	.	(4a	-lis
 .	.	.	.	2A	-ta	4a)	.
 4G	.	.	.	.	.	8gL	.
@@ -827,7 +828,8 @@
 .	.	.	.	4f#i	.	.	.
 =115	=115	=115	=115	=115	=115	=115	=115
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+!!LO:TX:t=[whole]=[whole-dot]
 1G	sus-	1.r	.	1g	-di,	2dd	Sus-
 .	.	.	.	.	.	2dd	-ci-
 2D	-ci-	.	.	2f	sus-	2dd	-pe
@@ -1131,7 +1133,8 @@
 !!LO:LB:g=original
 =167	=167	=167	=167	=167	=167	=167	=167
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+!!LO:TX:t=[whole]=[whole-dot]
 [1.GG	-ste.	1.G	-ste.	1.r	.	1.g	-ste.
 =168	=168	=168	=168	=168	=168	=168	=168
 1.GG]	.	1.r	.	2G	Cum	1.r	.
