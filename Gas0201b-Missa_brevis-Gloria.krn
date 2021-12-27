@@ -2,6 +2,7 @@
 !!!CDT: ~1450-~1517
 !!!OPR: Missa brevis
 !!!OTL: Gloria
+!!!ONM: 2
 !!!AGN: Mass
 !!!SCT: Gas0201b
 !!!SCA: Gas0201b
@@ -481,6 +482,7 @@
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!LO:TX:t=[whole]=[whole-dot]
+!!LO:TX:a:t=[C |3]
 2r	.	1G	-ste.	1.d	-ste.	1.g	-ste.
 2r	.	.	.	.	.	.	.
 2G	Cum	2B-y	Cum	.	.	.	.
@@ -551,8 +553,8 @@
 !!!PC#: Corpus Mensurabilis Musicae 106/II.2
 !!!PDT: 2018
 !!!PED: Kolb, Paul
-!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!YEC: Copyright 2016, Kolb, Paul
+!!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Zybina, Karina
 !!!EEV: 2021/09/23
 !!!title: @{OPR} &mdash; @{OTL}
