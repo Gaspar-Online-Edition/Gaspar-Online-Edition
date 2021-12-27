@@ -830,6 +830,7 @@
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
 !!LO:TX:t=[whole]=[whole-dot]
+!!LO:TX:a:t=[3]
 1G	sus-	1.r	.	1g	-di,	2dd	Sus-
 .	.	.	.	.	.	2dd	-ci-
 2D	-ci-	.	.	2f	sus-	2dd	-pe
@@ -1135,6 +1136,7 @@
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
 !!LO:TX:t=[whole]=[whole-dot]
+!!LO:TX:a:t=[3]
 [1.GG	-ste.	1.G	-ste.	1.r	.	1.g	-ste.
 =168	=168	=168	=168	=168	=168	=168	=168
 1.GG]	.	1.r	.	2G	Cum	1.r	.
