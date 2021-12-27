@@ -1,9 +1,8 @@
-!!!ONB: mm.25, B: es or ces? (Finale vs Print)
-!!!RNB: mm.23: accidentals should be checked
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Missa brevis
 !!!OTL: Agnus
+!!!ONM: 5
 !!!AGN: Mass
 !!!SCT: Gas0201a
 !!!SCA: Gas0201a
@@ -164,7 +163,7 @@
 .	.	.	.	4f#i	.	.	.
 2G	-bis,	4r	.	4.g	-bis,	4r	.
 .	.	[4B-y	mi-	.	.	[4dd	mi-
-.	.	.	.	8f	.	.	.
+.	.	.	.	8fny	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
 4r	.	8B-L]	.	2d	.	4dd]	.
 .	.	8c	.	.	.	.	.
@@ -176,7 +175,7 @@
 =25	=25	=25	=25	=25	=25	=25	=25
 4.F	-re-	2c	-re-	4a	-se-	4cc]	.
 .	.	.	.	4f	-re-	8b-yL	.
-8E-i	.	.	.	.	.	8aJ	.
+8E-j	.	.	.	.	.	8aJ	.
 4C	.	4e-j	.	[2g	-re	4cc	.
 *col	*	*	*	*	*	*	*
 [4G	-re	[4d	-re	.	.	[4b-y	-re
@@ -375,6 +374,7 @@
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!LO:TX:t=[whole]=[whole-dot]
+!!LO:TX:a:t=[C |3]
 1D	A-	1.r	.	1.r	.	1.r	.
 2E	-gnus	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54
