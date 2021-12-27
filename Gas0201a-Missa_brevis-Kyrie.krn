@@ -1,9 +1,9 @@
-!!!ONB: should beams after tieded notes been split (e.g. mm.3-4,9-10) ?
 !!!RNB: two syllabes per one note need to be checked (mm.15,55)
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Missa brevis
 !!!OTL: Kyrie
+!!!ONM: 1
 !!!AGN: Mass
 !!!SCT: Gas0201a
 !!!SCA: Gas0201a
@@ -39,7 +39,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4
 *	*	*	*	*	*edit	*	*
 4D]	.	8fL]	.	4F	e-	4a	-ley-
-.	.	8e-i	.	.	.	.	.
+.	.	8e-iJ	.	.	.	.	.
 *	*	*Xcol	*	*	*	*	*
 4F	.	2d	.	2A	-ley-	4f	.
 2E-i	-ley-	.	.	.	.	2g	-son,
@@ -80,8 +80,8 @@
 .	.	.	.	.	.	8b-yJ	.
 4C	.	4e-i	.	4G	e-	[4cc	.
 =10	=10	=10	=10	=10	=10	=10	=10
-4D	-e	4f	.	4F	-ley-	8cc]	.
-.	.	.	.	.	.	8b-y	.
+4D	-e	4f	.	4F	-ley-	8ccL]	.
+.	.	.	.	.	.	8b-yJ	.
 4BB-y	.	4d	.	4B-y	.	2b-y	-ley-
 2F	.	2c	.	4F	-son,	.	.
 .	.	.	.	[4f	e-	4a	.
@@ -103,7 +103,7 @@
 =13	=13	=13	=13	=13	=13	=13	=13
 *lig	*	*	*	*	*	*	*
 2G	Ky-	4B-y	-e	8b-L]	.	4dd]	.
-.	.	.	.	8a	.	.	.
+.	.	.	.	8aJ	.	.	.
 *	*	*	*edit	*	*	*	*
 .	.	2d	e-	2g	-ley-	8ccL	.
 .	.	.	.	.	.	8b-yJ	.
@@ -128,7 +128,7 @@
 [4F	.	[4c	e-	[4f	e-	[4a	-ley-
 =16	=16	=16	=16	=16	=16	=16	=16
 4F]	.	4c]	.	8fL]	.	4a]	.
-.	.	.	.	8e	.	.	.
+.	.	.	.	8eJ	.	.	.
 4G	.	4B-y	.	2d	-le-	2g	.
 2D	-ley-	2A	-ley-	.	.	.	.
 *	*	*	*	*	*	*Xlig	*
@@ -207,7 +207,7 @@
 !!LO:LB:g=original
 =28	=28	=28	=28	=28	=28	=28	=28
 8dL]	.	1r	.	4b-]	.	4r	.
-8c	.	.	.	.	.	.	.
+8cJ	.	.	.	.	.	.	.
 4B-y	e-	.	.	2g	.	4g	Chri-
 2A	-ley-	.	.	.	.	4a	-ste
 .	.	.	.	4f#i	.	4cc	.
@@ -234,8 +234,8 @@
 4C	.	[4c	.	[4G	Chri-	[4e	e-
 =32	=32	=32	=32	=32	=32	=32	=32
 *lig	*	*	*	*	*	*	*
-2E	-son,	4c]	.	8G]	.	8eL]	.
-.	.	.	.	8AL	.	8f	.
+2E	-son,	4c]	.	8GL]	.	8eL]	.
+.	.	.	.	8A	.	8fJ	.
 .	.	4G	.	8B-y	.	2g	-ley-
 .	.	.	.	8cJ	.	.	.
 2D	.	2A	-ley-	2d	-ste,	.	.
@@ -416,8 +416,8 @@
 .	.	.	.	8cJ	.	.	.
 *	*	*Xlig	*	*	*	*	*
 =56	=56	=56	=56	=56	=56	=56	=56
-8F]	.	1A	-ley-	2d	-e	8a]	.
-8EL	.	.	.	.	.	8gL	.
+8FL]	.	1A	-ley-	2d	-e	8aL]	.
+8E	.	.	.	.	.	8g	.
 8D	.	.	.	.	.	8f#i	.
 8CJ	.	.	.	.	.	8eJ	.
 2D	-son,	.	.	4r	.	2f#i	-ley-
