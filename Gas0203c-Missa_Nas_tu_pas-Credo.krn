@@ -2,6 +2,7 @@
 !!!CDT: ~1450-~1517
 !!!OPR: Missa N'as tu pas
 !!!OTL: Credo
+!!!ONM: 3
 !!!AGN: Mass
 !!!SCT: Gas0203c
 !!!SCA: Gas0203c
@@ -838,7 +839,7 @@
 .	.	4E	.	.	.	.	.
 =137	=137	=137	=137	=137	=137	=137	=137
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*met(O|)	*	*met(O|)	*	*met(O|)	*	*met(O|)	*
 !!LO:TX:t=[whole]=[whole-dot]
 1FF	-rum.	1F	-rum.	2r	.	2%3r	.
 .	.	.	.	2r	.	.	.
