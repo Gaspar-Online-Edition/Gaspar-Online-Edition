@@ -2,6 +2,7 @@
 !!!CDT: ~1450-~1517
 !!!OPR: Missa Et trop penser
 !!!OTL: Agnus
+!!!ONM: 5
 !!!AGN: Mass
 !!!SCT: Gas0202e
 !!!SCA: Gas0202e
@@ -564,7 +565,7 @@
 !!LO:PB:g=original
 =82||	=82||	=82||	=82||	=82||	=82||	=82||	=82||
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*met(O|)	*	*met(O|)	*	*met(O|)	*	*met(O|)	*
 1.r	.	1.r	.	1.G	A-	1g	A-
 .	.	.	.	.	.	2g	-gnus
 =83	=83	=83	=83	=83	=83	=83	=83
