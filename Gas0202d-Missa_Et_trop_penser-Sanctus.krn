@@ -1,9 +1,9 @@
 !!!RNB: m.78, A: slurs correct?
-!!!RNB: Osanna ut supra needed?
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Missa Et trop penser
 !!!OTL: Sanctus
+!!!ONM: 4
 !!!AGN: Mass
 !!!SCT: Gas0202d
 !!!SCA: Gas0202d
@@ -396,7 +396,7 @@
 !!LO:LB:g=original
 =42||	=42||	=42||	=42||	=42||	=42||	=42||	=42||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 *	*Xedit	*	*	*	*	*	*
 2.G	Ple-	1r	.	2G	Ple-	1r	.
 .	.	.	.	4.B-y	.	.	.
@@ -645,9 +645,9 @@
 .	.	.	.	[(2f	-san-	.	.
 .	.	.	.	.	.	4a	.
 =79	=79	=79	=79	=79	=79	=79	=79
-1B-y	.	1d]	.	2f]	.	2f	.
+1B-y	.	1d]	.	(2f]	.	2f	.
 *	*	*	*	*col	*	*	*
-.	.	.	.	[2f)	.	2b-y	.
+.	.	.	.	[2f))	.	2b-y	.
 *Xlig	*	*	*	*	*	*	*
 =80	=80	=80	=80	=80	=80	=80	=80
 *lig	*	*	*	*	*	*	*
@@ -1166,6 +1166,7 @@
 .	.	.	.	.	.	2f#i	-mi-
 =167	=167	=167	=167	=167	=167	=167	=167
 0GGl	-ni.	0r	.	0Gl	-ni.	0gl	-ni.
+!!LO:TX:b:rj:t=Osanna ut supra
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
