@@ -2,8 +2,9 @@
 !!!COS: Gaspar van Weerbeke
 !!!OPR: Missa [sine nomine]
 !!!OTL: Sanctus
+!!!OTM: 4
 !!!AGN: Mass
-!!!SCT: Gas0207d
+!!!SCT: Gas0207e
 !!!SCA: Gas0207e
 !!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
@@ -807,10 +808,8 @@
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!LO:TX:a:t=[C |3]
 !!LO:TX:t=[whole]=[whole-dot]
-*	*	*lig	*	*	*	*	*
-*	*	*	*	*col	*	*	*
-*	*	*col	*	*	*	*	*
-*col	*	*	*	*	*	*	*
+*col	*	*lig	*	*	*	*	*
+*	*	*col	*	*col	*	*	*
 [1.GG	-sis,	1G	-sis,	[1.d	o-	1.g	-sis,
 .	.	[2B-y	.	.	.	.	.
 *	*	*Xlig	*	*	*	*	*
