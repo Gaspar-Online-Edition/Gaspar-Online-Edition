@@ -3,6 +3,7 @@
 !!!CDT: ~1450-~1517
 !!!PTL: Lamentatio Ieremiae prophetae
 !!!OTL: Sabato sancto. Lectio secunda
+!!!ONM: 5
 !!!AGN: Motet; Lamentation
 !!!SCT: Gas0501e
 !!!SCA: Gas0501e
@@ -98,16 +99,12 @@
 2c	di-	2F	di-	2f	di-	2a	di-
 2c	-sper-	2C	-sper-	2e	-sper-	2g	-sper-
 =26	=26	=26	=26	=26	=26	=26	=26
-!LO:TX:a:t=[  ]	!	!LO:TX:a:t=[  ]	!	!LO:TX:a:t=[  ]	!	!	!
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 2A	-si	2F	-si	2d	-si	2f	-si
 1G;	sunt	1C;	sunt	1c;	sunt	1e;	sunt
 !!LO:PB:g=original
 =27	=27	=27	=27	=27	=27	=27	=27
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(C|)	*
-!LO:TX:b:t=[  ]	!	!LO:TX:b:t=[  ]	!	!LO:TX:b:t=[  ]	!	!LO:TX:b:t=[  ]	!
 2r	.	2r	.	2.e	la-	2r	.
 [2C	la-	[2c	la-	.	.	[2g	la-
 .	.	.	.	4e	-pi-	.	.
