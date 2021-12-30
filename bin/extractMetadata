@@ -21,25 +21,26 @@ die "Usage: $0 file(s)" if @files == 0;
 # See https://www.humdrum.org/reference-records/index.html for meanings (which are summarized
 # in comments below:
 
-my @columnHeadings = ("AGN",
+my @columnHeadings = (
 	"SCA",               ## Scholarly catalog unabbreviated
 	"SCT",               ## Scholarly catalog abbreviated (currently SCA and SCT are the same and are JRP catalog number)
-	"CDT",               ## Composer's date
-	"CDT1",              ## Composer #1 date
-	"CDT3",              ## Composer #3 date
+	"COM",               ## Composer
 	"COA",               ## Attributed composer
 	"COA1",              ## Attributed composer #1
 	"COA2",              ## Attributed composer #2
-	"COM",               ## Composer
 	"COS",               ## Suspected composer
+	"LAR",               ## Arranger
+	"LAR3",              ## Arranger #3
+	"CDT",               ## Composer's date
+	"CDT1",              ## Composer #1 date
+	"CDT3",              ## Composer #3 date
+	"OPR",               ## Title of parent work (if movement)
+	"OTL",               ## Title of work (or movement)
+	"OMV",               ## Movement number
+	"AGN",               ## Genre
 	"EED",               ## Electronic editor
 	"EEV",               ## Electronic version
 	"ENC",               ## Encoder (of electronic version)
-	"LAR",               ## Arranger
-	"LAR3",              ## Arranger #3
-	"OMV",               ## Movement number
-	"OPR",               ## Title of parent work (if movement)
-	"OTL",               ## Title of work (or movement)
 	"PC#",               ## Publisher's catalog number
 	"PDT",               ## Publication date
 	"PED",               ## Publication (print) editor
