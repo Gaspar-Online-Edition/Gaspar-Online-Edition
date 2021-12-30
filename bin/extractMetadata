@@ -1,0 +1,122 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Thu Dec 30 06:01:19 PST 2021
+# Last Modified: Thu Dec 30 06:34:03 PST 2021
+# Filename:      extractMetadata
+# Syntax:        perl 5
+#
+# Description:   Extract reference record information from Gaspar
+#                digital scores for placement in the spreadsheet:
+#                   http://bit.ly/gaspar-metadata
+#
+
+use strict;
+
+my @files = @ARGV;
+die "Usage: $0 file(s)" if @files == 0;
+
+# columHeadings -- list of all reference records (other than RDF entries), which are extracted with the command:
+#     rid -LID * | grep "^\!\!\!" | grep : | sed "s/:.*//; s/^\!\!\!//" | sort | uniq | egrep -v "RDF|[OR]NB"
+# See https://www.humdrum.org/reference-records/index.html for meanings (which are summarized
+# in comments below:
+
+my @columnHeadings = ("AGN",
+	"SCA",               ## Scholarly catalog unabbreviated
+	"SCT",               ## Scholarly catalog abbreviated (currently SCA and SCT are the same and are JRP catalog number)
+	"CDT",               ## Composer's date
+	"CDT1",              ## Composer #1 date
+	"CDT3",              ## Composer #3 date
+	"COA",               ## Attributed composer
+	"COA1",              ## Attributed composer #1
+	"COA2",              ## Attributed composer #2
+	"COM",               ## Composer
+	"COS",               ## Suspected composer
+	"EED",               ## Electronic editor
+	"EEV",               ## Electronic version
+	"ENC",               ## Encoder (of electronic version)
+	"LAR",               ## Arranger
+	"LAR3",              ## Arranger #3
+	"OMV",               ## Movement number
+	"OPR",               ## Title of parent work (if movement)
+	"OTL",               ## Title of work (or movement)
+	"PC#",               ## Publisher's catalog number
+	"PDT",               ## Publication date
+	"PED",               ## Publication (print) editor
+	"PPR",               ## Publisher (of printed edition)
+	"PTL",               ## Publication title
+	"YEC",               ## Electronic (encoding) copyright
+	"YEM",               ## Copyright Message
+	"system-decoration",	## System decoration and staff barring info
+	"title",             ## Title to display at top of VHV webpage
+	"voices",            ## Number of voices (in original composition)
+	"voices-extant"      ## Number of extant voices
+);
+
+
+printColumnHeadings(@columnHeadings);
+foreach my $file (@files) {
+	processFile($file);
+}
+
+exit(0);
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	my %records = getReferenceRecords($file);
+	for (my $i=0; $i<@columnHeadings; $i++) {
+		print $records{$columnHeadings[$i]};
+		print "\t" if $i < $#columnHeadings;
+	}
+	print "\n";
+}
+
+
+
+##############################
+##
+## getReferenceRecords --
+##
+
+sub getReferenceRecords {
+	my ($file) = @_;
+	open(FILE, $file) or die "Cannot read $file";
+	my @contents = <FILE>;
+	chomp @contents;
+	my %output;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line !~ /^!!!\s*([^!:]+)\s*:\s*(.*)\s*$/;
+		my $key = $1;
+		my $value = $2;
+
+		# reference records to ignore:
+		next if $key eq "RDF**kern";
+		next if $key eq "ONB";
+		next if $key eq "RNB";
+
+		die "Error in file $file, duplicate key $1\n" if $output{$1};
+		$output{$1} = $2;
+	}
+	close FILE;
+	return %output;
+}
+
+
+
+##############################
+##
+## printColumnHeadings ==
+##
+
+sub printColumnHeadings {
+	my @headers = @_;
+	print join("\t", @headers), "\n";
+}
+
+
