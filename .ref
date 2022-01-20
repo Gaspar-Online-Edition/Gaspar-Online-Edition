@@ -1,64 +1,64 @@
 @dummy	Gas01	<h2>I/II. Masses </h2>
 
-@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	1. <hlstart>Missa Ave regina celorum<hend>
+@Gas0101a:Gas0101b:Gas0101c:Gas0101d:Gas0101e	Gas0101	1. Missa Ave regina celorum
 Gas0101a-Missa_Ave_regina_celorum-Kyrie.krn	Gas0101a	Kyrie
 Gas0101b-Missa_Ave_regina_celorum-Gloria.krn	Gas0101b	Gloria
 Gas0101c-Missa_Ave_regina_celorum-Credo.krn	Gas0101c	Credo
 Gas0101d-Missa_Ave_regina_celorum-Sanctus.krn	Gas0101d	Sanctus
 Gas0101e-Missa_Ave_regina_celorum-Agnus.krn	Gas0101e	Agnus Dei
 
-@Gas0102a:Gas0102b:Gas0102c:Gas0102d:Gas0102e	Gas0102	2. <h1start>Missa O venus bant<hend>
+@Gas0102a:Gas0102b:Gas0102c:Gas0102d:Gas0102e	Gas0102	2. Missa O venus bant
 Gas0102a-Missa_O_venus_bant-Kyrie.krn	Gas0102a	Kyrie
 Gas0102b-Missa_O_venus_bant-Gloria.krn	Gas0102b	Gloria
 Gas0102c-Missa_O_venus_bant-Credo.krn	Gas0102c	Credo
 Gas0102d-Missa_O_venus_bant-Sanctus.krn	Gas0102d	Sanctus
 Gas0102e-Missa_O_venus_bant-Agnus.krn	Gas0102e	Agnus Dei
 
-@Gas0103a:Gas0103b:Gas0103c:Gas0103d:Gas0103e	Gas0103	3. <h1start>Missa Princesse d'amourettes<hend>
+@Gas0103a:Gas0103b:Gas0103c:Gas0103d:Gas0103e	Gas0103	3. Missa Princesse d'amourettes
 Gas0103a-Missa_Princesse_damourettes-Kyrie.krn	Gas0103a	Kyrie
 Gas0103b-Missa_Princesse_damourettes-Gloria.krn	Gas0103b	Gloria
 Gas0103c-Missa_Princesse_damourettes-Credo.krn	Gas0103c	Credo
 Gas0103d-Missa_Princesse_damourettes-Sanctus.krn	Gas0103d	Sanctus
 Gas0103e-Missa_Princesse_damourettes-Agnus.krn	Gas0103e	Agnus Dei
 
-@Gas0104a:Gas0104b:Gas0104c:Gas0104d:Gas0104e	Gas0104	4. <h1start>Missa Se mieulx ne vient<hend>
+@Gas0104a:Gas0104b:Gas0104c:Gas0104d:Gas0104e	Gas0104	4. Missa Se mieulx ne vient
 Gas0104a-Missa_Se_mieulx_ne_vient-Kyrie.krn	Gas0104a	Kyrie
 Gas0104b-Missa_Se_mieulx_ne_vient-Gloria.krn	Gas0104b	Gloria
 Gas0104c-Missa_Se_mieulx_ne_vient-Credo.krn	Gas0104c	Credo
 Gas0104d-Missa_Se_mieulx_ne_vient-Sanctus.krn	Gas0104d	Sanctus
 Gas0104e-Missa_Se_mieulx_ne_vient-Agnus.krn	Gas0104e	Agnus Dei
 
-@Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	5. <hlstart>Missa brevis<hend>
+@Gas0201a:Gas0201b:Gas0201c:Gas0201d:Gas0201e	Gas0201	5. Missa brevis
 Gas0201a-Missa_brevis-Kyrie.krn	Gas0201a	Kyrie
 Gas0201b-Missa_brevis-Gloria.krn	Gas0201b	Gloria
 Gas0201c-Missa_brevis-Credo.krn	Gas0201c	Credo
 Gas0201d-Missa_brevis-Sanctus.krn	Gas0201d	Sanctus
 Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Agnus Dei
 
-@Gas0202a:Gas0202b:Gas0202c:Gas0202d:Gas0202e	Gas0202	6. <hlstart>Missa Et trop penser<hend>
+@Gas0202a:Gas0202b:Gas0202c:Gas0202d:Gas0202e	Gas0202	6. Missa Et trop penser
 Gas0202a-Missa_Et_trop_penser-Kyrie.krn	Gas0202a	Kyrie
 Gas0202b-Missa_Et_trop_penser-Gloria.krn	Gas0202b	Gloria
 Gas0202c-Missa_Et_trop_penser-Credo.krn	Gas0202c	Credo
 Gas0202d-Missa_Et_trop_penser-Sanctus.krm	Gas0202d	Sanctus
 Gas0202e-Missa_Et_trop_penser-Agnus.krn	Gas0202e	Agnus Dei
 
-@Gas0203a:Gas0203b:Gas0203c:Gas0203d:Gas0203e	Gas0203	7. <hlstart>Missa N'as tu pas<hend>
+@Gas0203a:Gas0203b:Gas0203c:Gas0203d:Gas0203e	Gas0203	7. Missa N'as tu pas
 Gas0203a-Missa_Nas_tu_pas-Kyrie.krn	Gas0203a	Kyrie
 Gas0203b-Missa_Nas_tu_pas-Gloria.krn	Gas0203b	Gloria
 Gas0203c-Missa_Nas_tu_pas-Credo.krn	Gas0203c	Credo
 Gas0203d-Missa_Nas_tu_pas-Sanctus.krn	Gas0203d	Sanctus
 Gas0203e-Missa_Nas_tu_pas-Agnus.krn	Gas0203e	Agnus Dei
 
-@Gas0204a:Gas0204b:Gas0204c:Gas0204d:Gas0204e	Gas0204	8. <hlstart>Missa Octavi toni<hend>
+@Gas0204a:Gas0204b:Gas0204c:Gas0204d:Gas0204e	Gas0204	8. Missa Octavi toni
 Gas0204a-Missa_Octavi_toni-Kyrie.krn	Gas0204a	Kyrie
 Gas0204a-Missa_Octavi_toni-Gloria.krn	Gas0204b	Gloria
 Gas0204a-Missa_Octavi_toni-Sanctus.krn	Gas0204d	Sanctus
 Gas0204a-Missa_Octavi_toni-Agnus.krn	Gas0204e	Agnus Dei
 
-@Gas0205:Gas0206	Gas0205	9.<h1start>Credos<hend>
+@Gas0205:Gas0206	Gas0205	9. Credos
 Gas0205-Credo.krn	Gas0205	Credo
 
-@Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. <hlstart>Missa [sine nomine]<hend> (Anonymous)
+@Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. Missa [sine nomine] (Anonymous)
 Ano0207a-Missa_sine_nomine_Kyrie.krn	Gas0207a	Kyrie
 Ano0207b-Missa_sine_nomine_Gloria.krn	Gas0207b	Gloria
 Ano0207c-Missa_sine_nomine_Credo.krn	Gas0207c	Credo
@@ -67,27 +67,27 @@ Ano0207e-Missa_sine_nomine_Agnus.krn	Gas0207e	Agnus Dei
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
-@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. <h1start>Ave mundi domina</hend> (MCE 5)
-Gas0301a-Ave_mundi_domina-Ave_mundi_domina.krn	Gas0301a	Ave mundi domina
-Gas0301b-Ave_mundi_domina-Ave_mater_gloriosa.krn	Gas0301b	Ave mater gloriosa
-Gas0301c-Ave_mundi_domina-Salve_virgo_virginum.krn	Gas0301c	Salve virgo virginum
-Gas0301d-Ave_mundi_domina-Anima_mea_liquefacta_est.krn	Gas0301d	Anima mea liquefacta est
-Gas0301e-Ave_mundi_dominia-Ave_regina_caelorum.krn	Gas0301e	Ave regina caelorum
-Gas0301f-Ave_mundi_domina-Quem_terra_pontus.krn	Gas0301f	Quem terra pontus
-Gas0301g-Ave_mundi_domina-O_virginum_praeclara.krn	Gas0301g	O virginum praeclara
-Gas0301h-Ave_mundi_domina-Fit_porta_Christi_pervia.krn	Gas0301h	Fit porta Christ pervia
+@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. Ave mundi domina (MCE 5)
+Gas0301a-Ave_mundi_domina-Ave_mundi_domina.krn	Gas0301a	1a. <hlstart>Ave mundi domina<hlend>
+Gas0301b-Ave_mundi_domina-Ave_mater_gloriosa.krn	Gas0301b	1b. <hlstart>Ave mater gloriosa<hlend>
+Gas0301c-Ave_mundi_domina-Salve_virgo_virginum.krn	Gas0301c	1c. <hlstart>Salve virgo virginum<hlend>
+Gas0301d-Ave_mundi_domina-Anima_mea_liquefacta_est.krn	Gas0301d	1d. <hlstart>Anima mea liquefacta est<hlend>
+Gas0301e-Ave_mundi_dominia-Ave_regina_caelorum.krn	Gas0301e	1e. <hlstart>Ave regina caelorum<hlend>
+Gas0301f-Ave_mundi_domina-Quem_terra_pontus.krn	Gas0301f	1f. <hlstart>Quem terra pontus<hlend>
+Gas0301g-Ave_mundi_domina-O_virginum_praeclara.krn	Gas0301g	1g. <hlstart>O virginum praeclara<hlend>
+Gas0301h-Ave_mundi_domina-Fit_porta_Christi_pervia.krn	Gas0301h	1h. <hlstart>Fit porta Christ pervia<hlend>
 
 
-@Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. <h1start>Quam pulchra es</hend>
+@Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. Quam pulchra es
 
-@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. <h1start>In honorem sancti spiritus</hend>
-Gas0303a-Spiritus_domini.krn	Gas0303a	3a Spiritus domini
-Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b Veni sancte spiritus
-Gas0303c-Beata_gens.krn	Gas0303c	3c Beata gens
-Gas0303d-Confirma_hoc_deus.krn	Gas0303d	3d Confirma hoc, deus
-Gas0303e-Loquebantur_variis_linguis.krn	Gas0303e	3e Loquebantur variis linguis
-Gas0303e.2-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e.2 Sancti spiritus adsit nobis (Anonymous)
-Gas0303f-Factus_est_repente.krn	Gas0303f	3f Factus est repente
+@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. In honorem sancti spiritus
+Gas0303a-Spiritus_domini.krn	Gas0303a	3a. <hlstart>Spiritus domini<hlend>
+Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b. <hlstart>Veni sancte spiritus<hlend>
+Gas0303c-Beata_gens.krn	Gas0303c	3c. <hlstart>Beata gens<hlend>
+Gas0303d-Confirma_hoc_deus.krn	Gas0303d	3d. <hlstart>Confirma hoc, deus<hlend>
+Gas0303e-Loquebantur_variis_linguis.krn	Gas0303e	3e. <hlstart>Loquebantur variis linguis<hlend>
+Gas0303e.2-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e2. <hlstart>Sancti spiritus adsit nobis (Anonymous)<hlend>
+Gas0303f-Factus_est_repente.krn	Gas0303f	3f. <hlstart>Factus est repente<hlend>
 
 
 @dummy	Gas04	<br> </div><h2>IV. Motets</h2>
@@ -136,7 +136,7 @@ Gas0502-Magnificat_octavi_toni.krn	Gas0502b	2. <hlstart>Magnificat octavi toni<h
 
 Gas0503-Bon_temps_Adieu_mes_amours.krn	Gas0503	3. <hlstart>Bon temps / Adieu mes amours<hlend>
 Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	4. <hlstart>Que fait le cocu au bois<hlend>
-Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	4.2. <hlstart>Que fait le cocu au bois<hlend> (added Bassus)
+Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	4-2. <hlstart>Que fait le cocu au bois<hlend> (added Bassus)
 Gas0505-Sans_regretz.krn	Gas0505	5. <hlstart>Sans regretz<hlend>
 Gas0506-La_stangetta.krn	Gas0506	6. <hlstart>La strangetta<hlend>
 Gas0506.2-La_stangetta_Spinacino.krn	Gas0506.2	6. <hlstart>La strangetta Spinacino<hlend>
@@ -148,3 +148,6 @@ Gas0508.2-Vray_dieu_que.krnl	Gas0508.2	8. <hlstart>Vray dieu que<hlend>
 Gas0509-Jay_pris_amours_De_tous_biens_plaine.krn	Gas0509	9. <hlstart>J'ay pris amours / De tous biens plaine<hlend>
 Gas0509.2-Jay_pris_amours.krn	Gas0509.2	9. <hlstart>J'ay pris amours<hlend>
 Gas0510-Ce_nest_pas_sans.krn	Gas0510	10. <hlstart>Ce n'est pas sans<hlend>
+
+
+
