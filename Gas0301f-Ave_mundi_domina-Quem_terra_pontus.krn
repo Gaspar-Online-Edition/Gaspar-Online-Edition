@@ -122,7 +122,7 @@
 .	.	3c	per	.	.	3a	per
 .	.	3B-	tem-	.	.	3g	tem-
 .	.	3G	.	.	.	3e	.
-!!!ONB: C: MusicXML had a regular sharp on the F, PDF has no sharp.  Probably should be editorial sharp?
+!!!ONB: C: MusicXML had a regular sharp on the F, online edition has no sharp.  Probably should be editorial sharp?
 .	.	3A	-po-	.	.	3f#i	-po-
 =19	=19	=19	=19	=19	=19	=19	=19
 1r	.	3%2G	-ra,	0r	.	3%2g	-ra,
@@ -299,9 +299,10 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!system-decoration: [*]
-!!!xPTL: Gaspar van Weerbeke: Collected Works. III. Motet cycles
-!!!xPPR: American Institute of Musicology
-!!!xPC#: Corpus Mensurabilis Musicae 106/III
+!!!PTL: MCE 5: Gaspar van Weerbeke, Ave mundi domina
+!!!URL: https://www.gaffurius-codices.ch/s/portal/page/mce05
+!!!ISBN: 978-3-9524701-7-6
+!!!PPR: Gaffurius Codices Online, Motet Cycles Edition (https://www.gaffurius-codices.ch/s/portal/page/editions)
 !!!PC#: MCE 05-06
 !!!PDT: 2021
 !!!PED: Pavanello, Agnese

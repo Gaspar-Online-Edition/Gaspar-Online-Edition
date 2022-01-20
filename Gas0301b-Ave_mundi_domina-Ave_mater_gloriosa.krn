@@ -30,7 +30,6 @@
 1D	.	1A	.	1d	glo-	1f	.
 !!LO:LB:g=MCE
 =5	=5	=5	=5	=5	=5	=5	=5
-!!!ONB: T: different syllabification (gloriosa not repeated)
 1.E-i	-ri-	1.G	glo-	1B-	.	1g	ma-
 .	.	.	.	1G	-ri-	[1b-	-ter
 2F	.	2A	-ri-	.	.	.	.
@@ -247,9 +246,10 @@
 !!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
-!!!xPTL: Gaspar van Weerbeke: Collected Works. III. Motet cycles
-!!!xPPR: American Institute of Musicology
-!!!xPC#: Corpus Mensurabilis Musicae 106/III
+!!!PTL: MCE 5: Gaspar van Weerbeke, Ave mundi domina
+!!!URL: https://www.gaffurius-codices.ch/s/portal/page/mce05
+!!!ISBN: 978-3-9524701-7-6
+!!!PPR: Gaffurius Codices Online, Motet Cycles Edition (https://www.gaffurius-codices.ch/s/portal/page/editions)
 !!!PC#: MCE 05-02
 !!!PDT: 2021
 !!!PED: Pavanello, Agnese

@@ -1,7 +1,7 @@
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!OPR: Motet cycle Ave mundi domina
-!!!OTL: O virginum praeclara
+!!!OTL: Anima mea liquefacta est
 !!!OMV: 4
 !!!AGN: Motet; Motet cycle
 !!!SCT: Gas0301d
@@ -263,7 +263,6 @@
 =55	=55	=55	=55	=55	=55	=55	=55
 1D	-ae	1.d	Fi-	2A]	.	2dd]	.
 .	.	.	.	2A	-li-	2dd	-li-
-!!!ONB: A: PDF does not have a tie, so may be editorial
 1G	Ie-	.	.	(1B-	-ae	[1dd	-ae
 .	.	2d	-li-	.	.	.	.
 =56	=56	=56	=56	=56	=56	=56	=56
@@ -278,7 +277,6 @@
 2B-	.	2d	.	2f	.	.	.
 2G	.	2B-	.	2e-i	.	[2b-	.
 =58	=58	=58	=58	=58	=58	=58	=58
-!!!ONB: T: -sa- moved one note later in PDF.
 1F	.	1c	.	1f	-sa-	2b-]	.
 .	.	.	.	.	.	2a	.
 [1BB-;	-lem,	1B-	-sa-	[1d;	-lem,	1b-	-sa-
@@ -351,10 +349,11 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!system-decoration: [*]
-!!!xPTL: Gaspar van Weerbeke: Collected Works. III. Motet cycles
-!!!xPPR: American Institute of Musicology
-!!!xPC#: Corpus Mensurabilis Musicae 106/III
-!!!PC#: MCE 05-04
+!!!PTL: MCE 5: Gaspar van Weerbeke, Ave mundi domina
+!!!URL: https://www.gaffurius-codices.ch/s/portal/page/mce05
+!!!ISBN: 978-3-9524701-7-6
+!!!PPR: Gaffurius Codices Online, Motet Cycles Edition (https://www.gaffurius-codices.ch/s/portal/page/editions)
+!!!PC#: MCE 05-03
 !!!PDT: 2021
 !!!PED: Pavanello, Agnese
 !!!YEC: Copyright 2021, Pavanello, Agnese
