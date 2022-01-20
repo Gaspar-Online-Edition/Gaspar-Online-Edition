@@ -67,7 +67,16 @@ Ano0207e-Missa_sine_nomine_Agnus.krn	Gas0207e	Agnus Dei
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
-@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. <h1start>Ave mundi domina</hend>
+@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. <h1start>Ave mundi domina</hend> (MCE 5)
+Gas0301a-Ave_mundi_domina-Ave_mundi_domina.krn	Gas0301a	Ave mundi domina
+Gas0301b-Ave_mundi_domina-Ave_mater_gloriosa.krn	Gas0301b	Ave mater gloriosa
+Gas0301c-Ave_mundi_domina-Salve_virgo_virginum.krn	Gas0301c	Salve virgo virginum
+Gas0301d-Ave_mundi_domina-Anima_mea_liquefacta_est.krn	Gas0301d	Anima mea liquefacta est
+Gas0301e-Ave_mundi_dominia-Ave_regina_caelorum.krn	Gas0301e	Ave regina caelorum
+Gas0301f-Ave_mundi_domina-Quem_terra_pontus.krn	Gas0301f	Quem terra pontus
+Gas0301g-Ave_mundi_domina-O_virginum_praeclara.krn	Gas0301g	O virginum praeclara
+Gas0301h-Ave_mundi_domina-Fit_porta_Christi_pervia.krn	Gas0301h	Fit porta Christ pervia
+
 
 @Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. <h1start>Quam pulchra es</hend>
 
