@@ -86,7 +86,7 @@ Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b. <hlstart>Veni sancte spiritus<hle
 Gas0303c-Beata_gens.krn	Gas0303c	3c. <hlstart>Beata gens<hlend>
 Gas0303d-Confirma_hoc_deus.krn	Gas0303d	3d. <hlstart>Confirma hoc, deus<hlend>
 Gas0303e-Loquebantur_variis_linguis.krn	Gas0303e	3e. <hlstart>Loquebantur variis linguis<hlend>
-Gas0303e.2-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e2. <hlstart>Sancti spiritus adsit nobis (Anonymous)<hlend>
+Gas0303e.2-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e2. <hlstart>Sancti spiritus adsit nobis<hlend> (Anonymous)
 Gas0303f-Factus_est_repente.krn	Gas0303f	3f. <hlstart>Factus est repente<hlend>
 
 
@@ -112,11 +112,11 @@ Gas0415-Ave_verum_corpus.krn	Gas0415	15. <hlstart>Ave verum corpus<hlend>
 Gas0416-Panis_angelicus.krn	Gas0416	16. <hlstart>Panis angelicus<hlend>
 Gas0417-Tenebre_facte_sunt.krn	Gas0417	17. <hlstart>Tenebre facte sunt<hlend>
 Gas0418-Verbum_caro_factum_est.krn	Gas0418	18. <hlstart>Verbum caro factum est<hlend>
-Gas0419-Dulcis_amica_Dei.krn	Gas0419	19. <h1start>Dulcis amica Dei<h1end>
-Gas0420-Stabat_mater.krn	Gas0420	20. <h1start>Stabat mater<h1end>
-Ano0421-Ave_nostra_salus.krn	Gas0421	21. <h1start>Ave nostra salus<h1end> (Anonymous)
-Ano0422-Ave_panis_angelorum.krn	Gas0422	22. <h1start>Ave panis angelorum<h1end> (Anonymous)
-Ano0423-O_inextimabilis_dilectio.krn	Gas0423	23. <h1start>O inextimabilis dilectio<h1end> (Anonymous)
+Gas0419-Dulcis_amica_Dei.krn	Gas0419	19. <hlstart>Dulcis amica Dei<hlend>
+Gas0420-Stabat_mater.krn	Gas0420	20. <hlstart>Stabat mater<hlend>
+Ano0421-Ave_nostra_salus.krn	Gas0421	21. <hlstart>Ave nostra salus<hlend> (Anonymous)
+Ano0422-Ave_panis_angelorum.krn	Gas0422	22. <hlstart>Ave panis angelorum<hlend> (Anonymous)
+Ano0423-O_inextimabilis_dilectio.krn	Gas0423	23. <hlstart>O inextimabilis dilectio<hlend> (Anonymous)
 
 @dummy	Gas0500	<br> </div><h2>V. Settings of liturgical texts</h2>
 
