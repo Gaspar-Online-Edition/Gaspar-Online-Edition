@@ -1,284 +1,282 @@
-!!!RNB: 2nd version for T,A,S needs to be done
 !!!COM: Gaspar van Weerbeke
 !!!CDT: ~1450-~1517
 !!!ONB: attrib. "Gaspart" #48 in FlorC Basevi 2442
 !!!OTL: Bon temps / Adieu mes amours
-!!!ONB: Bassus composed by Paul Kolb
 !!!AGN: Song; Chanson
 !!!SCT: Gas0503
 !!!SCA: Gas0503
 !!!voices: 4
 !!!voices-extant: 3
-**kern	**text	**kern	**text	**kern	**text	**kern	**text
-*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
-*I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
-*I'B	*	*I'T	*	*I'A	*	*I'S	*
-*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
-*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-=1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=[Bassus composed by Paul Kolb]	!	!	!	!	!	!	!
-*	*edit	*	*	*	*	*	*
-2G	Bon	1r	.	1r	.	1r	.
-[2G	temps,	.	.	.	.	.	.
-=2	=2	=2	=2	=2	=2	=2	=2
-2G]	.	1r	.	2d	Bon	2g	Bon
-2D	je	.	.	[2d	temps,	4b-y	temps,
-.	.	.	.	.	.	4b-y	je
-=3	=3	=3	=3	=3	=3	=3	=3
-4.F	ne	1r	.	2d]	.	4a	ne
-.	.	.	.	.	.	4dd	te
-8F	te	.	.	.	.	.	.
-4G	puis	.	.	2e-X	ne	4dd	puis
-4A	lais-	.	.	.	.	4cc	lais-
-=4	=4	=4	=4	=4	=4	=4	=4
-2B-y	-sier:	2G	A-	1d	vien-	2dd	-sier:
-2r	.	2B-y	-dieu	.	.	2r	.
-=5	=5	=5	=5	=5	=5	=5	=5
-1r	.	2A	mes	2c	-dra	1r	.
-.	.	2G	a-	[2B-y	tu	.	.
-=6	=6	=6	=6	=6	=6	=6	=6
-2D	tu	1d	-mours,	4B-]	.	2r	.
-.	.	.	.	8AL	.	.	.
-.	.	.	.	8GJ	.	.	.
-2F	m'as	.	.	2A	ja-	2a	tu
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'T	*	*I'A	*	*I'S	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M2/2	*	*M2/2	*	*M2/2	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!
+*	*	*	*	*	*
+1r	.	1r	.	1r	.
+.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+1r	.	2d	Bon	2g	Bon
+.	.	[2d	temps,	4b-y	temps,
+.	.	.	.	4b-y	je
+=3	=3	=3	=3	=3	=3
+1r	.	2d]	.	4a	ne
+.	.	.	.	4dd	te
+.	.	.	.	.	.
+.	.	2e-X	ne	4dd	puis
+.	.	.	.	4cc	lais-
+=4	=4	=4	=4	=4	=4
+2G	A-	1d	vien-	2dd	-sier:
+2B-y	-dieu	.	.	2r	.
+=5	=5	=5	=5	=5	=5
+2A	mes	2c	-dra	1r	.
+2G	a-	[2B-y	tu	.	.
+=6	=6	=6	=6	=6	=6
+1d	-mours,	4B-]	.	2r	.
+.	.	8AL	.	.	.
+.	.	8GJ	.	.	.
+.	.	2A	ja-	2a	tu
 !!LO:LB:g=original
-=7	=7	=7	=7	=7	=7	=7	=7
-2G	t'a-	2B-y	a-	2G	-mais?	4b-y	m'as
-.	.	.	.	.	.	4g	t'a-
-2F	-mour	2c	-dieu	2r	.	8aL	-mour
-.	.	.	.	.	.	8g	.
-.	.	.	.	.	.	8f	.
-.	.	.	.	.	.	8eJ	.
-=8	=8	=8	=8	=8	=8	=8	=8
-4G	don-	4B-y	mon	2r	.	4d	.
-4E	-né-	4G	.	.	.	4.g	don-
-2D	-e,	2A	sou-	2d	Tu	.	.
-.	.	.	.	.	.	8f#i	.
-.	.	.	.	.	.	8f#iL	-né-
-.	.	.	.	.	.	8eJ	.
-=9	=9	=9	=9	=9	=9	=9	=9
-2r	.	2G	-las,	1d	m'a	2g	-e.
-2BB-y	don-	4D	a-	.	.	2r	.
-.	.	4G	-dieu	.	.	.	.
-=10	=10	=10	=10	=10	=10	=10	=10
-2AA	-né-	4G	mes	2c	don-	1r	.
-.	.	4F#i	es-	.	.	.	.
-2GG	-e.	2G	-bas,	2B-y	-né	.	.
-=11	=11	=11	=11	=11	=11	=11	=11
-1r	.	2B-y	.	4.d	me-	1r	.
-.	.	.	.	8e	.	.	.
-.	.	2A	he-	4f	-ren-	.	.
-.	.	.	.	[4e	-co-	.	.
-=12	=12	=12	=12	=12	=12	=12	=12
-1r	.	8GL	-las,	8eL]	.	1r	.
-.	.	8F	.	8dJ	.	.	.
-.	.	8E	.	2d	-li-	.	.
-.	.	8DJ	.	.	.	.	.
-.	.	2E	he-	.	.	.	.
-.	.	.	.	4c#i	.	.	.
-=13	=13	=13	=13	=13	=13	=13	=13
-2r	.	2D	-las.	1d	-e:	1r	.
-4G	Le-	2r	.	.	.	.	.
-4G	-vez	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+2B-y	a-	2G	-mais?	4b-y	m'as
+.	.	.	.	4g	t'a-
+2c	-dieu	2r	.	8aL	-mour
+.	.	.	.	8g	.
+.	.	.	.	8f	.
+.	.	.	.	8eJ	.
+=8	=8	=8	=8	=8	=8
+4B-y	mon	2r	.	4d	.
+4G	.	.	.	4.g	don-
+2A	sou-	2d	Tu	.	.
+.	.	.	.	8f#i	.
+.	.	.	.	8f#iL	-né-
+.	.	.	.	8eJ	.
+=9	=9	=9	=9	=9	=9
+2G	-las,	1d	m'a	2g	-e.
+4D	a-	.	.	2r	.
+4G	-dieu	.	.	.	.
+=10	=10	=10	=10	=10	=10
+4G	mes	2c	don-	1r	.
+4F#i	es-	.	.	.	.
+2G	-bas,	2B-y	-né	.	.
+=11	=11	=11	=11	=11	=11
+2B-y	.	4.d	me-	1r	.
+.	.	8e	.	.	.
+2A	he-	4f	-ren-	.	.
+.	.	[4e	-co-	.	.
+=12	=12	=12	=12	=12	=12
+8GL	-las,	8eL]	.	1r	.
+8F	.	8dJ	.	.	.
+8E	.	2d	-li-	.	.
+8DJ	.	.	.	.	.
+2E	he-	.	.	.	.
+.	.	4c#i	.	.	.
+=13	=13	=13	=13	=13	=13
+2D	-las.	1d	-e:	1r	.
+2r	.	.	.	.	.
+.	.	.	.	.	.
 !!LO:LB:g=original
-=14	=14	=14	=14	=14	=14	=14	=14
-4E	vous	4r	.	1r	.	4g	Le-
-4E	hau	4G	Des-	.	.	4g	-vez
-4D	guil-	4A	-suls	.	.	4f	vous
-4D	-le-	4A	ton	.	.	4f	hau
-=15	=15	=15	=15	=15	=15	=15	=15
-4.E	-met-	4G	lict,	1r	.	4.g	guil-
-.	.	4G	ton	.	.	.	.
-8D	.	.	.	.	.	8f	-le-
-2C	.	4c	lict	.	.	2e	-met-
-.	.	4c	et	.	.	.	.
-=16	=16	=16	=16	=16	=16	=16	=16
-2G	-te	4B-y	la	1r	.	4d	-te
-.	.	4B-y	de-	.	.	4g	car
-2r	.	2A	-mour-	.	.	4g	il
-.	.	.	.	.	.	4f#i	est
-=17	=17	=17	=17	=17	=17	=17	=17
-2r	.	2G	-rons.	4d	il	1g	jour.
-.	.	.	.	4d	est	.	.
-2C	car	2r	.	4e	de	.	.
-.	.	.	.	4e	bon-	.	.
-=18	=18	=18	=18	=18	=18	=18	=18
-2D	il	4r	.	4f	-ne'heu-	1r	.
-.	.	4F	Chan-	4f	-re	.	.
-4E	est	4G	-tez	2e	né	.	.
-4C	.	4A	du	.	.	.	.
-=19	=19	=19	=19	=19	=19	=19	=19
-2G	jour.	2B-y	cueur	4d	qui	1r	.
-.	.	.	.	4d	tient	.	.
-2r	.	4G	fin	4e	s'a-	.	.
-.	.	4c	la	4e	-mi-	.	.
+=14	=14	=14	=14	=14	=14
+4r	.	1r	.	4g	Le-
+4G	Des-	.	.	4g	-vez
+4A	-suls	.	.	4f	vous
+4A	ton	.	.	4f	hau
+=15	=15	=15	=15	=15	=15
+4G	lict,	1r	.	4.g	guil-
+4G	ton	.	.	.	.
+.	.	.	.	8f	-le-
+4c	lict	.	.	2e	-met-
+4c	et	.	.	.	.
+=16	=16	=16	=16	=16	=16
+4B-y	la	1r	.	4d	-te
+4B-y	de-	.	.	4g	car
+2A	-mour-	.	.	4g	il
+.	.	.	.	4f#i	est
+=17	=17	=17	=17	=17	=17
+2G	-rons.	4d	il	1g	jour.
+.	.	4d	est	.	.
+2r	.	4e	de	.	.
+.	.	4e	bon-	.	.
+=18	=18	=18	=18	=18	=18
+4r	.	4f	-ne'heu-	1r	.
+4F	Chan-	4f	-re	.	.
+4G	-tez	2e	né	.	.
+4A	du	.	.	.	.
+=19	=19	=19	=19	=19	=19
+2B-y	cueur	4d	qui	1r	.
+.	.	4d	tient	.	.
+4G	fin	4e	s'a-	.	.
+4c	la	4e	-mi-	.	.
 !!LO:LB:g=original
-=20	=20	=20	=20	=20	=20	=20	=20
-2A	Son-	4c	bien	4f	-e'en	1r	.
-.	.	4c	ve-	4f	ung	.	.
-4A	-nez,	2c	-nue	2e	pré	.	.
-4A	chan-	.	.	.	.	.	.
-=21	=21	=21	=21	=21	=21	=21	=21
-4.B-y	-tez	1r	.	4.g	sur	1r	.
-8A	.	.	.	8f	.	.	.
-4G	.	.	.	4e	l'her-	.	.
-4B-y	du	.	.	4d	-be	.	.
-=22	=22	=22	=22	=22	=22	=22	=22
-2A	bon	1r	.	4f	jo-	1r	.
-.	.	.	.	4.e	-li-	.	.
-4G	.	.	.	.	.	.	.
-.	.	.	.	8d	.	.	.
-4F	.	.	.	[4d	.	.	.
-=23	=23	=23	=23	=23	=23	=23	=23
-2E	cueur	2G	de	4d]	.	2g	Son-
-.	.	.	.	4c#i	.	.	.
-2D	fin,	4A	mon-	2d	-e.	4f	-nez,
-.	.	4A	-sig-	.	.	4f	chan-
-=24	=24	=24	=24	=24	=24	=24	=24
-4r	.	2B-y	-neur	2d	Son-	2g	-tez
-4GG	du	.	.	.	.	.	.
-2AA	bon	2A	le	4c	-nez	4f	du
-.	.	.	.	4c	la	[4e	bon
-=25	=25	=25	=25	=25	=25	=25	=25
-2BB-y	.	4F	dauf-	4B-y	bien	8eL]	.
-.	.	.	.	.	.	8dJ	.
-.	.	4G	.	4G	ve-	2d	cueur
-2AA	cueur	2E	.	2A	-nu-	.	.
-.	.	.	.	.	.	4c#i	.
+=20	=20	=20	=20	=20	=20
+4c	bien	4f	-e'en	1r	.
+4c	ve-	4f	ung	.	.
+2c	-nue	2e	pré	.	.
+.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21
+1r	.	4.g	sur	1r	.
+.	.	8f	.	.	.
+.	.	4e	l'her-	.	.
+.	.	4d	-be	.	.
+=22	=22	=22	=22	=22	=22
+1r	.	4f	jo-	1r	.
+.	.	4.e	-li-	.	.
+.	.	.	.	.	.
+.	.	8d	.	.	.
+.	.	[4d	.	.	.
+=23	=23	=23	=23	=23	=23
+2G	de	4d]	.	2g	Son-
+.	.	4c#i	.	.	.
+4A	mon-	2d	-e.	4f	-nez,
+4A	-sig-	.	.	4f	chan-
+=24	=24	=24	=24	=24	=24
+2B-y	-neur	2d	Son-	2g	-tez
+.	.	.	.	.	.
+2A	le	4c	-nez	4f	du
+.	.	4c	la	[4e	bon
+=25	=25	=25	=25	=25	=25
+4F	dauf-	4B-y	bien	8eL]	.
+.	.	.	.	8dJ	.
+4G	.	4G	ve-	2d	cueur
+2E	.	2A	-nu-	.	.
+.	.	.	.	4c#i	.
 !!LO:PB:g=original
-=26	=26	=26	=26	=26	=26	=26	=26
-2D	fin,	2D	-fin.	2A	-e	2d	fin,
-4r	.	4r	.	4r	.	4r	.
-4D	son-	4d	Son-	4F	de	4f	son-
-=27	=27	=27	=27	=27	=27	=27	=27
-4D	-nez	4d	-nez	4F	mon-	4a	-nez
-4D	la	4d	bon-	4f	-sig-	4a	la
-4F	bien	4c	-bar-	4f	-neur	4a	bien
-4G	ve-	4B-y	-des,	4e	le	4b-y	ve-
-=28	=28	=28	=28	=28	=28	=28	=28
-2F	-nu-	2c	son-	4.f	dauf-	4b-y	-nu-
-.	.	.	.	.	.	4a	.
-.	.	.	.	8d	.	.	.
-2BB-y	-e	2B-y	-nez,	2d	-fin.	2b-y	-e
-=29	=29	=29	=29	=29	=29	=29	=29
-4r	.	4r	.	4r	.	4r	.
-4BB-y	de	4B-y	trom-	4d	Son-	4b-y	de
-*	*	*	*edit	*	*	*	*
-4F	mon-	4c	-pet-	4f	-nez	4a	mon-
-*	*	*	*Xedit	*	*	*	*
-4E	-sig-	4c	-tes	4g	bon-	4g	-sig-
-=30	=30	=30	=30	=30	=30	=30	=30
-2D	-neur	2d	et	4f	-bar-	4b-y	-neur
-.	.	.	.	2d	-des'et	4.a	le
-2E-X	le	4B-y	clai-	.	.	.	.
-.	.	.	.	.	.	8g	.
-.	.	8AL	.	4c	clai-	[4g	dauf-
-.	.	8GJ	.	.	.	.	.
-=31	=31	=31	=31	=31	=31	=31	=31
-2D	dauf-	2A	.	[1d	-rons,	4g]	.
-.	.	.	.	.	.	4f#i	.
-2G	-fin.	2G	-rons.	.	.	2g	-fin.
+=26	=26	=26	=26	=26	=26
+2D	-fin.	2A	-e	2d	fin,
+4r	.	4r	.	4r	.
+4d	Son-	4F	de	4f	son-
+=27	=27	=27	=27	=27	=27
+4d	-nez	4F	mon-	4a	-nez
+4d	bon-	4f	-sig-	4a	la
+4c	-bar-	4f	-neur	4a	bien
+4B-y	-des,	4e	le	4b-y	ve-
+=28	=28	=28	=28	=28	=28
+2c	son-	4.f	dauf-	4b-y	-nu-
+.	.	.	.	4a	.
+.	.	8d	.	.	.
+2B-y	-nez,	2d	-fin.	2b-y	-e
+=29	=29	=29	=29	=29	=29
+4r	.	4r	.	4r	.
+4B-y	trom-	4d	Son-	4b-y	de
+*	*edit	*	*	*	*
+4c	-pet-	4f	-nez	4a	mon-
+*	*Xedit	*	*	*	*
+4c	-tes	4g	bon-	4g	-sig-
+=30	=30	=30	=30	=30	=30
+2d	et	4f	-bar-	4b-y	-neur
+.	.	2d	-des'et	4.a	le
+4B-y	clai-	.	.	.	.
+.	.	.	.	8g	.
+8AL	.	4c	clai-	[4g	dauf-
+8GJ	.	.	.	.	.
+=31	=31	=31	=31	=31	=31
+2A	.	[1d	-rons,	4g]	.
+.	.	.	.	4f#i	.
+2G	-rons.	.	.	2g	-fin.
 !!LO:LB:g=original
-=32	=32	=32	=32	=32	=32	=32	=32
-4r	.	4r	.	2d]	.	4r	.
-4G	Son-	4B-y	Il	.	.	4g	Son-
-4G	-nez	4B-y	est	4r	.	4g	-nez
-4G	trom-	4B-y	de	[4d	et	4g	trom-
-=33	=33	=33	=33	=33	=33	=33	=33
-2G	-pet-	4B-y	bon-	4d]	.	2g	-pet-
-.	.	4B-y	-ne'heu-	4d	le-	.	.
-2D	-tes,	4A	-re	2d	-vez	2f	-tes,
-.	.	4A	né	.	.	.	.
-=34	=34	=34	=34	=34	=34	=34	=34
-4r	.	4r	.	2G	vous	4r	.
-4C	son-	4G	qui	.	.	4g	son-
-4F	-nez	4A	tient	4rB	.	4f	-nez
-[4E-X	bon-	[4B-y	s'a	[4G	hau	[4g	bon-
-=35	=35	=35	=35	=35	=35	=35	=35
-4E-]	.	8B-L]	.	8GL]	.	8gL]	.
-.	.	8AJ	mie	8AJ	.	8fJ	.
-4D	.	4F	en	4B-y	guil-	2f	-bar-
-2C	-bar-	2G	ung	2c	-le-	.	.
-.	.	.	.	.	.	4e	.
-=36	=36	=36	=36	=36	=36	=36	=36
-2F	-des,	2F	pré	2A	-met-	1f	-des,
-4r	.	4r	.	2d	-te,	.	.
-4D	son-	4F	sur	.	.	.	.
-=37	=37	=37	=37	=37	=37	=37	=37
-4E	-nez	4G	l'her-	2r	.	1r	.
-2F	fal-	4.A	.	.	.	.	.
-.	.	.	.	2d	le-	.	.
-.	.	8F	-be	.	.	.	.
-4D	.	[4B-y	jo-	.	.	.	.
+=32	=32	=32	=32	=32	=32
+4r	.	2d]	.	4r	.
+4B-y	Il	.	.	4g	Son-
+4B-y	est	4r	.	4g	-nez
+4B-y	de	[4d	et	4g	trom-
+=33	=33	=33	=33	=33	=33
+4B-y	bon-	4d]	.	2g	-pet-
+4B-y	-ne'heu-	4d	le-	.	.
+4A	-re	2d	-vez	2f	-tes,
+4A	né	.	.	.	.
+=34	=34	=34	=34	=34	=34
+4r	.	2G	vous	4r	.
+4G	qui	.	.	4g	son-
+4A	tient	4rB	.	4f	-nez
+[4B-y	s'a	[4G	hau	[4g	bon-
+=35	=35	=35	=35	=35	=35
+8B-L]	.	8GL]	.	8gL]	.
+8AJ	mie	8AJ	.	8fJ	.
+4F	en	4B-y	guil-	2f	-bar-
+2G	ung	2c	-le-	.	.
+.	.	.	.	4e	.
+=36	=36	=36	=36	=36	=36
+2F	pré	2A	-met-	1f	-des,
+4r	.	2d	-te,	.	.
+4F	sur	.	.	.	.
+=37	=37	=37	=37	=37	=37
+4G	l'her-	2r	.	1r	.
+4.A	.	.	.	.	.
+.	.	2d	le-	.	.
+8F	-be	.	.	.	.
+[4B-y	jo-	.	.	.	.
 !!LO:LB:g=original
-=38	=38	=38	=38	=38	=38	=38	=38
-2C	.	4B-]	.	4e-X	-vez	2r	.
-.	.	4A	-li-	4e-	vous	.	.
-4BB-y	-cons,	2B-y	-e.	8dL	car	2b-y	son-
-.	.	.	.	8cJ	.	.	.
-4GG	son-	.	.	8B-yL	il	.	.
-.	.	.	.	8AJ	.	.	.
-=39	=39	=39	=39	=39	=39	=39	=39
-4GG	-nez	1r	.	2G	est	4b-y	-nez
-4GG	fal-	.	.	.	.	4b-y	fal-
-2D	-cons.	.	.	2F	jour.	2a	-cons.
-=40	=40	=40	=40	=40	=40	=40	=40
-4r	.	4r	.	4r	.	4r	.
-4F	Son-	4c	Son-	4f	Son-	4a	Son-
-4F	-nez,	4c	-nez,	4f	-nez,	4a	-nez
-4F	chan-	4c	chan-	4f	chan-	4a	chan-
-=41	=41	=41	=41	=41	=41	=41	=41
-2C	-tez	4.c	-tez	2e	-tez	2g	-tez
-.	.	8B-y	.	.	.	.	.
-4D	soir	4A	.	4d	soir	4f	soir
-4E	et	[4G	soir	4Bni	.	[4e	et
-=42	=42	=42	=42	=42	=42	=42	=42
-4C	ma-	4G]	.	4c	.	8eL]	.
-.	.	.	.	.	.	8dJ	.
-4D	.	4F	et	2A	et	2d	ma-
-2AA	.	2E	ma-	.	.	.	.
-.	.	.	.	4A	ma-	4c#i	.
-=43	=43	=43	=43	=43	=43	=43	=43
-2D	-tin,	2D	-tin,	2A	-tin,	2d	-tin,
-4r	.	4r	.	4r	.	4r	.
-4D	son-	4d	son-	4A	son-	4f	son-
+=38	=38	=38	=38	=38	=38
+4B-]	.	4e-X	-vez	2r	.
+4A	-li-	4e-	vous	.	.
+2B-y	-e.	8dL	car	2b-y	son-
+.	.	8cJ	.	.	.
+.	.	8B-yL	il	.	.
+.	.	8AJ	.	.	.
+=39	=39	=39	=39	=39	=39
+1r	.	2G	est	4b-y	-nez
+.	.	.	.	4b-y	fal-
+.	.	2F	jour.	2a	-cons.
+=40	=40	=40	=40	=40	=40
+4r	.	4r	.	4r	.
+4c	Son-	4f	Son-	4a	Son-
+4c	-nez,	4f	-nez,	4a	-nez
+4c	chan-	4f	chan-	4a	chan-
+=41	=41	=41	=41	=41	=41
+4.c	-tez	2e	-tez	2g	-tez
+8B-y	.	.	.	.	.
+4A	.	4d	soir	4f	soir
+[4G	soir	4Bni	.	[4e	et
+=42	=42	=42	=42	=42	=42
+4G]	.	4c	.	8eL]	.
+.	.	.	.	8dJ	.
+4F	et	2A	et	2d	ma-
+2E	ma-	.	.	.	.
+.	.	4A	ma-	4c#i	.
+=43	=43	=43	=43	=43	=43
+2D	-tin,	2A	-tin,	2d	-tin,
+4r	.	4r	.	4r	.
+4d	son-	4A	son-	4f	son-
 !!LO:LB:g=original
-=44	=44	=44	=44	=44	=44	=44	=44
-4D	-nez	4d	-nez	4F	-nez	4a	-nez
-4D	la	4d	la	4f	la	4a	la
-4F	bien	4c	bien	4f	bien	4a	bien
-4G	ve-	4B-y	ve-	4e	ve-	4b-y	ve-
-=45	=45	=45	=45	=45	=45	=45	=45
-2F	-nu-	2c	-nu-	2f	-nu-	8b-yL	-nu-
-.	.	.	.	.	.	8a	.
-.	.	.	.	.	.	8a	.
-.	.	.	.	.	.	8gJ	.
-2BB-y	-e	2B-y	-e	2d	-e	2b-y	-e
-=46	=46	=46	=46	=46	=46	=46	=46
-4r	.	4r	.	4r	.	4r	.
-4BB-y	de	4B-y	de	4d	de	4b-y	de
-4F	mon-	4c	mon-	4f	mon-	4a	mon-
-4E	-sig-	4c	-sig-	4g	-sig-	4g	-sig-
-=47	=47	=47	=47	=47	=47	=47	=47
-2D	-neur	2d	-neur	4f	-neur	4b-y	-neur
-.	.	.	.	4.d	le	4.a	le
-2E-X	le	4B-y	le	.	.	.	.
-.	.	.	.	8cL	.	8g	.
-.	.	8AL	.	8c	.	[4g	dauf-
-.	.	8GJ	.	8B-yJ	.	.	.
-=48	=48	=48	=48	=48	=48	=48	=48
-2D	dauf-	2A	dauf-	1d	dauf-	8gL]	.
-.	.	.	.	.	.	8f#i	.
-.	.	.	.	.	.	8f#i	.
-.	.	.	.	.	.	8eJ	.
-[2GGl	-fin.	[2Gl	-fin.	.	.	[2gl	-fin.
-=49	=49	=49	=49	=49	=49	=49	=49
-1GG]	.	1G]	.	1dl	-fin.	1g]	.
-==	==	==	==	==	==	==	==
-*-	*-	*-	*-	*-	*-	*-	*-
+=44	=44	=44	=44	=44	=44
+4d	-nez	4F	-nez	4a	-nez
+4d	la	4f	la	4a	la
+4c	bien	4f	bien	4a	bien
+4B-y	ve-	4e	ve-	4b-y	ve-
+=45	=45	=45	=45	=45	=45
+2c	-nu-	2f	-nu-	8b-yL	-nu-
+.	.	.	.	8a	.
+.	.	.	.	8a	.
+.	.	.	.	8gJ	.
+2B-y	-e	2d	-e	2b-y	-e
+=46	=46	=46	=46	=46	=46
+4r	.	4r	.	4r	.
+4B-y	de	4d	de	4b-y	de
+4c	mon-	4f	mon-	4a	mon-
+4c	-sig-	4g	-sig-	4g	-sig-
+=47	=47	=47	=47	=47	=47
+2d	-neur	4f	-neur	4b-y	-neur
+.	.	4.d	le	4.a	le
+4B-y	le	.	.	.	.
+.	.	8cL	.	8g	.
+8AL	.	8c	.	[4g	dauf-
+8GJ	.	8B-yJ	.	.	.
+=48	=48	=48	=48	=48	=48
+2A	dauf-	1d	dauf-	8gL]	.
+.	.	.	.	8f#i	.
+.	.	.	.	8f#i	.
+.	.	.	.	8eJ	.
+[2Gl	-fin.	.	.	[2gl	-fin.
+=49	=49	=49	=49	=49	=49
+1G]	.	1dl	-fin.	1g]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
 !!!RDF**kern: j = editorial accidental, optional, paren up
 !!!RDF**kern: i = editorial accidental

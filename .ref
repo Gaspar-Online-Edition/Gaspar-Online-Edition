@@ -87,7 +87,7 @@ Gas0302f-Quam_pulchra_es-O_Maria_clausus_hortus.krn	Gas0302f	2f. <hlstart>O Mari
 Gas0302g-Quam_pulchra_es-Mater_patris_filia.krn	Gas0302g	2g. <hlstart>Mater patris filia<hlend>
 Gas0302h-Quam_pulchra_es-Tota_pulchra_es.krn	Gas0302h	2h. <hlstart>Tota pulchra es<hlend>
 
-@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. In honorem sancti spiritus
+@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. In honorem sancti spiritus (MCE 6)
 Gas0303a-Spiritus_domini.krn	Gas0303a	3a. <hlstart>Spiritus domini<hlend>
 Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b. <hlstart>Veni sancte spiritus<hlend>
 Gas0303c-Beata_gens.krn	Gas0303c	3c. <hlstart>Beata gens<hlend>
@@ -141,6 +141,7 @@ Gas0502-Magnificat_octavi_toni.krn	Gas0502b	2. <hlstart>Magnificat octavi toni<h
 @dummy	Gas0503	<br> </div><h2>V. Songs</h2>
 
 Gas0503-Bon_temps_Adieu_mes_amours.krn	Gas0503	3. <hlstart>Bon temps / Adieu mes amours<hlend>
+Gas0503.2-Bon_temps_Adieu_mes_amours.krn	Gas0503.2	3. <hlstart>Bon temps / Adieu mes amours<hlend> (added Bassus)
 Gas0504-Que_fait_le_cocu_au_bois.krn	Gas0504	4. <hlstart>Que fait le cocu au bois<hlend>
 Gas0504.2-Que_fait_le_cocu_au_bois.krn	Gas0504.2	4-2. <hlstart>Que fait le cocu au bois<hlend> (added Bassus)
 Gas0505-Sans_regretz.krn	Gas0505	5. <hlstart>Sans regretz<hlend>
