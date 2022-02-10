@@ -1,9 +1,9 @@
 
-@dummy-vhv 001	From the <div class="title"><a target="_new" href="http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition">Gaspar Online Edition</a></div>
+@dummy-vhv	001	From the <div class="title"><a target="_new" href="http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition">Gaspar Online Edition</a></div>
 
-@dummy-vhv 002	based on <a target="_blank" href="http://www.corpusmusicae.com/cmm/cmm_cc106.htm">CMM 106<a/>, and Motet cycles <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce05">MCE 5</a> and <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce06"> MCE 6</a>.
+@dummy-vhv	002	based on <a target="_blank" href="http://www.corpusmusicae.com/cmm/cmm_cc106.htm">CMM 106<a/>, and Motet cycles <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce05">MCE 5</a> and <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce06"> MCE 6</a>.
 
-@dummy-vhv 100	<style> .title { font-size: 1.5rem; } </style>
+@dummy-vhv	100	<style> .title { font-size: 1.5rem; } </style>
 
 
 @dummy	Gas01	<h2>I/II. Masses </h2>
@@ -77,7 +77,7 @@ Ano0207e-Missa_sine_nomine_Agnus.krn	Gas0207e	Agnus Dei
 
 @dummy	Gas03	<br> </div><h2>III. Motet cycles</h2>
 
-@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. Ave mundi domina (MCE 5)
+@Gas0301a:Gas0301b:Gas0301c:Gas0301d:Gas0301e:Gas0301f:Gas0301g:Gas0301h	Gas0301	1. Ave mundi domina (<a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce05">MCE 5</a>)
 Gas0301a-Ave_mundi_domina-Ave_mundi_domina.krn	Gas0301a	1a. <hlstart>Ave mundi domina<hlend>
 Gas0301b-Ave_mundi_domina-Ave_mater_gloriosa.krn	Gas0301b	1b. <hlstart>Ave mater gloriosa<hlend>
 Gas0301c-Ave_mundi_domina-Salve_virgo_virginum.krn	Gas0301c	1c. <hlstart>Salve virgo virginum<hlend>
@@ -87,7 +87,7 @@ Gas0301f-Ave_mundi_domina-Quem_terra_pontus.krn	Gas0301f	1f. <hlstart>Quem terra
 Gas0301g-Ave_mundi_domina-O_virginum_praeclara.krn	Gas0301g	1g. <hlstart>O virginum praeclara<hlend>
 Gas0301h-Ave_mundi_domina-Fit_porta_Christi_pervia.krn	Gas0301h	1h. <hlstart>Fit porta Christ pervia<hlend>
 
-@Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. Quam pulchra es
+@Gas0302a:Gas0302b:Gas0302c:Gas0302d:Gas0302e:Gas0302f:Gas0302g:Gas0302h	Gas0302	2. Quam pulchra es (<a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce06">MCE 6</a>)
 Gas0302a-Quam_pulchra_es-Quam_pulchra_es.krn	Gas0302a	2a. <hlstart>Quam pulchra es<hlend>
 Gas0302b-Quam_pulchra_es-Alma_redemptoris_mater.krn	Gas0302b	2b. <hlstart>Alma redemptoris mater<hlend>
 Gas0302c-Quam_pulchra_es-Salve_virgo_salutata.krn	Gas0302c	2c. <hlstart>Salve virgo salutata<hlend>
@@ -97,7 +97,7 @@ Gas0302f-Quam_pulchra_es-O_Maria_clausus_hortus.krn	Gas0302f	2f. <hlstart>O Mari
 Gas0302g-Quam_pulchra_es-Mater_patris_filia.krn	Gas0302g	2g. <hlstart>Mater patris filia<hlend>
 Gas0302h-Quam_pulchra_es-Tota_pulchra_es.krn	Gas0302h	2h. <hlstart>Tota pulchra es<hlend>
 
-@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. In honorem sancti spiritus (MCE 6)
+@Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. In honorem sancti spiritus
 Gas0303a-Spiritus_domini.krn	Gas0303a	3a. <hlstart>Spiritus domini<hlend>
 Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b. <hlstart>Veni sancte spiritus<hlend>
 Gas0303c-Beata_gens.krn	Gas0303c	3c. <hlstart>Beata gens<hlend>

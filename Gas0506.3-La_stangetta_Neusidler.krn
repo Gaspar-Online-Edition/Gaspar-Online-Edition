@@ -448,7 +448,7 @@
 !!!system-decoration: [*]
 !!!RDF**kern: j = editorial accidental, optional, paren up
 !!!RDF**kern: i = editorial accidental
-!!!RDF**kern: l = terminal long
+!!!RDF**kern: l = terminal breve
 !!!PTL: Gaspar van Weerbeke: Collected Works. V. Settings of Liturgical Texts, Songs, and Instrumental Works
 !!!ISBN: 978-1-59551-544-5
 !!!PPR: American Institute of Musicology
@@ -459,4 +459,3 @@
 !!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Zybina, Karina
 !!!EEV: 2021/08/26
-!!!RDF**kern: l = terminal long
