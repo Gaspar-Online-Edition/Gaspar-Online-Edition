@@ -1,9 +1,10 @@
 
-@dummy-vhv	001	From the <div class="title"><a target="_new" href="http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition">Gaspar Online Edition</a></div>
+@dummy-vhv	001	<div class="title">From the <a target="_new" href="http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition">Gaspar Online Edition</a></div>
 
-@dummy-vhv	002	based on <a target="_blank" href="http://www.corpusmusicae.com/cmm/cmm_cc106.htm">CMM 106<a/>, and Motet cycles <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce05">MCE 5</a> and <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce06"> MCE 6</a>.
+@dummy-vhv	002	<div class="subtitle">based on <a target="_blank" href="http://www.corpusmusicae.com/cmm/cmm_cc106.htm">CMM 106<a/>, and Motet cycles <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce05">MCE 5</a> and <a target="_blank" href="https://www.gaffurius-codices.ch/s/portal/page/mce06"> MCE 6</a>.</div>
 
-@dummy-vhv	100	<style> .title { font-size: 1.5rem; } </style>
+@dummy-vhv	100	<style> .title { font-size: 1.5rem; .title a { color: olive; }} </style>
+@dummy-vhv	101	<style> .subtitle { font-size: 1.25rem; .subtitle a { color: olive; }} </style>
 
 
 @dummy	Gas01	<h2>I/II. Masses </h2>
