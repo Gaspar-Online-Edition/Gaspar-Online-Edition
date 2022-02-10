@@ -22,7 +22,6 @@ all:
 	@echo "Available commands:"
 	@echo "   make metadata   == extract metadata information for spreadsheet."
 	@echo
-	3
 
 
 ##############################
