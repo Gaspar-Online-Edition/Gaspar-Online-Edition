@@ -271,7 +271,7 @@
 .	.	.	.	.	.	4f#i	.
 *	*	*	*	*	*	*Xlig	*
 =45	=45	=45	=45	=45	=45	=45	=45
-0G	-tris.	0G	-tris.	0d	-tris.	0g	-tris.
+1Gl	-tris.	1Gl	-tris.	1dl	-tris.	1gl	-tris.
 !!LO:LB:g=original
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -541,7 +541,7 @@
 1D	.	1A	.	.	.	.	.
 .	.	.	.	.	.	2f#i	.
 =96	=96	=96	=96	=96	=96	=96	=96
-0Gl	-men.	0Gl	-men.	0dl	-men.	0gl	-men.
+1Gl	-men.	1Gl	-men.	1dl	-men.	1gl	-men.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

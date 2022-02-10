@@ -280,7 +280,7 @@
 2D	.	2A	.	.	.	.	.
 .	.	.	.	.	.	4f#i	.
 =48	=48	=48	=48	=48	=48	=48	=48
-0GG	-tris.	0G	-tris.	0d	-tris.	0g	-tris.
+1GGl	-tris.	1Gl	-tris.	1dl	-tris.	1gl	-tris.
 !!LO:LB:g=original
 =49||	=49||	=49||	=49||	=49||	=49||	=49||	=49||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -516,7 +516,7 @@
 2D	.	2A	.	2d	.	.	.
 .	.	.	.	.	.	4f#i	.
 =95	=95	=95	=95	=95	=95	=95	=95
-0GGl	-men.	0Gl	-men.	0dl	-men.	0gl	-men.
+1GGl	-men.	1Gl	-men.	1dl	-men.	1gl	-men.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

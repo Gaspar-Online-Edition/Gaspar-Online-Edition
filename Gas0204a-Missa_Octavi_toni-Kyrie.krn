@@ -232,7 +232,7 @@
 2D	.	2A	.	2d	.	.	.
 .	.	.	.	.	.	4f#i	.
 =26	=26	=26	=26	=26	=26	=26	=26
-0GG	-son.	0G	-son.	0d	-son.	0g	-son.
+1GGl	-son.	1Gl	-son.	1dl	-son.	1gl	-son.
 *	*	*Xlig	*	*	*	*	*
 !!LO:LB:g=original
 =27||	=27||	=27||	=27||	=27||	=27||	=27||	=27||
@@ -480,7 +480,7 @@
 .	.	4B	.	.	.	8g	.
 .	.	.	.	.	.	8fJ	.
 =70	=70	=70	=70	=70	=70	=70	=70
-0C	-son.	0c	-son.	0G	-son.	0e	-son.
+1Cl	-son.	1cl	-son.	1Gl	-son.	1el	-son.
 !!LO:LB:g=original
 =71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
@@ -637,7 +637,7 @@
 2D	-ley-	2A	-ley-	.	.	.	.
 .	.	.	.	.	.	4f#i	.
 =91	=91	=91	=91	=91	=91	=91	=91
-0GGl	-son.	0Gl	-son.	0dl	-son.	0gl	-son.
+1GGl	-son.	1Gl	-son.	1dl	-son.	1gl	-son.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

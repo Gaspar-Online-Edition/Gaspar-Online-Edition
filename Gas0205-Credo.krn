@@ -313,7 +313,7 @@
 *Xlig	*	*Xlig	*	*	*	*Xlig	*
 .	.	.	.	.	.	4f#i	.
 =39	=39	=39	=39	=39	=39	=39	=39
-0GG	-lis.	0G	-lis.	0d	-lis.	0g	-lis.
+1GGl	-lis.	1Gl	-lis.	1dl	-lis.	1gl	-lis.
 !!LO:LB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -380,7 +380,7 @@
 .	.	.	.	.	.	2f#i	.
 *Xlig	*	*	*	*Xlig	*	*	*
 =65	=65	=65	=65	=65	=65	=65	=65
-0GG	est.	0G	est.	0d	est.	0g	est.
+1GGl	est.	1Gl	est.	1dl	est.	1gl	est.
 !!LO:LB:g=original
 =66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -1104,7 +1104,7 @@
 1.D	.	1.A	.	1.d	.	1.f#i	.
 =213	=213	=213	=213	=213	=213	=213	=213
 *	*Xedit	*	*Xedit	*	*Xedit	*	*Xedit
-0GGl	-men.	0Gl	-men.	0dl	-men.	0gl	-men.
+1GGl	-men.	1Gl	-men.	1dl	-men.	1gl	-men.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

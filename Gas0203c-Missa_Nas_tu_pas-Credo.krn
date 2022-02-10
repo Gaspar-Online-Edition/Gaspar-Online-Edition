@@ -344,7 +344,7 @@
 2C	ce-	2G	ce-	2c	.	.	.
 .	.	.	.	.	.	4e	.
 =52	=52	=52	=52	=52	=52	=52	=52
-0FF;	-lis.	0F;	-lis.	0c;	-lis.	0f;	-lis.
+1FF;l	-lis.	1F;l	-lis.	1c;l	-lis.	1f;l	-lis.
 !!LO:LB:g=original
 =53	=53	=53	=53	=53	=53	=53	=53
 1F	Et	1c	Et	1f	Et	1a	Et
@@ -424,7 +424,7 @@
 2C	-ctus	2G	-ctus	2c	-ctus	.	.
 .	.	.	.	.	.	4e	-ctus
 =67	=67	=67	=67	=67	=67	=67	=67
-0FF	est.	0F	est.	0c	est.	0f	est.
+1FFl	est.	1Fl	est.	1cl	est.	1fl	est.
 !!LO:LB:g=original
 =68||	=68||	=68||	=68||	=68||	=68||	=68||	=68||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -952,7 +952,7 @@
 1C	.	1G	.	1c	.	.	.
 .	.	.	.	.	.	2e	.
 =157	=157	=157	=157	=157	=157	=157	=157
-0FFl	-men.	0Fl	-men.	0cl	-men.	0fl	-men.
+1FFl	-men.	1Fl	-men.	1cl	-men.	1fl	-men.
 *	*	*Xlig	*	*	*	*	*
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-

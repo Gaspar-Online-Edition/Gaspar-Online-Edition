@@ -294,7 +294,7 @@
 .	.	.	.	8GJ	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34
 *	*	*	*Xedit	*	*	*	*Xedit
-0D;	-oth.	0A;	-oth.	0d;	-oth.	0f;	-oth.
+1D;l	-oth.	1A;l	-oth.	1d;l	-oth.	1f;l	-oth.
 !!LO:LB:g=original
 =35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
@@ -518,7 +518,7 @@
 =61	=61	=61	=61	=61	=61	=61	=61
 2D	-cel-	2A	-cel-	2A	-cel-	4g]	.
 .	.	.	.	.	.	4f#i	.
-0GG	-sis.	0G	-sis.	0B	-sis.	0g	-sis.
+1GGl	-sis.	1Gl	-sis.	1Bl	-sis.	1gl	-sis.
 !!LO:PB:g=original
 =62||	=62||	=62||	=62||	=62||	=62||	=62||	=62||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -953,7 +953,7 @@
 .	.	.	.	.	.	4f#i	.
 *	*Xedit	*	*Xedit	*	*Xedit	*	*Xedit
 =142	=142	=142	=142	=142	=142	=142	=142
-0GGl	-sis.	0Gl	-sis.	0dl	-sis.	0gl	-sis.
+1GGl	-sis.	1Gl	-sis.	1dl	-sis.	1gl	-sis.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

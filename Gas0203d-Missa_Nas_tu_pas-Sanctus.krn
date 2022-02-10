@@ -319,12 +319,12 @@
 4C	.	.	.	4c	.	4e	.
 =48	=48	=48	=48	=48	=48	=48	=48
 *	*	*	*Xedit	*	*	*	*
-4.D	.	[1F	-oth.	4.A	.	[1f	-oth.
+4.D	.	[1Fl	-oth.	4.A	.	[1fl	-oth.
 8C	.	.	.	8B-y	.	.	.
 4AA	-ba-	.	.	4c	-ba-	.	.
 4BB-y	.	.	.	4d	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49
-0FF	-oth.	0F]	.	0c	-oth.	0f]	.
+1FFl	-oth.	1F]	.	1cl	-oth.	1f]	.
 .	.	.	.	.	.	.	.
 !!LO:LB:g=original
 =50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||
@@ -491,7 +491,7 @@
 2C	-cel-	2G	-cel-	2c	-cel-	.	.
 .	.	.	.	.	.	4e	.
 =75	=75	=75	=75	=75	=75	=75	=75
-0FF	-sis.	0F	-sis.	0c	-sis.	0f	-sis.
+1FFl	-sis.	1Fl	-sis.	1cl	-sis.	1fl	-sis.
 !!LO:LB:g=original
 =76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -835,7 +835,7 @@
 2C	-cel-	2G	-cel-	.	.	.	.
 .	.	.	.	.	.	4e	.
 =126	=126	=126	=126	=126	=126	=126	=126
-0FFl	-sis.	0Fl	-sis.	0cl	-sis.	0fl	-sis.
+1FFl	-sis.	1Fl	-sis.	1cl	-sis.	1fl	-sis.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

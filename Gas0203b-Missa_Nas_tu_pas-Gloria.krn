@@ -297,7 +297,7 @@
 .	.	.	.	8Bni	.	8g	.
 *Xlig	*	*	*	*	*	*	*
 =45	=45	=45	=45	=45	=45	=45	=45
-0C	-tris.	0G	-tris.	0c	-tris.	0e	-tris.
+1Cl	-tris.	1Gl	-tris.	1cl	-tris.	1el	-tris.
 !!LO:LB:g=original
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -631,7 +631,7 @@
 2C	.	2G	.	2c]	.	4f]	.
 .	.	.	.	.	.	4e	.
 *	*	*	*	*	*	*	*Xedit
-0FFl	-men.	0Fl	-men.	0cl	men.	0fl	men.
+2FFl	-men.	2Fl	-men.	2cl	men.	2fl	men.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

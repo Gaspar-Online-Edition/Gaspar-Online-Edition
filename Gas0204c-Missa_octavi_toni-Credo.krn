@@ -551,7 +551,7 @@
 .	.	.	.	8AJ	.	.	.
 =81	=81	=81	=81	=81	=81	=81	=81
 *	*	*	*Xedit	*	*Xedit	*	*Xedit
-0GGl	est.	0Gl	est.	0Bl 0dl	est.	0gl	est.
+1GGl	est.	1Gl	est.	1Bl 1dl	est.	1gl	est.
 *Xlig	*	*	*	*	*	*	*
 !!LO:LB:g=original
 =82||	=82||	=82||	=82||	=82||	=82||	=82||	=82||
@@ -626,7 +626,7 @@
 .	.	.	.	4F#i	-tus	.	.
 !!LO:LB:g=original
 =96	=96	=96	=96	=96	=96	=96	=96
-0GG	est.	0r	.	0G	est.	0r	.
+1GGl	est.	1r	.	1Gl	est.	1r	.
 !!LO:LB:g=original
 =97||	=97||	=97||	=97||	=97||	=97||	=97||	=97||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -760,7 +760,7 @@
 .	.	2A	.	.	.	.	.
 .	.	.	.	.	.	4f#i	.
 =120	=120	=120	=120	=120	=120	=120	=120
-0r	.	0Gl	-tris.	0r	.	0gl	-tris.
+1r	.	1Gl	-tris.	1r	.	1gl	-tris.
 !!LO:LB:g=original
 =121||	=121||	=121||	=121||	=121||	=121||	=121||	=121||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -1318,7 +1318,7 @@
 .	.	.	.	.	.	2f#i	.
 !!LO:LB:g=original
 =235	=235	=235	=235	=235	=235	=235	=235
-0GGl	-men.	0Gl	-men.	0dl	-men.	0gl	-men.
+1GGl	-men.	1Gl	-men.	1dl	-men.	1gl	-men.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

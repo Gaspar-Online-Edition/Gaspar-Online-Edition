@@ -177,7 +177,7 @@
 2D	-ley-	2A	.	.	.	.	.
 .	.	.	.	.	.	4f#i	.
 =25	=25	=25	=25	=25	=25	=25	=25
-0GG	-son.	0G	-son.	0d	-son.	0g	-son.
+1GGl	-son.	1Gl	-son.	1dl	-son.	1gl	-son.
 !!LO:PB:g=original
 =26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -343,7 +343,7 @@
 .	.	.	.	.	.	8e-j	.
 =50	=50	=50	=50	=50	=50	=50	=50
 *	*Xedit	*	*	*	*Xedit	*	*Xedit
-0D	-son.	0A	-son.	0d	-son.	0f	-son.
+1Dl	-son.	1Al	-son.	1dl	-son.	1fl	-son.
 !!LO:PB:g=original
 =51||	=51||	=51||	=51||	=51||	=51||	=51||	=51||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -505,7 +505,7 @@
 .	.	.	.	.	.	4f#i	.
 *	*	*	*	*	*Xedit	*	*
 =76	=76	=76	=76	=76	=76	=76	=76
-0GGl	-son.	0Gl	-son.	0dl	-son.	0gl	-son.
+1GGl	-son.	1Gl	-son.	1dl	-son.	1gl	-son.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

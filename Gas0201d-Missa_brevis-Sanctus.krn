@@ -322,7 +322,7 @@
 *Xlig	*	*	*	*	*	*	*
 =44	=44	=44	=44	=44	=44	=44	=44
 *	*Xedit	*	*Xedit	*	*Xedit	*	*Xedit
-0G	-oth.	0G	-oth.	0d	-oth.	0g	-oth.
+1Gl	-oth.	1Gl	-oth.	1dl	-oth.	1gl	-oth.
 !!LO:LB:g=original	*	*	*	*	*	*	*	*
 =45||	=45||	=45||	=45||	=45||	=45||	=45||	=45||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -610,7 +610,7 @@
 .	.	.	.	.	.	4f#i	.
 =89	=89	=89	=89	=89	=89	=89	=89
 *	*Xedit	*	*	*	*	*	*Xedit
-0G	-sis.	0G	-sis.	0d	-sis.	0g	-sis.
+1Gl	-sis.	1Gl	-sis.	1dl	-sis.	1gl	-sis.
 !!LO:LB:g=original	*	*	*	*	*	*	*	*
 =90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -1028,7 +1028,7 @@
 *	*Xedit	*	*Xedit	*Xcol	*	*	*Xedit
 .	.	.	.	.	.	2f#i	.
 =154	=154	=154	=154	=154	=154	=154	=154
-0Gl	-sis.	0Gl	-sis.	0dl	-sis.	0gl	-sis.
+1Gl	-sis.	1Gl	-sis.	1dl	-sis.	1gl	-sis.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]

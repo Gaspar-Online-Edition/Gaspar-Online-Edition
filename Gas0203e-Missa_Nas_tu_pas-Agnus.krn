@@ -144,7 +144,7 @@
 .	.	4B-y	.	.	.	.	.
 .	.	.	.	8e	.	8g	.
 =19	=19	=19	=19	=19	=19	=19	=19
-0FF 0F	-bis.	0c	-bis.	0f	-bis.	0a	-bis.
+1FFl 1Fl	-bis.	1cl	-bis.	1fl	-bis.	1al	-bis.
 !!LO:PB:g=original
 =20||	=20||	=20||	=20||	=20||	=20||	=20||	=20||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -349,7 +349,7 @@
 8AA	.	4F	.	.	.	8eL	.
 8FFJ	.	.	.	.	.	8dJ	.
 =49	=49	=49	=49	=49	=49	=49	=49
-0C	-bis.	0G	-bis.	0c	-bis.	0e	-bis.
+1Cl	-bis.	1Gl	-bis.	1cl	-bis.	1el	-bis.
 !!LO:LB:g=original
 =50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
@@ -537,7 +537,7 @@
 2C	pa-	2G	.	.	.	.	.
 .	.	.	.	.	.	4e	.
 =76	=76	=76	=76	=76	=76	=76	=76
-0FFl	-cem.	0Fl	-cem.	0cl	-cem.	0fl	-cem.
+1FFl	-cem.	1Fl	-cem.	1cl	-cem.	1fl	-cem.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
