@@ -15,6 +15,10 @@
 use strict;
 use Getopt::Long;
 
+my $double = `which double`;
+chomp $double;
+die "Install humlib to use double tool in this script.\n" if $double =~ /^\s*$/;
+
 my $eraseQ = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
@@ -62,11 +66,11 @@ sub processFile {
 	return if $filename =~ /^Gas0509\.2/;
 
 	if ($filename =~ /Gas030[12]/) {
-		# files are already in non-reduced form
+		# Gas0301* and Gas0302* are already in non-reduced form
 		`cp -f "$sourcedir/$filename" "$targetdir/$filename"`;
 		`echo "\!\!\!ONB: from https://www.gaffurius-codices.ch/s/portal/page/editions" >> "$targetdir/$filename"`;
 	} else {
-		`cat "$sourcedir/$filename" | double > "$targetdir/$filename"`;
+		`cat "$sourcedir/$filename" | $double > "$targetdir/$filename"`;
 		`echo "\!\!\!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms" >> "$targetdir/$filename"`;
 	}
 }
