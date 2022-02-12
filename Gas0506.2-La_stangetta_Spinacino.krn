@@ -1,4 +1,3 @@
-!!!RNB: voices? m.25 check new voice appearance
 !!!COS: Isaac
 !!!LAR: Francesco Spinacino
 !!!OTL: La stangetta
@@ -6,7 +5,6 @@
 !!!AGN: Song; Chanson
 !!!SCT: Gas0506.2
 !!!SCA: Gas0506.2
-!!!voices:
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
@@ -449,3 +447,4 @@
 !!!YEM: CC-BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 !!!EED: Zybina, Karina
 !!!EEV: 2021/08/26
+!!!muse2ps: C^@{COS}^i2I150v90,90,120c122z18l2700t130

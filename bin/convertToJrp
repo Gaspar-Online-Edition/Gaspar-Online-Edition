@@ -50,6 +50,17 @@ foreach my $file (@files) {
 
 sub processFile {
 	my ($filename, $sourcedir, $targetdir) = @_;
+
+	# Filter out intabulations:
+	return if $filename =~ /^Gas0405\.2/;
+	return if $filename =~ /^Gas0412\.2/;
+	return if $filename =~ /^Gas0506\.2/;
+	# Gas0506.2-La_stangetta_Spinacino.krn?
+	return if $filename =~ /^Gas0506\.3/;
+	return if $filename =~ /^Gas0507\.2/;
+	return if $filename =~ /^Gas0508\.2/;
+	return if $filename =~ /^Gas0509\.2/;
+
 	if ($filename =~ /Gas030[12]/) {
 		# files are already in non-reduced form
 		`cp -f "$sourcedir/$filename" "$targetdir/$filename"`;
