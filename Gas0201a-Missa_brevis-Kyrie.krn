@@ -13,10 +13,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]	*>Kyrie1[A]
+*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]	*>Christe[B]
+*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]	*>Kyrie2[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Kyrie I
 =1	=1	=1	=1	=1	=1	=1	=1
 2.G	Ky-	2.G	Ky-	2.d	Ky-	2.g	Ky-
 4G	-ri-	4G	-ri-	4d	-ri-	4g	-ri-
@@ -137,8 +143,10 @@
 1Gl	-son.	1Gl	-son.	1dl	-son.	1gl	-son.
 !!LO:LB:g=original
 =18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
+!!section: Christe
 2D	Chri-	1r	.	1r	.	1r	.
 4D	-ste	.	.	.	.	.	.
 [4E	.	.	.	.	.	.	.
@@ -285,10 +293,13 @@
 1Dl	-son	1dl	-son.	1f#jl	-son.	1al	-son.
 !!LO:LB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!!ONB: Why are the mensural signs not matching the text here?
 !!LO:TX:a:t=C| (A, B)
 !!LO:TX:a:t=C (S, T)
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
+!!section: Kyrie II
 1r	.	2A	Ky-	2r	.	1r	.
 .	.	2B-y	-ri-	2d	Ky-	.	.
 =41	=41	=41	=41	=41	=41	=41	=41
