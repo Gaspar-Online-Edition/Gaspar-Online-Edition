@@ -99,13 +99,13 @@ Gas0302g-Quam_pulchra_es-Mater_patris_filia.krn	Gas0302g	2g. <hlstart>Mater patr
 Gas0302h-Quam_pulchra_es-Tota_pulchra_es.krn	Gas0302h	2h. <hlstart>Tota pulchra es<hlend>
 
 @Gas0303a:Gas0303b:Gas0303c:Gas0303d:Gas0303e:Gas0303e.2:Gas0303f	Gas0303	3. In honorem sancti spiritus
-Gas0303a-Spiritus_domini.krn	Gas0303a	3a. <hlstart>Spiritus domini<hlend>
-Gas0303b-Veni_sancte_spiritus.krn	Gas0303b	3b. <hlstart>Veni sancte spiritus<hlend>
-Gas0303c-Beata_gens.krn	Gas0303c	3c. <hlstart>Beata gens<hlend>
-Gas0303d-Confirma_hoc_deus.krn	Gas0303d	3d. <hlstart>Confirma hoc, deus<hlend>
-Gas0303e-Loquebantur_variis_linguis.krn	Gas0303e	3e. <hlstart>Loquebantur variis linguis<hlend>
-Gas0303e.2-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e2. <hlstart>Sancti spiritus adsit nobis<hlend> (Anonymous)
-Gas0303f-Factus_est_repente.krn	Gas0303f	3f. <hlstart>Factus est repente<hlend>
+Gas0303a-In_honorem_sancti_spiritus-Spiritus_domini.krn	Gas0303a	3a. <hlstart>Spiritus domini<hlend>
+Gas0303b-In_honorem_sancti_spiritus-Veni_sancte_spiritus.krn	Gas0303b	3b. <hlstart>Veni sancte spiritus<hlend>
+Gas0303c-In_honorem_sancti_spiritus-Beata_gens.krn	Gas0303c	3c. <hlstart>Beata gens<hlend>
+Gas0303d-In_honorem_sancti_spiritus-Confirma_hoc_deus.krn	Gas0303d	3d. <hlstart>Confirma hoc, deus<hlend>
+Gas0303e-In_honorem_sancti_spiritus-Loquebantur_variis_linguis.krn	Gas0303e	3e. <hlstart>Loquebantur variis linguis<hlend>
+Gas0303e.2-In_honorem_sancti_spiritus-Sancti_spiritus_adsit_nobis.krn	Gas0303e.2	3e2. <hlstart>Sancti spiritus adsit nobis<hlend> (Anonymous)
+Gas0303f-In_honorem_sancti_spiritus-Factus_est_repente.krn	Gas0303f	3f. <hlstart>Factus est repente<hlend>
 
 @dummy	Gas04	<br> </div><h2>IV. Motets</h2>
 
