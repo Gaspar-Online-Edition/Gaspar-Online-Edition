@@ -48,7 +48,7 @@ Gas0201e-Missa_brevis-Agnus.krn	Gas0201e	Agnus Dei
 Gas0202a-Missa_Et_trop_penser-Kyrie.krn	Gas0202a	Kyrie
 Gas0202b-Missa_Et_trop_penser-Gloria.krn	Gas0202b	Gloria
 Gas0202c-Missa_Et_trop_penser-Credo.krn	Gas0202c	Credo
-Gas0202d-Missa_Et_trop_penser-Sanctus.krm	Gas0202d	Sanctus
+Gas0202d-Missa_Et_trop_penser-Sanctus.krn	Gas0202d	Sanctus
 Gas0202e-Missa_Et_trop_penser-Agnus.krn	Gas0202e	Agnus Dei
 
 @Gas0203a:Gas0203b:Gas0203c:Gas0203d:Gas0203e	Gas0203	7. Missa N'as tu pas
@@ -116,15 +116,15 @@ Gas0404-Salve_sancta_parens.krn	Gas0404	4. <hlstart>Salve sancta parens<hlend>
 Gas0405-Virgo_maria_non_est_tibi_similis.krn	Gas0405	5. <hlstart>Virgo maria non est tibi similis<hlend>
 Gas0405.2-Virgo_maria_non_est_tibi_similis.krn	Gas0405.2	5. <hlstart>Virgo maria non est tibi similis<hlend> (organ intabulation)
 Gas0406-Christi_mater_ave.krn	Gas0406	6. <hlstart>Christi mater ave<hlend>
-Gas0407-Mater_digna_Dei.krn Gas0407	7. <hlstart>Mater digna Dei<hlend>
+Gas0407-Mater_digna_Dei.krn	Gas0407	7. <hlstart>Mater digna Dei<hlend>
 Gas0408-Ave_stella_matutina.krn	Gas0408	8. <hlstart>Ave stella matutina<hlend>
 Gas0409-Ibo_mihi_ad_montem_Mirrhe.krn	Gas0409	9. <hlstart>Ibo mihi ad montem Mirrhe<hlend>
 Gas0410-O_pulcherrima_mulierum.krn	Gas0410	10. <hlstart>O pulcherrima mulierum<hlend>
-Gas0411-Vidi_speciosam_sicut_columbam.krn Gas0411	11. <hlstart>Vidi speciosam sicut columbam<hlend>
+Gas0411-Vidi_speciosam_sicut_columbam.krn	Gas0411	11. <hlstart>Vidi speciosam sicut columbam<hlend>
 Gas0412-Adonay_sanctissime_domine_deus.krn	Gas0412	12. <hlstart>Adonay sanctissime domine deus<hlend>
 Gas0412.2-Adonay_sanctissime_Domine_Deus.krn	Gas0412.2	12. <hlstart>Adonay sanctissime Domine Deus<hlend> (organ intabulation)
 Gas0413-O_beate_Sebastiane.krn	Gas0413	13. <hlstart>O beate Sebastiane<hlend>
-Gas0414-Anima_Christi_sanctifica_me	Gas0414	14. <hlstart>Anima Christi sanctifica me<hlend>
+Gas0414-Anima_Christi_sanctifica_me.krn	Gas0414	14. <hlstart>Anima Christi sanctifica me<hlend>
 Gas0415-Ave_verum_corpus.krn	Gas0415	15. <hlstart>Ave verum corpus<hlend>
 Gas0416-Panis_angelicus.krn	Gas0416	16. <hlstart>Panis angelicus<hlend>
 Gas0417-Tenebre_facte_sunt.krn	Gas0417	17. <hlstart>Tenebre facte sunt<hlend>
@@ -138,12 +138,14 @@ Ano0423-O_inextimabilis_dilectio.krn	Gas0423	23. <hlstart>O inextimabilis dilect
 @dummy	Gas0500	<br> </div><h2>V. Settings of liturgical texts</h2>
 
 @Gas0501a:Gas0501b:Gas0501c:Gas0501d:Gas0501e:Gas0501f	Gas0501	Lamentations
-Gas0501a-Lamentationes Ieremiae prophetae.krn	Gas0501a	1a. <hlstart>Lamentationes Ieremiae prophatae<hlend>
-Gas0501b-A_Giovedi_Lectio_secunda.krn	Gas0501b	1b. <hlstart>A Giovedi. Lectio secunda<hlend>
-Gas0501c-A_Giovedi_Lectio_tertia.krn	Gas0501c	1c. <hlstart>A Giovedi. Lectio tertia<hlend>
+Gas0501a-In_coena_Domini_Lectio_prima.krn	Gas0501a	1a. <hlstart>In coena Domini. Lectio prima<hlend>
+Gas0501b-In_coena_Domini_Lectio_secunda.krn	Gas0501b	1b. <hlstart>In coena Domini. Lectio secunda<hlend>
+Gas0501c-In_coena_Domini_Lectio_tertia.krn	Gas0501c	1c. <hlstart>In coena Domini. Lectio tertia<hlend>
 Gas0501d-Sabato_sancto_Lectio_prima.krn	Gas0501d	1d. <hlstart>Sabato sancto. Lectio prima<hlend>
 Gas0501e-Sabato_sancto_Lectio_secunda.krn	Gas0501e	1e. <hlstart>Sabato sancto. Lectio secunda<hlend>
-Gas0501f-Sabato sancto_Lectio tertia.krn	Gas0501f	1f. <hlstart>Sabato sancto. Lectio tertia<hlend>
+Gas0501f-Sabato_sancto_Lectio_tertia.krn	Gas0501f	1f. <hlstart>Sabato sancto. Lectio tertia<hlend>
+
+
 
 @dummy	Gas0502a	<br> </div><h2>V. Magnificat</h2>
 
@@ -162,10 +164,10 @@ Gas0506.3-La_stangetta_Neusidler.krn	Gas0506.3	6. <hlstart>La strangetta Neusidl
 Gas0507-O_Venus_bant.krn	Gas0507	7. <hlstart>O Venus bant<hlend>
 Gas0507.2-O_Venus_bant_Spinacino.krn	Gas0507.2	7. <hlstart>O Venus bant / Spinacino<hlend>
 Gas0508-Vray_dieu_quel_payne_messe.krn	Gas0508	8. <hlstart>Vray dieu que payne m'esse<hlend>
-Gas0508.2-Vray_dieu_que.krnl	Gas0508.2	8. <hlstart>Vray dieu que<hlend>
+Gas0508.2-Vray_dieu_que.krn	Gas0508.2	8. <hlstart>Vray dieu que<hlend>
 Gas0509-Jay_pris_amours_De_tous_biens_plaine.krn	Gas0509	9. <hlstart>J'ay pris amours / De tous biens plaine<hlend>
 Gas0509.2-Jay_pris_amours.krn	Gas0509.2	9. <hlstart>J'ay pris amours<hlend>
-Gas0510-Ce_nest_pas_sans.krn	Gas0510	10. <hlstart>Ce n'est pas sans<hlend>
+Ano0510-Ce_nest_pas_sans.krn	Gas0510	10. <hlstart>Ce n'est pas sans<hlend> (Anonymous)
 
 
 
