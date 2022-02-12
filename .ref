@@ -65,8 +65,8 @@ Gas0204c-Missa_Octavi_toni-Credo.krn	Gas0204c	Credo
 Gas0204d-Missa_Octavi_toni-Sanctus.krn	Gas0204d	Sanctus
 Gas0204e-Missa_Octavi_toni-Agnus.krn	Gas0204e	Agnus Dei
 
-@Gas0205:Gas0206	Gas0205	9. Credos
-Gas0205-Credo.krn	Gas0205	Credo
+@Gas0205:Gas0206	Gas0205a	9. Credos
+Gas0205-Credo.krn	Gas0205b	Credo
 Gas0206-Credo_cardinale.krn	Gas0206	Credo cardinale
 
 @Gas0207a:Gas0207b:Gas0207c:Gas0207d:Gas0207e	Gas0207	10. Missa [sine nomine] (Anonymous)
