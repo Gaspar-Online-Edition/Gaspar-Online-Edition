@@ -15,7 +15,7 @@
 *d:	*	*d:	*	*d:	*	*d:	*
 *M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
 !!LO:TX:a:t=[C3]
-*met(C3)	*	*met(C3)	*	*met(C3)	*	*met(C3)	*
+*omet(C3)	*	*omet(C3)	*	*omet(C3)	*	*omet(C3)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	2G	A-	1.r	.	1.r	.
 .	.	4G	-ve	.	.	.	.

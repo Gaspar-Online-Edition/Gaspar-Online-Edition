@@ -13,7 +13,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1GG	A-	1G	A-	1d	A-	1g	A-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -181,7 +181,7 @@
 !!LO:TX:t=[whole] = [whole-dot]
 !!LO:TX:t= C|3
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*
 1GG	E-	1G	E-	1d	E-	1.r	.
 2D	-sto	2F	-sto	2d	-sto	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
@@ -237,7 +237,7 @@
 =56	=56	=56	=56	=56	=56	=56	=56
 !!LO:TX:t=[whole-dot] = [whole]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 2r	.	2r	.	2r	.	2r	.
 2BB-y	O	2d	O	2f	O	2b-y	O
 =57	=57	=57	=57	=57	=57	=57	=57

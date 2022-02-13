@@ -13,7 +13,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1GG	Ver-	1G	Ver-	1d	Ver-	1g	Ver-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -208,7 +208,7 @@
 !!LO:TX:t=[whole] = [whole-dot]
 !!LO:TX:a:t=[0/3]
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*
 1.r	.	1G	A-	1g	A-	1.r	.
 .	.	2G	-ve	2e	-ve	.	.
 !!LO:PB:g=original
@@ -462,7 +462,7 @@
 =103	=103	=103	=103	=103	=103	=103	=103
 !!LO:TX:t=[whole-dot] = [whole]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1GGl;	-ne.	1Gl;	-ne.	1Bl;	-ne.	1gl;	-ne.
 =104	=104	=104	=104	=104	=104	=104	=104
 2r	.	2r	.	2r	.	2r	.

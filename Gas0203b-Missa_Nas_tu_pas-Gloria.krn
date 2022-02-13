@@ -18,7 +18,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 2F	Et	2F	Et	2c	Et	2f	Et
@@ -307,7 +307,7 @@
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Qui tollis
 2FF	Qui	1r	.	1r	.	1r	.
 4FF	tol-	.	.	.	.	.	.

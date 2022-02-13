@@ -13,7 +13,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *MM180	*	*MM180	*	*MM180	*	*MM180	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1A	Pa-	1r	.	1r	.
@@ -672,7 +672,7 @@
 !!LO:LB:g=original
 =125||	=125||	=125||	=125||	=125||	=125||	=125||	=125||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *	*	*	*Xedit	*	*Xedit	*	*
 1r	.	1D	Et	1d	Et	1r	.
 =126	=126	=126	=126	=126	=126	=126	=126
@@ -1207,7 +1207,7 @@
 !!LO:LB:g=original
 =224||	=224||	=224||	=224||	=224||	=224||	=224||	=224||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1A	Et	1r	.	1c	Et	1r	.
 =225	=225	=225	=225	=225	=225	=225	=225
 *	*	*	*Xedit	*	*	*	*

@@ -14,7 +14,7 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *d:	*	*d:	*	*d:	*	*d:	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	2F	A-	[1.f	A-
 .	.	.	.	4.F	.	.	.
@@ -522,7 +522,7 @@
 !!LO:LB:g=original
 =55||	=55||	=55||	=55||	=55||	=55||	=55||	=55||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!LO:TX:t=[whole-dot]=[whole]
 1r	.	1F	Gau-	1r	.	[[1f	Gau-
 =56	=56	=56	=56	=56	=56	=56	=56
@@ -1035,7 +1035,7 @@
 !!LO:LB:g=original
 =150||	=150||	=150||	=150||	=150||	=150||	=150||	=150||
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 !!LO:TX:t=[whole]=[whole-dot]
 !!LO:TX:a:t=[3]
 1.r	.	1.r	.	1E	et	1c	et

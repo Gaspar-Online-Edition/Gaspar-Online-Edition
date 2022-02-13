@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 [1G	.	2r	.	1r	.	1r	.
 .	.	2G	San-	.	.	.	.
@@ -326,7 +326,7 @@
 !!LO:LB:g=original	*	*	*	*	*	*	*	*
 =45||	=45||	=45||	=45||	=45||	=45||	=45||	=45||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C2)	*	*met(C2)	*	*met(C2)	*	*met(C2)	*
+*omet(C2)	*	*omet(C2)	*	*omet(C2)	*	*omet(C2)	*
 *	*	*	*	*lig	*	*	*
 1r	.	1r	.	[1d	Ple-	2f	Ple-
 .	.	.	.	.	.	8fL	.
@@ -614,7 +614,7 @@
 !!LO:LB:g=original	*	*	*	*	*	*	*	*
 =90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1r	.	1r	.	2g	Be-	1r	.
 .	.	.	.	4g	-ne-	.	.
 .	.	.	.	[4g	-di-	.	.
@@ -896,7 +896,7 @@
 *Xlig	*	*	*	*	*	*	*
 =133	=133	=133	=133	=133	=133	=133	=133
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 *	*	*	*Xedit	*	*	*	*
 !!LO:TX:t=[whole]=[whole-dot]
 !!LO:TX:a:t=[C |3]

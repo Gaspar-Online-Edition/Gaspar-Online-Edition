@@ -13,7 +13,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *lig	*	*	*	*	*	*	*	*	*
 2GG	Dul-	1G	Dul-	1.r	.	1.r	.	1.r	.
@@ -584,7 +584,7 @@
 =71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||
 !!LO:TX:t=[whole] = [whole-dot]
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1GG	Ro-	1B-y	Ro-	1r	.	1d	Ro-	1g	Ro-
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
 2GG	-ga-	2B-y	-ga-	1r	.	2d	-ga-	2g	-ga-

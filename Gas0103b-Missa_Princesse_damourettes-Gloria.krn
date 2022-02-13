@@ -18,7 +18,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	2G	Et	1g	Et
@@ -525,7 +525,7 @@
 =57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Qui tollis
 *	*	*	*	*	*Xedit	*	*
 1GG	Qui	1r	.	[1G	Qui	1r	.
@@ -1023,7 +1023,7 @@
 !!LO:TX:a:t=[whole] = [whole-dot]
 =148	=148	=148	=148	=148	=148	=148	=148
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 *	*Xedit	*	*edit	*	*	*	*
 1C	Cum	1G	Cum	1g	-ste.	1e	-ste.
 2C	San-	2G	San-	2c	Cum	2e	Cum

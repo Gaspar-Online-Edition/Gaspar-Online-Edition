@@ -21,7 +21,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	1G	Pa-	2.g	Pa-
@@ -479,7 +479,7 @@
 =53||	=53||	=53||	=53||	=53||	=53||	=53||	=53||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et incarnatus
 1r	.	1r	.	1A	Et	1r	.
 =54	=54	=54	=54	=54	=54	=54	=54
@@ -868,7 +868,7 @@
 =122||	=122||	=122||	=122||	=122||	=122||	=122||	=122||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et iterum
 1r	.	1r	.	1G	Et	1r	.
 =123	=123	=123	=123	=123	=123	=123	=123
@@ -1378,7 +1378,7 @@
 !!LO:LB:g=original
 =220	=220	=220	=220	=220	=220	=220	=220
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met()	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet()	*
 !!LO:TX:t=[whole] = [whole-dot]
 !!LO:TX:a:t=[3]
 1.D	-rum.	1.F	-rum.	1A	-rum.	1f	-rum.

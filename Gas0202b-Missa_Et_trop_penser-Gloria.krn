@@ -20,7 +20,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	1.G	Et	1g	Et
@@ -477,7 +477,7 @@
 =53||	=53||	=53||	=53||	=53||	=53||	=53||	=53||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Domine fili
 [1G	-Do-	1r	.	1G	-Do-	1r	.
 =54	=54	=54	=54	=54	=54	=54	=54
@@ -704,7 +704,7 @@
 =91||	=91||	=91||	=91||	=91||	=91||	=91||	=91||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Qui tollis
 1G	Qui	1r	.	1r	.	1r	.
 =92	=92	=92	=92	=92	=92	=92	=92
@@ -836,7 +836,7 @@
 .	.	.	.	4f#i	.	.	.
 =115	=115	=115	=115	=115	=115	=115	=115
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 !!LO:TX:t=[whole]=[whole-dot]
 !!LO:TX:a:t=[3]
 1G	sus-	1.r	.	1g	-di,	2dd	Sus-
@@ -908,7 +908,7 @@
 *Xlig	*	*	*	*	*	*	*
 =127	=127	=127	=127	=127	=127	=127	=127
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1GG	-tris,	1G	Mi-	4.G	-tris,	1b-y	.
 .	.	.	.	8A	.	.	.
 .	.	.	.	4B-y	.	.	.
@@ -1142,7 +1142,7 @@
 !!LO:LB:g=original
 =167	=167	=167	=167	=167	=167	=167	=167
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 !!LO:TX:t=[whole]=[whole-dot]
 !!LO:TX:a:t=[3]
 [1.GG	-ste.	1.G	-ste.	1.r	.	1.g	-ste.

@@ -20,7 +20,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+*omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
 !!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	1G	Et	1g	Et
@@ -420,7 +420,7 @@
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Domine fili
 *	*	*	*	*	*Xedit	*	*
 1r	.	1r	.	2c	Do-	1r	.
@@ -631,7 +631,7 @@
 =82||	=82||	=82||	=82||	=82||	=82||	=82||	=82||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Qui tollis
 1r	.	1r	.	1r	.	1g	Qui
 =83	=83	=83	=83	=83	=83	=83	=83
@@ -948,7 +948,7 @@
 =135||	=135||	=135||	=135||	=135||	=135||	=135||	=135||
 *>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*
 !!section: Tu solus
 1.r	.	1.r	.	1.c	Tu	1.r	.
 =136	=136	=136	=136	=136	=136	=136	=136

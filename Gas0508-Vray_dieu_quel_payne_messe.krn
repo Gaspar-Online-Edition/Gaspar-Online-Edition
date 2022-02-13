@@ -14,7 +14,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:a:t=[Bassus composed by Paul Kolb]	!	!	!	!	!	!	!
 1r	.	1r	.	1G	Vray	1r	.
@@ -155,7 +155,7 @@
 .	.	.	.	.	.	2f#i	.
 =34	=34	=34	=34	=34	=34	=34	=34
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 1.G	-lours.	1.G	-lours.	2d	-lours.	1.g	-lours.
 .	.	.	.	2e	.	.	.
 .	.	.	.	2g	.	.	.

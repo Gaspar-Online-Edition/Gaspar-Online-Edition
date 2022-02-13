@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 0G	O	0G	O	[0d	O	0g	O
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -293,7 +293,7 @@
 !!LO:LB:g=ap
 =48	=48	=48	=48	=48	=48	=48	=48
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 1.G	Gut-	1.G	-mam.	1d	Gut-	1.g	-mam.
 .	.	.	.	2d	-tur	.	.
 1E-i	-tur	1.G	Gut-	2.e-X	il-	1.g	Gut-

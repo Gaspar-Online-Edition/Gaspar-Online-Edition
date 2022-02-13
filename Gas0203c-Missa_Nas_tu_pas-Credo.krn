@@ -19,7 +19,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1r	.	2F	Pa-	2f	Pa-
@@ -434,7 +434,7 @@
 =68||	=68||	=68||	=68||	=68||	=68||	=68||	=68||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Crucifixus
 1r	.	1r	.	2r	.	4f	Cru-
 .	.	.	.	.	.	4f	-ci-
@@ -847,7 +847,7 @@
 !!LO:TX:t=[whole]=[whole-dot]
 =137	=137	=137	=137	=137	=137	=137	=137
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O|)	*	*met(O|)	*	*met(O|)	*	*met(O|)	*
+*omet(O|)	*	*omet(O|)	*	*omet(O|)	*	*omet(O|)	*
 1FF	-rum.	1F	-rum.	2r	.	2%3r	.
 .	.	.	.	2r	.	.	.
 2r	.	2r	.	2F	Et	.	.

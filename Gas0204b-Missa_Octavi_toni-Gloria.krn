@@ -22,7 +22,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 1.G	Et	1.G	Et	1d	Et	(((((1g)))))	Et
@@ -359,7 +359,7 @@
 =43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Domine fili
 *	*Xedit	*	*	*	*	*	*
 1D	Do-	1A	Do-	1r	.	1r	.
@@ -479,7 +479,7 @@
 =70||	=70||	=70||	=70||	=70||	=70||	=70||	=70||
 *>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Domine deus
 1r	.	1D	Do-	1A	Do-	1f	Do-
 =71	=71	=71	=71	=71	=71	=71	=71
@@ -909,7 +909,7 @@
 =174||	=174||	=174||	=174||	=174||	=174||	=174||	=174||
 *>F	*>F	*>F	*>F	*>F	*>F	*>F	*>F
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*
 !!section: Cum sancto spirito
 *	*	*	*	*col	*	*	*
 1.r	.	1.r	.	1G	Cum	1.r	.

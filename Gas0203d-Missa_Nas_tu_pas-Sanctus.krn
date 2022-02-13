@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1F	San-	[1F	San-	1c	San-	1f	San-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -329,7 +329,7 @@
 !!LO:LB:g=original
 =50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *	*	*	*	*	*Xedit	*	*Xedit
 1r	.	1r	.	8FL	Ple-	2a	Ple-
 .	.	.	.	8G	.	.	.
@@ -495,7 +495,7 @@
 !!LO:LB:g=original
 =76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *	*	*	*	*	*Xedit	*	*
 1r	.	1r	.	2.f	Be-	2f	Be-
 .	.	.	.	.	.	4a	-ne-

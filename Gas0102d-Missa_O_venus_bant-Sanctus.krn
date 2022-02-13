@@ -14,7 +14,7 @@
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+*omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=C. (T)
 !!LO:TX:a:t=O| (S, A, B)
@@ -367,7 +367,7 @@
 !!LO:LB:g=original
 =41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1r	.	1r	.	1D	Ple-	1r	.
 =42	=42	=42	=42	=42	=42	=42	=42
 1r	.	1r	.	2E	.	2r	.
@@ -670,7 +670,7 @@
 !!LO:TX:a:t=C. (T)
 !!LO:TX:a:t=O| (S, A, B)
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+*omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
 *	*	*	*	*	*	*lig	*
 2.G	O-	1.G	O-	2d	O-	2.g	O-
 .	.	.	.	4B	.	.	.
@@ -807,7 +807,7 @@
 !!LO:LB:g=original
 =102||	=102||	=102||	=102||	=102||	=102||	=102||	=102||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1r	.	1r	.	4.D	Be-	1r	.
 .	.	.	.	8E	.	.	.
 .	.	.	.	4F	.	.	.
@@ -1122,7 +1122,7 @@
 =151||	=151||	=151||	=151||	=151||	=151||	=151||	=151||
 !!LO:TX:a:t=C|3
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*
 *	*	*	*	*	*	*col	*
 *	*	*lig	*	*	*	*	*
 *col	*	*col	*	*	*	*	*

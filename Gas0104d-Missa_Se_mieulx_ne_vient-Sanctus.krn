@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1.D	San-	1.r	.	1.r	.	1d	San-
 .	.	.	.	.	.	2f	.
@@ -349,7 +349,7 @@
 !!LO:PB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*Xedit	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*Xedit	*omet(C|)	*
 2.G	Ple-	1r	.	[1B	Ple-	1r	.
 8FL	.	.	.	.	.	.	.
 8EJ	.	.	.	.	.	.	.
@@ -634,7 +634,7 @@
 =88||	=88||	=88||	=88||	=88||	=88||	=88||	=88||
 !!LO:TX:a:t=C3
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(C3)	*	*met(C3)	*	*met(C3)	*	*met(C3)	*
+*omet(C3)	*	*omet(C3)	*	*omet(C3)	*	*omet(C3)	*
 1.D	O-	1.D	O-	1.r	.	1.d	O-
 =89	=89	=89	=89	=89	=89	=89	=89
 *lig	*	*	*	*	*	*col	*
@@ -897,7 +897,7 @@
 !!LO:PB:g=original
 =131||	=131||	=131||	=131||	=131||	=131||	=131||	=131||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 4.D	Be-	1r	.	[1d	Be-	1r	.
 8E	.	.	.	.	.	.	.
 4F	.	.	.	.	.	.	.

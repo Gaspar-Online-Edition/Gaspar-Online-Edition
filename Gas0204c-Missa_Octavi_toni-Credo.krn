@@ -23,7 +23,7 @@
 *oclefF4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.G	Pa-	1.r	.	1g	Pa-
@@ -450,7 +450,7 @@
 =57||	=57||	=57||	=57||	=57||	=57||	=57||	=57||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et incarnatus
 1GG	Et	1G	Et	1d	Et	1g	Et
 =58	=58	=58	=58	=58	=58	=58	=58
@@ -567,7 +567,7 @@
 =82||	=82||	=82||	=82||	=82||	=82||	=82||	=82||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Crucifixus
 2GG	Cru-	1r	.	1r	.	1r	.
 2C	-ci-	.	.	.	.	.	.
@@ -643,7 +643,7 @@
 =97||	=97||	=97||	=97||	=97||	=97||	=97||	=97||
 *>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et resurexit
 1r	.	2G	Et	1r	.	1r	.
 .	.	4c	re-	.	.	.	.
@@ -779,7 +779,7 @@
 =121||	=121||	=121||	=121||	=121||	=121||	=121||	=121||
 *>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!setion: Et iterum
 1G	Et	[1B	Et	1d	Et	1g	Et
 =122	=122	=122	=122	=122	=122	=122	=122
@@ -1165,7 +1165,7 @@
 !	!	!	!	!LO:TX:a:t=[whole]=[whole-dot]	!	!	!
 =207	=207	=207	=207	=207	=207	=207	=207
 *M3/3%2	*	*M3/3%2	*	*M3/3	*	*	*
-*met(3)	*	*met(3)	*	*met(3)	*	*	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*	*
 *Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*
 3%2.r	.	3%2d	in	3%2f	in	1a]	.
 .	.	3c	re-	3e	re-	.	.
@@ -1182,7 +1182,7 @@
 !	!	!	!	!	!	!LO:TX:a:t=[whole] = [whole-dot]	!
 =210	=210	=210	=210	=210	=210	=210	=210
 *M3/2	*	*M3/2	*	*3/2	*	*M3/2	*
-*met()	*	*met()	*	*met()	*	*met(C|3)	*
+*omet()	*	*omet()	*	*omet()	*	*omet(C|3)	*
 !!primary-mensuration: met(3)
 2D	-mis-	1.r	.	1d	-nem,	1d	in
 2F	-si-	.	.	.	.	.	.

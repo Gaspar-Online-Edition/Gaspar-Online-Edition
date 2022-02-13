@@ -20,7 +20,7 @@
 *clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Agnus I
 =1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*col	*	*	*
@@ -399,7 +399,7 @@
 =43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Agnus II
 2.C	A-	1r	.	1C	A-	1r	.
 4AA	.	.	.	.	.	.	.

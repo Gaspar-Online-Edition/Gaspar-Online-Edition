@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 *lig	*	*	*	*lig	*	*	*
 1G	To-	0G	To-	1d	To-	0g	To-
@@ -187,7 +187,7 @@
 *	*	*	*	*	*Xedit	*	*
 =23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||
 *M9/2	*	*M9/2	*	*M9/2	*	*M9/2	*
-*met(O3)	*	*met(O3)	*	*met(O3)	*	*met(O3)	*
+*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*
 1.B-	Iam	1.G	Iam	1.d	Iam	1g	Iam
 .	.	.	.	.	.	2b-	.
 1G	e-	1.r	.	1.g	e-	1b-	e-

@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1G	A-	1d	A-	1g	A-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -271,7 +271,7 @@
 !!LO:LB:g=original
 =38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 2D	A-	2D	A-	1r	.	1r	.
 4C	.	4E	.	.	.	.	.
 [4D	-gnus	[4F	-gnus	.	.	.	.
@@ -535,7 +535,7 @@
 !!LO:LB:g=original
 =78||	=78||	=78||	=78||	=78||	=78||	=78||	=78||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1r	.	1r	.	1D	A-	1r	.
 =79	=79	=79	=79	=79	=79	=79	=79
 1r	.	1r	.	2E	-gnus	2r	.
@@ -766,7 +766,7 @@
 !!LO:LB:g=original
 =114	=114	=114	=114	=114	=114	=114	=114
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!LO:TX:a:t=[C |3]
 !!LO:TX:t=[whole]=[whole-dot]
 1BB-y	-di:	2.d	do-	1B-y	-di,	1.r	.

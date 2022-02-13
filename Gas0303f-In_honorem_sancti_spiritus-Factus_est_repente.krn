@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1r	.	1G	Fac-	1g	Fac-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -285,7 +285,7 @@
 !!LO:PB:g=original
 =44	=44	=44	=44	=44	=44	=44	=44
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*
 !!LO:TX:a:t=O/3
 *	*	*	*	*	*Xedit	*	*Xedit
 1.GG	-ia.	1.G	-ia.	1.B	-ia.	1.g	-ia.

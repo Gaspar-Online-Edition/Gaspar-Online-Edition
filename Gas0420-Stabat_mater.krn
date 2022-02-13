@@ -13,7 +13,7 @@
 *clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1E	Sta-	1.r	.	1B	Sta-	1e	Sta-
 .	.	2E	-bat	.	.	2c	-bat	2e	-bat
@@ -673,7 +673,7 @@
 1.EE;	-am.	1.BB;	-am.	1.G;	-mis	1.E;	-am.	1.g;	-am.
 =83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *	*	*	*	*	*	*	*Xedit	*	*
 1r	.	1r	.	1r	.	2E	San-	1r	.
 .	.	.	.	.	.	4.E	-cta	.	.

@@ -20,7 +20,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Kyrie I
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	2G	Ky-	2g	Ky-
@@ -217,7 +217,7 @@
 =21||	=21||	=21||	=21||	=21||	=21||	=21||	=21||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Christe
 1r	.	1r	.	1G	Chri-	[1b	Chri-
 =22	=22	=22	=22	=22	=22	=22	=22
@@ -536,7 +536,7 @@
 =78||	=78||	=78||	=78||	=78||	=78||	=78||	=78||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+*omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
 !!section: Kyrie II
 *	*	*	*Xedit	*	*	*	*
 2.GG	Ky-	[1.G	Ky-	1.d	Ky-	1.r	.

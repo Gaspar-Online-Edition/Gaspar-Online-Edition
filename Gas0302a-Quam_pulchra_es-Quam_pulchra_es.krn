@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 0G	Quam	0G	Quam	1.d	Quam	0g	Quam
 .	.	.	.	[2B-	pul-	.	.
@@ -218,7 +218,7 @@
 .	.	.	.	.	.	2f#i	-a.
 =38	=38	=38	=38	=38	=38	=38	=38
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 0.r	.	1G	Ve-	0.r	.	1g	Ve-
 .	.	2G	-ni,	.	.	2g	-ni,
 .	.	1d	di-	.	.	1b-	di-

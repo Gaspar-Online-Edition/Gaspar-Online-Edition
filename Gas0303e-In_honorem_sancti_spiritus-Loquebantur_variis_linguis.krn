@@ -15,7 +15,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 [1GG	Lo-	2G	Lo-	1r	.	1r	.
 .	.	8GL	.	.	.	.	.
@@ -413,7 +413,7 @@
 !!LO:LB:g=original
 =60	=60	=60	=60	=60	=60	=60	=60
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*
 !!LO:TX:a:t=[O/3]
 1G	da-	1.G	-tus	1g	-tus	1.g	-tus
 2G	-bat	.	.	2e	da-	.	.

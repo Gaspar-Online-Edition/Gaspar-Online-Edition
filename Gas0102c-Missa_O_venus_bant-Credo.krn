@@ -20,7 +20,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
 !!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	1G	Pa-	1g	Pa-
@@ -382,7 +382,7 @@
 =41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et incarnatus
 1GG	Et	1r	.	1G	Et	1r	.
 =42	=42	=42	=42	=42	=42	=42	=42
@@ -697,7 +697,7 @@
 =103||	=103||	=103||	=103||	=103||	=103||	=103||	=103||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C)	*	*omet(C|)	*	*omet(C|)	*
 !!section: Et iterum
 1r	.	1r	.	1r	.	1g	Et
 =104	=104	=104	=104	=104	=104	=104	=104

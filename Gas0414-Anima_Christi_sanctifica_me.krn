@@ -13,7 +13,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1
 2AA	A-	2E	A-	2c	A-	2a	A-
 4AA	-ni-	4E	-ni-	4c	-ni-	4a	-ni-
@@ -157,7 +157,7 @@
 !!LO:TX:t=[whole] = [whole-dot]
 !!LO:TX:a:t=[O/3]
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O/3)	*	*met(O/3)	*	*met(O/3)	*	*met(O/3)	*
+*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*
 *lig	*	*	*	*	*	*	*
 2AA	Ne	2.E	Ne	2c	Ne	1.r	.
 2C	.	.	.	2G	per-	.	.

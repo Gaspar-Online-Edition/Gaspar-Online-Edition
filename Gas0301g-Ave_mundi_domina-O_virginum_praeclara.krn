@@ -16,7 +16,7 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *MM320	*	*MM320	*	*MM320	*	*MM320	*
 =1	=1	=1	=1	=1	=1	=1	=1
 [0GG	O	0G	O	[0d	O	[0g	O
@@ -188,7 +188,7 @@
 *	*Xedit	*	*Xedit	*	*	*	*
 =35	=35	=35	=35	=35	=35	=35	=35
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *MM220	*	*MM220	*	*MM220	*	*MM220	*
 1GG	O	0r	.	1G	O	0r	.
 2BB-	glo-	.	.	2G	glo-	.	.
