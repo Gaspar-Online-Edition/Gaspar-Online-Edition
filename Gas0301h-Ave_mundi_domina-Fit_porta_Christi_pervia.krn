@@ -16,7 +16,7 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 *MM340	*	*MM340	*	*MM340	*	*MM340	*
 =1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	0r	.	1g	Fit
