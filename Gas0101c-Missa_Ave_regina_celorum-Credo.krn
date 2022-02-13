@@ -12,10 +12,14 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
+*>QuiPropter[B]	*>QuiPropter[B]	*>QuiPropter[B]	*>QuiPropter[B]	*>QuiPropter[B]	*>QuiPropter[B]	*>QuiPropter[B]	*>QuiPropter[B]
+*>EtResurexit[C]	*>EtResurexit[C]	*>EtResurexit[C]	*>EtResurexit[C]	*>EtResurexit[C]	*>EtResurexit[C]	*>EtResurexit[C]	*>EtResurexit[C]
 *clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 *	*	*	*	*col	*	*	*
 1.r	.	1.r	.	[1.F	Pa-	1F	Pa-
@@ -420,8 +424,10 @@
 1FF;	sunt.	1F;	sunt.	1D;	sunt.	1A;	sunt.
 !!LO:LB:g=original
 =48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Qui propter
 1r	.	1r	.	1C	Qui	2.c	Qui
 .	.	.	.	.	.	8B-yL	.
 .	.	.	.	.	.	8AJ	.
@@ -861,6 +867,8 @@
 1E;	est.	1r	.	1c;	est.	1e;	est.
 !!LO:LB:g=original
 =128||	=128||	=128||	=128||	=128||	=128||	=128||	=128||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: Et resurexit
 [1FF	Et	[1F	Et	[1A	Et	[1c	Et
 =129	=129	=129	=129	=129	=129	=129	=129
 1FF]	.	1F]	.	1A]	.	1c_	.
@@ -1401,11 +1409,10 @@
 8E	.	.	.	.	.	8B-y	.
 2C	-nem	.	.	4.G	-nem	2c	-nem
 .	.	.	.	8A	.	.	.
+!!LO:TX:t=[whole] = [whole-dot]
 =234	=234	=234	=234	=234	=234	=234	=234
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(3)	*	*met(3)	*	*met(3)	*	*met(3)	*
-!!LO:TX:t=[whole] = [whole-dot]
-!!LO:TX:a:t=[3]
 *	*	*	*	*lig	*	*	*
 *	*	*	*	*col	*	*	*
 1.BB-y	pec-	[1.F	Et	1B-y	pec-	1d	pec-
