@@ -12,12 +12,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]
+*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
+*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
+*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
+*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
+!!section: Sanctus
 =1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:t=C. (T)
-!!LO:TX:a:t=O| (S, A, B)
 1.r	.	1.r	.	1G	San-	1g	San-
 .	.	.	.	2A	.	2f	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -366,8 +371,10 @@
 2GGl	-oth.	.	.	2dl	-oth.	.	.
 !!LO:LB:g=original
 =41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Pleni
 1r	.	1r	.	1D	Ple-	1r	.
 =42	=42	=42	=42	=42	=42	=42	=42
 1r	.	1r	.	2E	.	2r	.
@@ -667,11 +674,11 @@
 1GGl	-a.	1r	.	1Gl	-a.	1gl	-a.
 !!LO:LB:g=original
 =90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||
-!!LO:TX:a:t=C. (T)
-!!LO:TX:a:t=O| (S, A, B)
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
 *	*	*	*	*	*	*lig	*
+!!section: Osanna
 2.G	O-	1.G	O-	2d	O-	2.g	O-
 .	.	.	.	4B	.	.	.
 4F	.	.	.	4G	.	2b	.
@@ -806,8 +813,10 @@
 1.GGl	-sis.	1.Gl	-sis.	1.dl	-sis.	1.gl	-sis.
 !!LO:LB:g=original
 =102||	=102||	=102||	=102||	=102||	=102||	=102||	=102||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Benedictus
 1r	.	1r	.	4.D	Be-	1r	.
 .	.	.	.	8E	.	.	.
 .	.	.	.	4F	.	.	.
