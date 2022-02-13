@@ -19,6 +19,10 @@ my $double = `which double`;
 chomp $double;
 die "Install humlib to use double tool in this script.\n" if $double =~ /^\s*$/;
 
+my $shed = `which shed`;
+chomp $shed;
+die "Install humlib to use shed tool in this script.\n" if $shed =~ /^\s*$/;
+
 my $eraseQ = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
@@ -70,7 +74,8 @@ sub processFile {
 		`cp -f "$sourcedir/$filename" "$targetdir/$filename"`;
 		`echo "\!\!\!ONB: from https://www.gaffurius-codices.ch/s/portal/page/editions" >> "$targetdir/$filename"`;
 	} else {
-		`cat "$sourcedir/$filename" | $double > "$targetdir/$filename"`;
+		# Unreduce rhythms and show mensuration signs instead of time signatures.
+		`cat "$sourcedir/$filename" | $double | $shed -e "s/^omet\\(/met(/I" > "$targetdir/$filename"`;
 		`echo "\!\!\!ONB: from http://www.gaspar-van-weerbeke.sbg.ac.at/gaspar-online-edition with doubled rhythms" >> "$targetdir/$filename"`;
 	}
 }
