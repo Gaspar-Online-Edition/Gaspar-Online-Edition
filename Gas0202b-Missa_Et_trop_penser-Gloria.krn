@@ -13,12 +13,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]
+*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
-2%3r	.	2%3r	.	1.G	Et	1g	Et
+1.r	.	1.r	.	1.G	Et	1g	Et
 .	.	.	.	.	.	4d	in
 .	.	.	.	.	.	4e	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -470,8 +475,10 @@
 1.GG]	.	1.Gl	-tens.	1.d]	.	1.g]	.
 !!LO:LB:g=original
 =53||	=53||	=53||	=53||	=53||	=53||	=53||	=53||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Domine fili
 [1G	-Do-	1r	.	1G	-Do-	1r	.
 =54	=54	=54	=54	=54	=54	=54	=54
 *col	*	*	*	*	*	*	*
@@ -695,8 +702,10 @@
 1GGl	-tris.	1r	.	1Gl	-tris.	1gl	-tris.
 !!LO:LB:g=original
 =91||	=91||	=91||	=91||	=91||	=91||	=91||	=91||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Qui tollis
 1G	Qui	1r	.	1r	.	1r	.
 =92	=92	=92	=92	=92	=92	=92	=92
 4G	tol-	1r	.	1d	Qui	1r	.

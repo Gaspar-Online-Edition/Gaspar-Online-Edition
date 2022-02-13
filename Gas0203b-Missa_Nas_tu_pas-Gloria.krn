@@ -12,10 +12,14 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 2F	Et	2F	Et	2c	Et	2f	Et
 .	.	.	.	.	.	.	.
@@ -298,11 +302,13 @@
 *Xlig	*	*	*	*	*	*	*
 =45	=45	=45	=45	=45	=45	=45	=45
 1Cl	-tris.	1Gl	-tris.	1cl	-tris.	1el	-tris.
+*	*Xedit	*	*	*	*	*	*
 !!LO:LB:g=original
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-*	*Xedit	*	*	*	*	*	*
+!!section: Qui tollis
 2FF	Qui	1r	.	1r	.	1r	.
 4FF	tol-	.	.	.	.	.	.
 4FF	-lis	.	.	.	.	.	.

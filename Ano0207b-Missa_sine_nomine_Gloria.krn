@@ -12,10 +12,14 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 2G	Et	2G	Et	2d	Et	((((2g))))	Et
 4G	in	4B-y	in	4d	in	4g	in
@@ -283,7 +287,9 @@
 1GGl	-tris.	1Gl	-tris.	1dl	-tris.	1gl	-tris.
 !!LO:LB:g=original
 =49||	=49||	=49||	=49||	=49||	=49||	=49||	=49||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+!!section: Qui tollis
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 2D	Qui	2d	Qui	2A	Qui	2r	.
 2D	tol-	2d	tol-	2A	tol-	2a	Qui

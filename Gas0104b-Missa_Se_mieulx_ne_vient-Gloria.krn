@@ -12,10 +12,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>DomineDeus[B]	*>DomineDeus[B]	*>DomineDeus[B]	*>DomineDeus[B]	*>DomineDeus[B]	*>DomineDeus[B]	*>DomineDeus[B]	*>DomineDeus[B]
+*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 2D	Et	1.r	.	2D	Et	1.r	.
 4BB	in	.	.	4D	in	.	.
@@ -417,8 +422,10 @@
 1GGl	-ste.	1Gl	[Chri]-ste.	1gl	-ste.	1gl	-ste.
 !!LO:LB:g=original
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Domine deus
 1r	.	1r	.	2G	Do-	1r	.
 .	.	.	.	4A	.	.	.
 .	.	.	.	4G	.	.	.
@@ -661,6 +668,8 @@
 1GGl	-tris.	1r	.	1Gl	-tris.	1Gl	-tris.
 !!LO:LB:g=original
 =83||	=83||	=83||	=83||	=83||	=83||	=83||	=83||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: Qui tollis
 1r	.	1r	.	2G	Qui	2g	Qui
 .	.	.	.	2G	tol-	2g	tol-
 =84	=84	=84	=84	=84	=84	=84	=84

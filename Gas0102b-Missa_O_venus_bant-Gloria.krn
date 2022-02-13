@@ -12,13 +12,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]
+*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]	*>QuiTollis[C]
+*>ToSolus[D]	*>ToSolus[D]	*>ToSolus[D]	*>ToSolus[D]	*>ToSolus[D]	*>ToSolus[D]	*>ToSolus[D]	*>ToSolus[D]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O|)	*	*met(C.)	*	*met(O|)	*	*met(O|)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:t=O| (S, A, B)
-!!LO:TX:a:t=C. (T)
 1.r	.	1.r	.	1G	Et	1g	Et
 .	.	.	.	2A	in	2f	in
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -414,8 +418,10 @@
 1.Cl	-ens.	1.Gl	--ens.	1.cl	-ens.	1.el	-ens.
 !!LO:PB:g=original
 =46||	=46||	=46||	=46||	=46||	=46||	=46||	=46||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Domine fili
 *	*	*	*	*	*Xedit	*	*
 1r	.	1r	.	2c	Do-	1r	.
 .	.	.	.	[2c	-mi-	.	.
@@ -623,10 +629,10 @@
 1Cl	-tris.	1r	.	1cl	-tris.	1el	-tris.
 !!LO:LB:g=original
 =82||	=82||	=82||	=82||	=82||	=82||	=82||	=82||
-!!LO:TX:a:t=C| (S, A, B)
-!!LO:TX:a:t=C (T)
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
+!!section: Qui tollis
 1r	.	1r	.	1r	.	1g	Qui
 =83	=83	=83	=83	=83	=83	=83	=83
 1r	.	1r	.	1r	.	2g	tol-
@@ -938,10 +944,12 @@
 =134	=134	=134	=134	=134	=134	=134	=134
 *	*	*	*edit	*	*	*	*Xedit
 1GGl	-ctus.	1Gl	--ctus.	1Gl 1dl	-ctus.	1Gl	-ctus.
+*	*	*	*	*	*Xedit	*	*Xedit
 =135||	=135||	=135||	=135||	=135||	=135||	=135||	=135||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(C|3)	*	*met(C|3)	*	*met(C|3)	*Xedit	*met(C|3)	*
-!!LO:TX:a:t=C|3
+*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+!!section: Tu solus
 1.r	.	1.r	.	1.c	Tu	1.r	.
 =136	=136	=136	=136	=136	=136	=136	=136
 1.r	.	1.r	.	1c	so-	1.g	Tu

@@ -12,10 +12,18 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]	*>EtInTerraPax[A]
+*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]	*>DomineFili[B]
+*>Jesu1[C]	*>Jesu1[C]	*>Jesu1[C]	*>Jesu1[C]	*>Jesu1[C]	*>Jesu1[C]	*>Jesu1[C]	*>Jesu1[C]
+*>DomineDeus[D]	*>DomineDeus[D]	*>DomineDeus[D]	*>DomineDeus[D]	*>DomineDeus[D]	*>DomineDeus[D]	*>DomineDeus[D]	*>DomineDeus[D]
+*>Jesu2[E]	*>Jesu2[E]	*>Jesu2[E]	*>Jesu2[E]	*>Jesu2[E]	*>Jesu2[E]	*>Jesu2[E]	*>Jesu2[E]
+*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]	*>CumSanctoSpirito[F]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Et in terra pax
 =1	=1	=1	=1	=1	=1	=1	=1
 1.G	Et	1.G	Et	1d	Et	(((((1g)))))	Et
 .	.	.	.	4d	in	2g	in
@@ -349,8 +357,10 @@
 1GGl	-ens.	1Gl	-ens.	1dl	-ens.	1gl	-ens.
 !!LO:LB:g=original
 =43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Domine fili
 *	*Xedit	*	*	*	*	*	*
 1D	Do-	1A	Do-	1r	.	1r	.
 =44	=44	=44	=44	=44	=44	=44	=44
@@ -452,9 +462,11 @@
 .	.	4G#i	-ni-	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64
 1AAl	-te	1Al	-te	1r	.	1r	.
+*	*Xedit	*	*Xedit	*	*	*	*
 !!LO:PB:g=original
 =65||	=65||	=65||	=65||	=65||	=65||	=65||	=65||
-*	*Xedit	*	*Xedit	*	*	*	*
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: Jesu Christe I
 1AA;	Je-	1A;	Je-	1c;	Je-	1e;	Je-
 =66	=66	=66	=66	=66	=66	=66	=66
 1D;	-su	1A;	-su	1d;	-su	1f;	-su
@@ -465,8 +477,10 @@
 =69	=69	=69	=69	=69	=69	=69	=69
 1D;l	-ste.	1A;l	-ste.	1d;l	-ste.	1f;l	-ste.
 =70||	=70||	=70||	=70||	=70||	=70||	=70||	=70||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!section: Domine deus
 1r	.	1D	Do-	1A	Do-	1f	Do-
 =71	=71	=71	=71	=71	=71	=71	=71
 1r	.	2D	-mi-	2A	-mi-	2f	-mi-
@@ -880,9 +894,10 @@
 .	.	.	.	2d	.	2f#i	.
 =169	=169	=169	=169	=169	=169	=169	=169
 1E;l	-mus,	1G;l	-mus,	1B;l	-mus,	1g;l	-mus,
-*Xlig	*	*	*	*	*	*	*
+*Xlig	*Xedit	*	*Xedit	*	*Xedit	*	*
 =170||	=170||	=170||	=170||	=170||	=170||	=170||	=170||
-*	*Xedit	*	*Xedit	*	*Xedit	*	*
+*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
+!!section: Jesu Christe II
 1C;	Je-	1G;	Je-	1c;	Je-	1e;	Je-
 =171	=171	=171	=171	=171	=171	=171	=171
 1D;	-su	1F;	-su	1A;	-su	1f;	-su
@@ -892,9 +907,10 @@
 1C;l	-ste.	1G;l	-ste.	1c;l	-ste.	1e;l	-ste.
 !!LO:LB:g=original
 =174||	=174||	=174||	=174||	=174||	=174||	=174||	=174||
+*>F	*>F	*>F	*>F	*>F	*>F	*>F	*>F
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
-!!LO:TX:a:t=[C |3]
+*met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+!!section: Cum sancto spirito
 *	*	*	*	*col	*	*	*
 1.r	.	1.r	.	1G	Cum	1.r	.
 .	.	.	.	[2G	San-	.	.
