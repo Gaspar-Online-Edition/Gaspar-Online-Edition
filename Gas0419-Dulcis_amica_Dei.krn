@@ -10,10 +10,15 @@
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Contratenor 2	*	*I"Tenor	*	*I"Contratenor 1	*	*I"Superius	*
 *I'B	*	*I'Ct2	*	*I'T	*	*I'Ct1	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]	*>Dulcis[A]
+*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]	*>Rogamus[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
+!!section: Dulcis amica
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *lig	*	*	*	*	*	*	*	*	*
 2GG	Dul-	1G	Dul-	1.r	.	1.r	.	1.r	.
@@ -581,10 +586,12 @@
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
 1.Dl	-as.	1.Al	-as.	1.r	.	1.dl	-as.	1.fl	-as.
 !!LO:LB:g=original
-=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||
 !!LO:TX:t=[whole] = [whole-dot]
+=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||	=71||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Rogamus
 1GG	Ro-	1B-y	Ro-	1r	.	1d	Ro-	1g	Ro-
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
 2GG	-ga-	2B-y	-ga-	1r	.	2d	-ga-	2g	-ga-
