@@ -9,10 +9,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>AveNostra[A]	*>AveNostra[A]	*>AveNostra[A]	*>AveNostra[A]	*>AveNostra[A]	*>AveNostra[A]	*>AveNostra[A]	*>AveNostra[A]
+*>Salve[B]	*>Salve[B]	*>Salve[B]	*>Salve[B]	*>Salve[B]	*>Salve[B]	*>Salve[B]	*>Salve[B]
+*>OClemens[C]	*>OClemens[C]	*>OClemens[C]	*>OClemens[C]	*>OClemens[C]	*>OClemens[C]	*>OClemens[C]	*>OClemens[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Ave nostra salus
 =1	=1	=1	=1	=1	=1	=1	=1
 1D	A-	1A	A-	1d	A-	1f	A-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -110,6 +116,8 @@
 =32	=32	=32	=32	=32	=32	=32	=32
 1GGl	-sti.	1Gl	-sti.	1dl	-sti.	1gl	-sti.
 =33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+!!section: Salve salus mundi
 *	*Xedit	*	*Xedit	*	*Xedit	*	*
 1D	Sal-	1A	Sal-	1d	Sal-	1f	Sal-
 =34	=34	=34	=34	=34	=34	=34	=34
@@ -194,6 +202,8 @@
 =59	=59	=59	=59	=59	=59	=59	=59
 1GGl	-mo.	1Gl	-mo.	1dl	-mo.	1gl	-mo.
 =60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: O clemens
 2r	.	2r	.	2r	.	2r	.
 *	*Xedit	*	*Xedit	*	*Xedit	*	*
 2AA	O	2E	O	2A	O	2cc	O

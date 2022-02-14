@@ -10,11 +10,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]
+*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]
+*>Gaude[B]	*>Gaude[B]	*>Gaude[B]	*>Gaude[B]	*>Gaude[B]	*>Gaude[B]	*>Gaude[B]	*>Gaude[B]
+*>Vale[C]	*>Vale[C]	*>Vale[C]	*>Vale[C]	*>Vale[C]	*>Vale[C]	*>Vale[C]	*>Vale[C]
+*>EtProNobis[D]	*>EtProNobis[D]	*>EtProNobis[D]	*>EtProNobis[D]	*>EtProNobis[D]	*>EtProNobis[D]	*>EtProNobis[D]	*>EtProNobis[D]
 *clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *d:	*	*d:	*	*d:	*	*d:	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
+!!section: Ave regina
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	2F	A-	[1.f	A-
 .	.	.	.	4.F	.	.	.
@@ -520,10 +526,12 @@
 =54	=54	=54	=54	=54	=54	=54	=54
 1FF;	-ta.	1F;	-ta.	1C;	-ta.	1A;	-ta.
 !!LO:LB:g=original
+!!LO:TX:t=[whole-dot]=[whole]
 =55||	=55||	=55||	=55||	=55||	=55||	=55||	=55||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
-!!LO:TX:t=[whole-dot]=[whole]
+!!section: Gaude gloriosa
 1r	.	1F	Gau-	1r	.	[[1f	Gau-
 =56	=56	=56	=56	=56	=56	=56	=56
 1r	.	2F	.	1r	.	1f]	.
@@ -854,6 +862,8 @@
 =116	=116	=116	=116	=116	=116	=116	=116
 1FFl;	-sa,	1F]	.	1Al;	-sa,	1cl;	-sa,
 =117||	=117||	=117||	=117||	=117||	=117||	=117||	=117||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: Vale, vale
 *lig	*	*	*	*	*	*	*
 1FF	va-	1r	.	1r	.	1r	.
 =118	=118	=118	=118	=118	=118	=118	=118
@@ -1033,11 +1043,12 @@
 1AA;	-ra,	1A;	-ra,	1E;	-ra,	1c;	-ra,
 *Xlig	*	*	*	*	*	*	*
 !!LO:LB:g=original
+!!LO:TX:t=[whole]=[whole-dot]
 =150||	=150||	=150||	=150||	=150||	=150||	=150||	=150||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
-!!LO:TX:t=[whole]=[whole-dot]
-!!LO:TX:a:t=[3]
+!!section: Et pro nobis
 1.r	.	1.r	.	1E	et	1c	et
 .	.	.	.	2D	pro	2B-y	pro
 =151	=151	=151	=151	=151	=151	=151	=151

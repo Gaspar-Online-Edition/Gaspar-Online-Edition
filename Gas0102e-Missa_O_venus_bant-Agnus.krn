@@ -21,6 +21,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O|)	*	*omet(C.)	*	*omet(O|)	*	*omet(O|)	*
+!!primary-mensuration: met(O|)
 !!section: Agnus I
 =1	=1	=1	=1	=1	=1	=1	=1
 1.r	.	1.r	.	1G	A-	1g	A-
@@ -762,6 +763,7 @@
 *clefGv2	*	*clefF4	*	*clefGv2	*	*clefG2	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C)	*	*omet(C|)	*	*omet(C|)	*
+!!primary-mensuration: met(C|)
 !!section: Agnus III
 *	*Xedit	*	*	*	*	*	*
 !LO:TX:a:t=Canon&colon; Descenderunt in profundis quasi lapis	!	!	!	!	!	!	!

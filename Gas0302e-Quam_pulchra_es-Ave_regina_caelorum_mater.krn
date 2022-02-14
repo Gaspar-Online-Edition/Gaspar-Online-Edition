@@ -12,10 +12,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Cantus	*
 *I'B	*	*I'T	*	*I'A	*	*I'C	*
+*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]	*>AveRegina[A]
+*>AveCorpus[B]	*>AveCorpus[B]	*>AveCorpus[B]	*>AveCorpus[B]	*>AveCorpus[B]	*>AveCorpus[B]	*>AveCorpus[B]	*>AveCorpus[B]
+*>Munus[C]	*>Munus[C]	*>Munus[C]	*>Munus[C]	*>Munus[C]	*>Munus[C]	*>Munus[C]	*>Munus[C]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+!!section: Ave regina
 =1	=1	=1	=1	=1	=1	=1	=1
 0D	A-	0r	.	0r	.	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -358,6 +364,8 @@
 0Gl	-um.	0Gl	-um.	0dl	-um.	0gl	-um.
 *	*Xedit	*	*	*	*Xedit	*	*
 =62||	=62||	=62||	=62||	=62||	=62||	=62||	=62||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+!!section: Ave corpus
 0D;	A-	0d;	A-	0f;	A-	0a;	A-
 =63	=63	=63	=63	=63	=63	=63	=63
 0F;	-ve,	0c;	-ve,	0f;	-ve,	0a;	-ve,
@@ -374,6 +382,8 @@
 =68	=68	=68	=68	=68	=68	=68	=68
 0F;	-ni,	0c;	-ni,	0f;	-ni,	0a;	-ni,
 =69||	=69||	=69||	=69||	=69||	=69||	=69||	=69||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+!!section: Munus ed finale
 1D	Mu-	1d	Mu-	1f	Mu-	1a	Mu-
 1D	-nus	1d	-nus	1f	-nus	1a	-nus
 =70	=70	=70	=70	=70	=70	=70	=70

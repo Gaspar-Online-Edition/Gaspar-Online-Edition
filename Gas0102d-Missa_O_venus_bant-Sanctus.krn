@@ -12,11 +12,12 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
-*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]
+*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]	*>[A,B,C,D,E]
 *>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
 *>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
 *>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
 *>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
+*>Osanna[E]	*>Osanna[E]	*>Osanna[E]	*>Osanna[E]	*>Osanna[E]	*>Osanna[E]	*>Osanna[E]	*>Osanna[E]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
@@ -1129,12 +1130,13 @@
 1GGl	-ni.	1r	.	1Gl	-ni.	1gl	-ni.
 !!LO:LB:g=original
 =151||	=151||	=151||	=151||	=151||	=151||	=151||	=151||
+*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 !!LO:TX:a:t=C|3
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*
-*	*	*	*	*	*	*col	*
+!!section: Osanna
+*col	*	*col	*	*	*	*col	*
 *	*	*lig	*	*	*	*	*
-*col	*	*col	*	*	*	*	*
 [1.GG	O-	[1.G	O-	[1.d	O-	[1.g	O-
 =152	=152	=152	=152	=152	=152	=152	=152
 2GG]	.	2G]	.	1.d]	.	2g]	.

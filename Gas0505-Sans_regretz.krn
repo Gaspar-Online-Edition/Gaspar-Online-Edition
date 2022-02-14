@@ -10,11 +10,15 @@
 *staff3	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
 *I"Bassus	*	*	*	*I"Tenor	*	*	*	*I"Superius	*	*	*
 *I'B	*	*	*	*I'T	*	*	*	*I'S	*	*	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]	*>Sans[A]
+*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]	*>QuiNous[B]
 *clefF4	*	*	*	*clefGv2	*	*	*	*clefG2	*	*	*
 *k[b-]	*	*	*	*k[b-]	*	*	*	*k[b-]	*	*	*
 *F:	*	*	*	*F:	*	*	*	*F:	*	*	*
 *M2/2	*	*	*	*M2/2	*	*	*	*M2/2	*	*	*
 *omet(C|)	*	*	*	*omet(C|)	*	*	*	*omet(C|)	*	*	*
+!!section: Sans regretz
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *	*v:1,4,7.	*v:3	*v:5	*	*v:1,4,7.	*v:3	*v:5	*	*v:1,4,7.	*v:3	*v:5
 *	*	*edit	*edit	*	*	*edit	*edit	*	*	*edit	*edit
@@ -219,6 +223,8 @@
 1C;	-re,	-re.	-re.	1c;	-re,	-re.	-re.	1e;	-re,	-re.	-re,
 !!LO:PB:g=original
 =38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+!!section: Qui nous
 *	*v:2,8.	*v:6	*	*	*v:2,8.	*v:6	*	*	*v:2,8.	*v:6	*
 1C	Qui	Par	.	1c	Qui	Par	.	1g	Qui	Par	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39

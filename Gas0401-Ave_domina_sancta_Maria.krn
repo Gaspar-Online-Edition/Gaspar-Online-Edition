@@ -10,10 +10,16 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>AveDomina[A]	*>AveDomina[A]	*>AveDomina[A]	*>AveDomina[A]	*>AveDomina[A]	*>AveDomina[A]	*>AveDomina[A]	*>AveDomina[A]
+*>ToPeperisti[B]	*>ToPeperisti[B]	*>ToPeperisti[B]	*>ToPeperisti[B]	*>ToPeperisti[B]	*>ToPeperisti[B]	*>ToPeperisti[B]	*>ToPeperisti[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+!!section: Tu peperisti
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Ave domina
 =1	=1	=1	=1	=1	=1	=1	=1
 1E	A-	1E	A-	1B	A-	1e	A-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -330,6 +336,8 @@
 =58	=58	=58	=58	=58	=58	=58	=58
 1El;	-to.	1el;	-to.	1Bl;	-to.	1gl;	-to.
 =59||	=59||	=59||	=59||	=59||	=59||	=59||	=59||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+!!section: Tu peperisti
 1C	Tu	2.E	Tu	1r	.	1r	.
 .	.	4F	.	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60

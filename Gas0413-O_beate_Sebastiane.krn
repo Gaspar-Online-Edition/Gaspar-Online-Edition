@@ -10,10 +10,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>OBeate[A]	*>OBeate[A]	*>OBeate[A]	*>OBeate[A]	*>OBeate[A]	*>OBeate[A]	*>OBeate[A]	*>OBeate[A]
+*>Libera[B]	*>Libera[B]	*>Libera[B]	*>Libera[B]	*>Libera[B]	*>Libera[B]	*>Libera[B]	*>Libera[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!setion: O beate Sebastiane
 =1	=1	=1	=1	=1	=1	=1	=1
 1GG	O	1G	O	1d	O	1g	O
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -520,6 +525,8 @@
 1GGl	-ste,	1Gl	-ste,	1dl	-ste,	1gl	-ste,
 !!LO:LB:g=original
 =88||	=88||	=88||	=88||	=88||	=88||	=88||	=88||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+!!section: Libera nos
 1r	.	1r	.	[1B-y	li-	1r	.
 =89	=89	=89	=89	=89	=89	=89	=89
 1r	.	1r	.	2B-]	.	1g	li-

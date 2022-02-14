@@ -10,10 +10,17 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]	*>[A,B,C,D]
+*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
+*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]	*>EtIncarnatus[B]
+*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]	*>Crucifixus[C]
+*>Confiteor[D]	*>Confiteor[D]	*>Confiteor[D]	*>Confiteor[D]	*>Confiteor[D]	*>Confiteor[D]	*>Confiteor[D]	*>Confiteor[D]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
+!!section: Patrem
 =1	=1	=1	=1	=1	=1	=1	=1
 1GG	Pa-	1G	Pa-	1d	Pa-	1g	Pa-
 2GG	-trem	2G	-trem	2B-y	-trem	2g	-trem
@@ -316,8 +323,10 @@
 1GGl	-lis.	1Gl	-lis.	1dl	-lis.	1gl	-lis.
 !!LO:LB:g=original
 =40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Et incarnatus
 [1D	Et	[1A	Et	[1d	Et	[1f	Et
 =41	=41	=41	=41	=41	=41	=41	=41
 1D]	.	1A]	.	1d]	.	1f]	.
@@ -383,8 +392,10 @@
 1GGl	est.	1Gl	est.	1dl	est.	1gl	est.
 !!LO:LB:g=original
 =66||	=66||	=66||	=66||	=66||	=66||	=66||	=66||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Crucifixus
 1D	Cru-	1D	Cru-	1r	.	1r	.
 =67	=67	=67	=67	=67	=67	=67	=67
 2C	-ci-	4.E	-ci-	1r	.	1r	.
@@ -895,12 +906,11 @@
 1GG]	.	1G]	.	1D	-am.	1G]	.
 !!LO:LB:g=original
 =177||	=177||	=177||	=177||	=177||	=177||	=177||	=177||
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
-*omet(O)	*	*omet(O)	*	*omet(O)	*	*omet(O)	*
-!!LO:TX:a:t=[C |3]
-*	*	*	*	*col	*	*	*
-*	*	*col	*	*	*	*	*
-*col	*	*	*	*	*	*	*
+*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*	*omet(C|3)	*
+!!section: Confiteor
+*col	*	*col	*	*col	*	*	*
 1GG	Con-	1G	Con-	1d	Con-	1.r	.
 [2GG	-fi-	[2D	-fi-	[2d	-fi-	.	.
 =178	=178	=178	=178	=178	=178	=178	=178

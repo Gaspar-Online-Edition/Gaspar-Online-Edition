@@ -12,10 +12,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Cantus	*
 *I'B	*	*I'T	*	*I'A	*	*I'C	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Tota[A]	*>Tota[A]	*>Tota[A]	*>Tota[A]	*>Tota[A]	*>Tota[A]	*>Tota[A]	*>Tota[A]
+*>IamEnim[B]	*>IamEnim[B]	*>IamEnim[B]	*>IamEnim[B]	*>IamEnim[B]	*>IamEnim[B]	*>IamEnim[B]	*>IamEnim[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!section: Tota pulchra es
 =1	=1	=1	=1	=1	=1	=1	=1
 *lig	*	*	*	*lig	*	*	*
 1G	To-	0G	To-	1d	To-	0g	To-
@@ -186,8 +191,10 @@
 1r	.	1r	.	1r	.	1r	.
 *	*	*	*	*	*Xedit	*	*
 =23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M9/2	*	*M9/2	*	*M9/2	*	*M9/2	*
 *met(O3)	*	*met(O3)	*	*met(O3)	*	*met(O3)	*
+!!section: Iam enim hiems
 1.B-	Iam	1.G	Iam	1.d	Iam	1g	Iam
 .	.	.	.	.	.	2b-	.
 1G	e-	1.r	.	1.g	e-	1b-	e-

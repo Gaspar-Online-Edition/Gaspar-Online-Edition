@@ -10,10 +10,15 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]	*>Panis[A]
+*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]	*>Pauper[B]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+!!section: Panis angelicus
 =1	=1	=1	=1	=1	=1	=1	=1
 1c	Pa-	1c	Pa-	1g	Pa-	1cc	Pa-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -127,12 +132,13 @@
 *Xlig	*	*	*	*Xlig	*	*Xlig	*
 =36	=36	=36	=36	=36	=36	=36	=36
 1Gl;	.	1Bl;	.	1dl;	.	1gl;	.
+!!LO:TX:t=[whole] = [whole-dot]
 =37||	=37||	=37||	=37||	=37||	=37||	=37||	=37||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 *omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*	*omet(O/3)	*
-!!LO:TX:t=[whole] = [whole-dot]
-!!LO:TX:a:t=[O/3]
-2G	-pau-	1.r	.	2d	-pau-	1.r	.
+!!section: Pauper servus et
+2G	pau-	1.r	.	2d	pau-	1.r	.
 2G	-per,	.	.	2d	-per,	.	.
 2G	ser-	.	.	2d	ser-	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
